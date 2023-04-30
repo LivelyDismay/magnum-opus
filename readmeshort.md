@@ -12,7 +12,7 @@ Click the Play button.
 
 Wait.
 
-Did Wabbajack turn red and say `Installation Failed`? [Might be because of this.](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Long.md#problems-with-wabbajack)
+Did Wabbajack turn red and say `Installation Failed`? [Might be because of this.](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#problems-with-wabbajack)
 
 Did Wabbajack turn green and say `Installation Complete`? Nice, let's go.
 
