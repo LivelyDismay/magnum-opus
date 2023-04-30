@@ -159,7 +159,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Post Installation
 
-This section [has been moved to its own page, just to really make it stand out in its importance.](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/Opus-Readme-Post-Install.md) **Magnum Opus WILL CRASH CONSTANTLY if you do not do this part.**
+This section [has been moved to its own page, just to really make it stand out in its importance.](https://github.com/LivelyDismay/magnum-opus/blob/main/postinstall.md) **Magnum Opus WILL CRASH CONSTANTLY if you do not do this part.**
 
 ---
 
@@ -270,7 +270,7 @@ You may also notice some other mods are deactivated in the CC Profile - namely, 
 
 ## FAQ
 
-I've been doing this for a while now, so [I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/Learn-To-Mod/blob/main/wabbajack-stuff/faq-wip.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
+I've been doing this for a while now, so [I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
 
 ---
 
