@@ -1,3 +1,14 @@
+2023/05/01
+
+Version 6.3.6
+
+Removed Tattoos Collection by Dreivor Overlays Edition (TCD).  
+Removed Energy Weapon Kill FX.  
+
+New GitHub repo too, yay.
+
+---
+
 2023/02/12
 
 Version 6.3.5 (accidentally skipped 6.3.4 because it was just a recompile for the latest Wabbajack update)
