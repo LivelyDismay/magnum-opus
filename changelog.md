@@ -1,3 +1,112 @@
+WIP
+
+This is just to help me keep track of my ongoing work. **This update is not happening any time soon.** Probably at least a couple of months. Waiting for the official Fallout 4 update to drop. Then I have to patch in the CC stuff that is likely to be included.
+
+**There is no ETA.** But you are free to peruse the coming changes - do note, this is not final in any way and is constantly changing. Anything listed here may or may not be accurate for what the future update actually contains.
+
+<details>  
+ **ADDED**  
+ 
+ Buffout 4 NG  
+ Perchik's In-Game Mod Explorer  
+ No Bloodworm Molerats Scorpions Teleport Fix  
+ Terrain Undersides  
+ Settlers of the Commonwealth  
+ 
+ **REMOVED**  
+ 
+ Buffout 4  
+ Dave's ESP Explorer  
+ The Bleachers - A Diamond City Story  
+ Ad Victoriam  
+ B-35C Heavy Brotherhood of Steel Armor  
+ Better Gold Bars  
+ Better UFO Crash Site  
+ Fallout 4 Capital Wasteland Classic Metal Armor  
+ Homemaker - Expanded Settlements  
+ Clean Homemaker Greenhouses  
+ COBRA - Officer's Revolver  
+ Courser Crusher  
+ Energy Weapon Kill FX  
+ Crossbows of the Commonwealth  
+ CROSS PlasRail  
+ Evil Detective  
+ Fallout 4 - Point Lookout  
+ Hilda Hughes - An Institute Story  
+ HK USP .45  
+ Hot Rodder Hazmat Suits  
+ I'm Darlene  
+ HN66s SIRIUS.12 Assault Suit  
+ Improved Disarm  
+ Improved Disarm - Auto Lockpick Consistency  
+ I've Got Wood - Sanctuary Texture Overhaul  
+ Kriss Vector  
+ Legendary Swap with Reasonable Restrictions  
+ NPC Level Scaling  
+ Nuka World Plus  
+ Remove Explosives  
+ Rusty Face Fix  
+ Settlement Tidy Bot  
+ Stevens M-520 Shotgun  
+ STI 2011 DVC - A Relic of the Modern Age  
+ True Storms Wasteland Edition  
+ Vivid Weathers  
+ Waster Armor  
+ Weather Synergy  
+ 
+ **UPDATED**  
+ 
+ Heather Casdin  
+ Unofficial Fallout 4 Patch  
+ Workshop Framework  
+ FallUI - Inventory  
+ FallUI - HUD  
+ FallUI - Workbench  
+ FallUI - Sleep and Wait  
+ FallUI - Confirm Boxes  
+ Who's the General - Minutemen Quest Cleanup  
+ Subversion - The Institute-Railroad Alliance  
+ Far Harbor Story  
+ Nuka-World Monorail Fast Travel  
+ Laser Weapons 1st Person Reposition Fix  
+ The Brotherhood Power Armor Drop Team  
+ Portable Junk Recycler Mk 2  
+ Ownership Fixes  
+ Companion Thoughts Overhaul  
+ Sim Settlements 2  
+ SS2 Chapter 2  
+ Minutemen Watchtowers  
+ Abandoned Tunnels - Underground Railroad Redux  
+ Wasteland Ventures  
+ Superstructures - A Sim Settlements 2 Addon Pack  
+ Pra's Random Addon  
+ SS2 - Nobody's Leaders  
+ Jampads 2 - A Sim Settlements 2 Addon  
+ So I Made Plans  
+ Radiant Municipal Power  
+ SS2 Settlers at Play  
+ Rise of the Commonwealth for SS2  
+ Castle Restoration Project  
+ Choochoo1's The Metro - Vault 88 City Plan  
+ Coastal Cottage - SS2 City Plan  
+ SS2 Nordhagen Beach Seaside Views  
+ SS2 Sanctuary Green Hills  
+ Holotape Display  
+ Hands Off - Locked Settlement Containers  
+ Whisper's Extra Pieces and Snaps  
+ Provisioner and Supply Line Management System  
+ Settlers Go Shopping  
+ Immersive Candles  
+ Wetness Shader Fix  
+ TftC - Visual Fixes  
+ Dark Sci Fi Vault Retexture  
+ Ultimate Window Overhaul  
+ Evil Institute  
+ 
+ </details>
+
+---
+
 2023/05/01
 
 Version 6.3.6
