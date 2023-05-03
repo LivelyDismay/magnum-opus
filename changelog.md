@@ -58,6 +58,7 @@ This is just to help me keep track of my ongoing work. **This update is not happ
  Vivid Weathers  
  Waster Armor  
  Weather Synergy  
+ Notes of the Commonwealth  
  
  ---
  
