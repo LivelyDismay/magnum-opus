@@ -6,6 +6,8 @@ This is just to help me keep track of my ongoing work. **This update is not happ
 
 <details>  
  
+ ---
+ 
  **ADDED**  
  
  Buffout 4 NG  
@@ -13,6 +15,8 @@ This is just to help me keep track of my ongoing work. **This update is not happ
  No Bloodworm Molerats Scorpions Teleport Fix  
  Terrain Undersides  
  Settlers of the Commonwealth  
+ 
+ ---
  
  **REMOVED**  
  
@@ -54,6 +58,8 @@ This is just to help me keep track of my ongoing work. **This update is not happ
  Vivid Weathers  
  Waster Armor  
  Weather Synergy  
+ 
+ ---
  
  **UPDATED**  
  
