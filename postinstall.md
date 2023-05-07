@@ -6,7 +6,7 @@
 
 After Wabbajack turns green and says Installation Complete, you can close it. Go to your installation folder (I will refer to this folder as the MO2 folder from now on) and you'll see a folder named `Game Folder Files`.
 
-Copy all of the files from the `MO2/Game Folder Files` directory into your game folder. To further clarify this, you are copying **the contents** of this folder, not the entire folder itself.
+Copy all of the files from the `MO2/Game Folder Files` directory into your game folder (the Steam folder where you have Fallout 4 installed, for example "C:\SteamLibrary\steamapps\common\Fallout 4" - note that your location may differ). To further clarify this, you are copying **the contents** of this folder, not the entire folder itself.
 
 ---
 
