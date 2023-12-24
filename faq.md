@@ -10,6 +10,8 @@ First, ensure you do NOT have the High Definition DLC active in Steam. If you do
 
 ### I am having random crashes. What do I do?
 
+One possibility is that your grenades got corrupted. I don't know how or why this happens, but it is possible. Unequip your grenades. If the crashes stop happening, toss that stack of grenades in the trash. Otherwise, keep reading.
+
 Buffout 4 generates crashlogs for you in the `\Documents\My Games\Fallout4\F4SE` folder. These are vital to diagnosing the problem.
   -  *If you don't have crashlogs here after your game CTDs, you did not follow the Game Folder Files step in the Installation instructions.*
 
@@ -20,6 +22,12 @@ If your crashlog references `BGSSaveLoadManager` frequently, or `usvs::hook_Dele
 Barring those two reasons, there are still a plethora of other reasons. [Auto Scanner](https://www.nexusmods.com/fallout4/mods/56255) can catch a ton of these. It is recommended you run your crashlog through this script (it's easy, you copy and paste the file, double click a thing, and press a button - no special knowledge required) and check the results.
 
 After all that, feel free to upload your crashlog to me on [Discord](https://discord.gg/yABEjwB).
+
+---
+
+### I randomly have god mode / I take no damage or rads / my stamina doesn't drain anymore. What happened?
+
+Workshop Plus didn't uninitialize, apparently. Enter and exit workshop mode, that should fix it. Try not to open your Pipboy for a few seconds after exiting workshop mode.
 
 ---
 
