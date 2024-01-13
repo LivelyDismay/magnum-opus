@@ -20,11 +20,11 @@ Go to [BiRaitBec Workbase Improved](https://www.nexusmods.com/fallout4/mods/5778
 Extract this archive into a blank folder, outside of a Windows protected directory (such as `D:/Workbase Improved`).  
 
 Now go to [BiRaitBec’s Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description).  
-Manually download the **Main Repack** files (Part One, Part Two, and Part Three).  
+Manually download the **Main Repack** files (Part One, Part Two, and Part Three). **DO NOT EXTRACT OR UNPACK THESE FILES.**  
 
-Finally, go to [SavrenX HD 1K Buildings and Interior](https://www.nexusmods.com/fallout4/mods/40534?tab=files) and **ONLY** download the last Update File entitled `Fix Vault-Window-Metal-Institute`.
+Finally, go to [SavrenX HD 1K Buildings and Interior](https://www.nexusmods.com/fallout4/mods/40534?tab=files) and **ONLY** download the last Update File entitled `Fix Vault-Window-Metal-Institute`. **DO NOT EXTRACT OF UNPACK THESE FILES.**
 
-DO NOT UNPACK any of these archives. Simply **COPY** the archives into the `D:/Workbase Improved/Repack7z` folder.
+**COPY** the "Main Repack" and "SavrexX HD" archives into the `D:/Workbase Improved/Repack7z` folder.
 
 Go back to your `Workbase Improved` folder. Double click the `Installer.cmd` file to run it.  
   - If the file opens up in Notepad instead of running, simply close it and instead right click on the file and choose `Open`.
