@@ -2,14 +2,6 @@
 
 ---
 
-#### Copy Game Folder Files
-
-After Wabbajack turns green and says Installation Complete, you can close it. Go to your installation folder (I will refer to this folder as the MO2 folder from now on) and you'll see a folder named `Game Folder Files`.
-
-Copy all of the files from the `MO2/Game Folder Files` directory into your game folder (the Steam folder where you have Fallout 4 installed, for example "C:\SteamLibrary\steamapps\common\Fallout 4" - note that your location may differ). To further clarify this, you are copying **the contents** of this folder, not the entire folder itself.
-
----
-
 ## BiRaitBec Texture Optimization
 
 **YES, IT'S MANDATORY. STOP ASKING.**
@@ -45,86 +37,12 @@ Due to how Wabbajack works, you only need to do this step ONCE. The `[NoDelete]`
 
 After you copied the Game Folder Files, launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
 
-You may notice some mods are deactivated. These are for the Creation Club profile. Please see the [Creation Club Support](#creation-club-support) section a bit further down for more information.
-
----
-
-## Creation Club Support
-
-**A note from Lively:** CC Support sucks. The profile can often crash for some users due to what's called an Archive Limit. This variable tends to change for people and we have no idea why. The Creation Club mods don't add that much and most of them aren't that good. **I do not recommend buying them.** Besides, there is allegedly a Fallout 4 update coming soon that will include all the CC content, so just wait for that.  
-
-Magnum Opus now has support for some Creation Club mods as of version 3.2 of the modlist. To make use of this, you must follow a few steps:
-1. Click the profile dropdown menu at the top left of Mod Organizer 2, and make sure the active profile is set to `Default`. If the default profile doesn't exist, just launch it through Steam.
-2. Launch the game and download your CC mods from the in-game storefront.
-  -  Launching the game from Mod Organizer 2 will make all the creations download into your `overwrite` folder, which will make the next step a bit easier.
-  -  If you had to launch it from Steam, then all of these CC modules will be in your `steamapps/common/Fallout4/Data` folder.
-3. Cut and paste all of your CC mods into `Magnum Opus\mods\Creation Club Content`. 
-4. Activate the `Creation Club Content` mod in Mod Organizer 2, then change the active profile to `Magnum Opus - CC Edition`.
-  -  Please take note that **you will need all of the CC mods listed below** in order for the CC Edition profile to work, and **only** these CC mods. No more, no less. The list of required Creations is below:  
-
-<details>
-  
-  <summary>Click this to expand the list of supported Creation Club mods</summary>
-  
-  * Anti-Material Rifle  
-  * Arcade Workshop Pack  
-  * Capital Wasteland Mercenaries  
-  * Captain Cosmos  
-  * Charlestown Condo  
-  * Chinese Stealth Armor  
-  * CR-74L Combat Rifle  
-  * Doom BFG  
-  * Doom Marine Armor  
-  * Fantasy Hero Set  
-  * Graphic T-Shirt Pack  
-  * Gunners vs Minutemen  
-  * Handmade Shotgun  
-  * Heavy Incinerator  
-  * Hellfire Power Armor  
-  * Horse Power Armor  
-  * Manwell Rifle Set  
-  * Modular Military Backpack  
-  * Morgan's Space Suit  
-  * Neon Flats  
-  * Noir Penthouse  
-  * Nuka-Cola Collector Workshop  
-  * Pint-Sized Slasher   
-  * Prototype Gauss Rifle  
-  * Quake Thunderbolt  
-  * Sentinel Control System Companion  
-  * Settlement Ambush Kit  
-  * Shroud Manor  
-  * Solar Cannon  
-  * Tesla Cannon  
-  * TransDOGrifier  
-  * Tunnel Snakes Rule  
-  * Virtual Workshop: Atomic Crater  
-  * Virtual Workshop: Desert Island  
-  * Virtual Workshop: GNR  
-  * Virtual Workshop: Grid World  
-  * X-02 Power Armor  
-  * Zetan Arsenal  
-  
-</details>
-
-Pipboy Paint Jobs and Power Armor Paint Jobs are **NOT** supported.
-
-If you have a Missing Masters warning in Mod Organizer 2 after following this set of instructions for the Creation Club profile, then there are CC mods in this list you don't have.
-
-If you have CC mods that aren't in this list, that means I don't own them (yet?), so I cannot provide support. I'm doing my best here, please bear with me.
-
-You may also notice some other mods are deactivated in the CC Profile - namely, some armors, power armors, and weapons. This is because some CC mods act as pseudo variants of these, and I didn't want "doubles" essentially.
-
-**Again, this profile will be used at your own risk.**
-
 ---
 
 ## A Few Quick Notes
 
  - It is recommended that you leave Vault 111 prior to reporting any issues to me. Please.
  - Your Pipboy flashlight will not work between the time you pick it up and the time you press the button to open the vault door. It genuinely amazes me how many people report this to me. Just press the button, it's right there.
- - You will get a few pop-ups upon exiting Vault 111. For ECO, select this option:  
-![alt text](https://i.imgur.com/2F0OnWN.png)
 
 ---
 
@@ -137,9 +55,6 @@ After leaving Vault 111, pop open your MCM Config and follow these instructions.
 Apply the `Magnum Opus MCM Settings` Preset.  
 ![alt text](https://i.imgur.com/WPIBXJ3.png)
 
-**ECO - Legendary Injector**  
-![alt text](https://i.imgur.com/KU1eTeB.png)
-
 True Storms Configuration Holotape  
 ![alt text](https://i.imgur.com/cOjL4z2.png)
 
@@ -150,4 +65,12 @@ That's it! Have fun!
 ## Contact
 
 I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and [my own personal Discord Server](https://discord.gg/yABEjwB).
+
+---
+
+## Donate
+
+I accept donations via [Patreon](https://www.patreon.com/nicholasjae), Venmo (@Nicholas-Jae), and PayPal (nicholasjae@hotmail.com). The first two are preferred, but your generosity is appreciated regardless.
+
+I also accept nice comments. They help get me through the day...
 
