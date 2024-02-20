@@ -1,10 +1,16 @@
+2024/02/20
+
+Version 7.0.0
+
+Wayyy too much to list here. Tons of new stuff, lots of new/remade patches, lots of removals. Honestly, just treat it like a brand new list at this point.
+
+---
+
 WIP
 
 This is just to help me keep track of my ongoing work. **This update is not happening any time soon.** Probably at least a couple of months. Waiting for the official Fallout 4 update to drop. Then I have to patch in the CC stuff that is likely to be included.
 
 **There is no ETA.** But you are free to peruse the coming changes - do note, this is not final in any way and is constantly changing. Anything listed here may or may not be accurate for what the future update actually contains.
-
-Note to self: add throwable bullet casings.
 
 <details>  
  
