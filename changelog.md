@@ -1,5 +1,14 @@
 2024/02/20
 
+Version 7.0.1
+
+Fixed 10mm ammunition.
+
+---
+
+
+2024/02/20
+
 Version 7.0.0
 
 Wayyy too much to list here. Tons of new stuff, lots of new/remade patches, lots of removals. Honestly, just treat it like a brand new list at this point.
