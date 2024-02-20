@@ -44,7 +44,7 @@ Is Magnum Opus for you? I don't know, but [this video might help you decide](htt
 
 **Please read this readme in its entirety.**
 
-**Please read the FAQ again before reporting an issue or asking me a question.**
+**Please [read the FAQ](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md) again before reporting an issue or asking me a question.**
 
 **Please consult the in-game Magnum Opus Beginner's Guide terminal (which also has a holotape for a portable version of the terminal!) outside Vault 111 before alt-tabbing out to Discord to ask for my help.**
 
