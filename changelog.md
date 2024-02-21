@@ -1,5 +1,13 @@
 2024/02/20
 
+Version 7.0.2
+
+Fixed/updated MCM preset.
+
+---
+
+2024/02/20
+
 Version 7.0.1
 
 Fixed 10mm ammunition.
