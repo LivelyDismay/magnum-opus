@@ -4,8 +4,8 @@ Version 7.0.3
 
 Added Better Xander's Aid Navmesh.  
 
-Added a new patch to make radios default to an Off state (as requested).
-
+Added a new patch to make radios default to an Off state (as requested).  
+Removed old MCM Settings thing so now only the correct one is listed.  
 Fixed ammo crafting stuff.  
 Added steel and copper to components list for scrapped ammunition.  
 Fixed 5mm Rifle round damage.
