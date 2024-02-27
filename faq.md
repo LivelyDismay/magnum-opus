@@ -8,6 +8,12 @@ First, ensure you do NOT have the High Definition DLC active in Steam. If you do
 
 ---
 
+### Some people have weird black spots on their body, why don't you fix it?
+
+This is a CBBE issue with some outfits and quite frankly, I can look past it. I'm not super adept with bodyslide and outfit studio, so...it is what it is. If you fix it, feel free to pop it on Nexus and I'll add it to the modlist.
+
+---
+
 ### I broke Workshop Plus and now I can't fly. What happened?
 
 DO NOT enter Workshop Mode with a jetpack equipped. This will permanently break that jetpack's functionality.
@@ -113,6 +119,8 @@ Download these files manually, paste them into your `downloads` folder that you 
 ### How do I change my FOV?
 
 While in game, press Escape, select `Mod Config`, then head down to `Custom Camera`. **Save any changes you make in this MCM to its own Profile or the changes will not stick.**
+
+Do note that increasing your FOV also increases the amount of objects being rendered on screen at once, which could potentially result in a drop in performance.
 
 ---
 
