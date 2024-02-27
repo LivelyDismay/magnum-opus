@@ -1,3 +1,17 @@
+2024/02/27
+
+Version 7.0.3
+
+Added Better Xander's Aid Navmesh.  
+
+Added a new patch to make radios default to an Off state (as requested).
+
+Fixed ammo crafting stuff.  
+Added steel and copper to components list for scrapped ammunition.  
+Fixed 5mm Rifle round damage.
+
+---
+
 2024/02/20
 
 Version 7.0.2
