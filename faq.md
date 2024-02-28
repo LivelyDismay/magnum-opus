@@ -29,6 +29,20 @@ This is a CBBE issue with some outfits and quite frankly, I can look past it. I'
 
 ---
 
+### Controller support?!?
+
+Nah, I don't use a controller. If someone else wants to set up a controller config, I can add it as an optional file.
+
+If using a controller with Magnum Opus v7, you may find the map doesn't work. If you experience that, go into the MCM menu for Baka Fullscreen and check "Use Pip-Boy Color From Settings".
+
+---
+
+### VAFS no work, plz fix
+
+VATS needs to be unbound or bound to a different key. I thought this would transfer over from my own custom control map, but apparently I was mistaken. You can do this in your vanilla keybinds menu under Settings, and the VAFS MCM.
+
+---
+
 ### I broke Workshop Plus and now I can't fly. What happened?
 
 DO NOT enter Workshop Mode with a jetpack equipped. This will permanently break that jetpack's functionality.
