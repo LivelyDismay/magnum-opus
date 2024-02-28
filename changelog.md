@@ -1,5 +1,15 @@
 2024/02/27
 
+Version 7.0.4
+
+Removed Project Reality Footsteps.
+
+This is a test to see if audio driver crash reports are reduced. Time will tell.
+
+---
+
+2024/02/27
+
 Version 7.0.3
 
 Added Better Xander's Aid Navmesh.  
