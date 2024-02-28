@@ -9,7 +9,7 @@ V - Toggle first/third person
 B - Toggle West Tek optics (if equipped)  
 N - Upgrade SS2 plots with caps  
 F11 - Open ESP Explorer (see below)  
-Q - VAFS (VATS must be unbound, or bound to a different key, to function).
+Q - VAFS (VATS must be unbound, or bound to a different key, to function).  
 Insert - Extra object selection (Workshop Mode only) - recommend using for scrapping corpses. Don't use this to scrap buildings, roads, etc.  
 T - Wait
 
