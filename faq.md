@@ -56,7 +56,6 @@ First, please make sure the crashes are repeatable. There is very little I can d
 One possibility is that your grenades got corrupted. I don't know how or why this happens, but it is possible. Unequip your grenades. If the crashes stop happening, toss that stack of grenades in the trash. Otherwise, keep reading.
 
 Buffout 4 generates crashlogs for you in the `\Documents\My Games\Fallout4\F4SE` folder. These are vital to diagnosing the problem.
-  -  *If you don't have crashlogs here after your game CTDs, you did not follow the Game Folder Files step in the Installation instructions.*
 
 If your crashlog references `nvwgf2umx.dll` a bunch of times, that's an Nvidia Driver crash. Downgrading to pre-445 drivers will fix this. 442.74 versions seem preferable. [Here's a link for you](https://github.com/keylase/nvidia-patch/tree/master/win).
 
