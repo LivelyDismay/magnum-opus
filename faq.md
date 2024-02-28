@@ -2,6 +2,21 @@
 
 ---
 
+### Hotkeys?
+
+C - Activate Critical  
+V - Toggle first/third person  
+B - Toggle West Tek optics (if equipped)  
+N - Upgrade SS2 plots with caps  
+F11 - Open ESP Explorer (see below)  
+Q - VAFS (VATS must be unbound, or bound to a different key, to function).
+Insert - Extra object selection (Workshop Mode only) - recommend using for scrapping corpses. Don't use this to scrap buildings, roads, etc.  
+T - Wait
+
+I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use Ctrl+Z personally. This can undo the last action you took in workshop mode, such as accidentally scrapping something you didn't want to scrap.
+
+---
+
 ### My characters have black/brown/tan/bugged faces. What happened?
 
 First, ensure you do NOT have the High Definition DLC active in Steam. If you don't, then quite frankly, the so-called "Black Face Bug" can happen randomly. Saving and reloading should fix it. You can also use the console to disable then enable the NPC with the bug.
@@ -33,6 +48,10 @@ If your crashlog references `nvwgf2umx.dll` a bunch of times, that's an Nvidia D
 
 If your crashlog references `BGSSaveLoadManager` frequently, or `usvs::hook_DeleteFile`, or both, you are most likely running BitDefender. [Here's a link to help with that](https://www.bitdefender.com/consumer/support/answer/28557/).
 
+If your crashlog references `PipboyMapData`, unequip your grenades. Sometimes (I have no idea why/how), a stack of grenades can become somehow corrupted. Throw those grenades in the trash. Don't use them. Spawn yourself new ones if you want. If anyone ever finds a reason that this happens, I'd love to know about it.
+
+If your crashlog references an `xAudio dll` file, I have no idea how to fix this. I don't think anyone knows how to fix this. If you ever find a solution, I'd love to know about it.
+
 Barring those reasons, there are still a plethora of other possibilities. [Auto Scanner](https://www.nexusmods.com/fallout4/mods/56255) can catch a ton of these. It is recommended you run your crashlog through this script (it's easy, you copy and paste the file, double click a thing, and press a button - no special knowledge required) and check the results. There is also a handy dandy `HOW TO READ CRASH LOGS.pdf` file you can reference.
 
 If you've been unable to diagnose your issue after all that, feel free to upload your crashlog to me on [Discord](https://discord.gg/yABEjwB). Maybe I can figure something out.
@@ -54,6 +73,8 @@ In Mod Organizer, find the `High FPS Physics Fix` mod. Double click it. In the p
 ### How do I edit the volumes for things like radios and voices?
 
 While in game, press Escape, then select `Mod Config`. Scroll down to the section entitled `Persistent Volume Sliders`. Adjust to your liking.
+
+Audio sliders for True Storms are in the vanilla Audio settings.
 
 ---
 
