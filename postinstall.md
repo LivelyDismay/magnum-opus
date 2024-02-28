@@ -35,7 +35,7 @@ Due to how Wabbajack works, you only need to do this step ONCE. The `[NoDelete]`
 
 #### Launching the Game
 
-After you copied the Game Folder Files, launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
+Launch ModOrganizer.exe from inside your installation folder you chose for Wabbajack. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
 
 ---
 
@@ -52,7 +52,7 @@ After leaving Vault 111, pop open your MCM Config and follow these instructions.
 *_Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself._
 
 **MCM Settings Manager**  
-Apply the `Magnum Opus MCM Settings` Preset.  
+Apply the `Opus v7` Preset.  
 ![alt text](https://i.imgur.com/WPIBXJ3.png)
 
 True Storms Configuration Holotape  
