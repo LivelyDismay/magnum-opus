@@ -43,6 +43,14 @@ VATS needs to be unbound or bound to a different key. I thought this would trans
 
 ---
 
+### I can't build anything / how do I increase settlement size?
+
+If you can't build anything in Workshop mode, odds are you're at the Build Limit (that bar in the top right). To increase your build limit, approach a workshop and press Space, then Configure Build Limit.
+
+Increasing this too much can harm performance. Use at your own risk.
+
+---
+
 ### I broke Workshop Plus and now I can't fly. What happened?
 
 DO NOT enter Workshop Mode with a jetpack equipped. This will permanently break that jetpack's functionality.
