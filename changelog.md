@@ -1,3 +1,12 @@
+2024/03/07
+
+Version 7.0.5
+
+Disabled Ammo Crafting.
+Disabled radios set to play Classical Radio. Should very much help alleviate audio crash issues until a real, more permanent solution is found.
+
+---
+
 2024/02/27
 
 Version 7.0.4
