@@ -1,3 +1,29 @@
+2024/03/18
+
+Version 7.0.6
+
+Changed the following perks for VAFS synergy, clearer descriptions, or other various small tweaks:
+ - Blitz, ranks 1 & 2
+ - Classic Criticals, ranks 1-4
+ - Deadly Rush, ranks 1-4
+ - Action Boy / Action Girl, rank 3
+ - Gumshoe, rank 4
+ - Night Person, rank 3
+ - Four Leaf Clover, ranks 1-4
+ - Gunslinger, ranks 3 & 4
+ - Heavy Gunner, rank 5
+ - Iron Fist, rank 3
+ - Medic, ranks 1 & 2
+ - Penetrator, ranks 1 & 2
+ - Refractor, rank 5
+ - Rifleman, ranks 1, 3, & 4
+ - Sniper, ranks 1 & 2
+
+Moved Portable Junk Recycler to the Utility Workbench.  
+Made the Simple version for constructing the Portable Junk Recycler the default option.
+
+---
+
 2024/03/07
 
 Version 7.0.5
