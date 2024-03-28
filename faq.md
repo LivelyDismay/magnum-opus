@@ -17,6 +17,14 @@ I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use
 
 ---
 
+### My game crashes when I launch from MO2. Help!
+
+Make sure you disable any overlays - most notably, Medal.TV seems to cause this crash frequently for those with that program.
+
+The other most common cause is an Antivirus (not Windows Defender; a third party antivirus like Webroot or Kaspersky or AVG, etc). Disable those or exclude MO2/scriptextender/etc.
+
+---
+
 ### My characters have black/brown/tan/bugged faces. What happened?
 
 First, ensure you do NOT have the High Definition DLC active in Steam. If you don't, then quite frankly, the so-called "Black Face Bug" can happen randomly. Saving and reloading should fix it. You can also use the console to disable then enable the NPC with the bug.
