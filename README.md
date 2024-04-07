@@ -119,7 +119,6 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 The most common files that fail to download through Wabbajack are as follows:
   -  [More Hairstyles - Beards](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
   -  [Misc Hairstyles 1.6](http://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z/file)
-  -  [FO4 Lodgen Resources](https://mega.nz/file/BZhlVCAJ#s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4)
 
 Download these files manually, paste them into your `downloads` folder that you specified for Wabbajack, then rerun the installation.
 
