@@ -1,3 +1,87 @@
+2024/03/18
+
+Version 7.0.6
+
+Changed the following perks for VAFS synergy, clearer descriptions, or other various small tweaks:
+ - Blitz, ranks 1 & 2
+ - Classic Criticals, ranks 1-4
+ - Deadly Rush, ranks 1-4
+ - Action Boy / Action Girl, rank 3
+ - Gumshoe, rank 4
+ - Night Person, rank 3
+ - Four Leaf Clover, ranks 1-4
+ - Gunslinger, ranks 3 & 4
+ - Heavy Gunner, rank 5
+ - Iron Fist, rank 3
+ - Medic, ranks 1 & 2
+ - Penetrator, ranks 1 & 2
+ - Refractor, rank 5
+ - Rifleman, ranks 1, 3, & 4
+ - Sniper, ranks 1 & 2
+
+Moved Portable Junk Recycler to the Utility Workbench.  
+Made the Simple version for constructing the Portable Junk Recycler the default option.
+
+---
+
+2024/03/07
+
+Version 7.0.5
+
+Disabled Ammo Crafting.  
+Disabled radios set to play Classical Radio. Should very much help alleviate audio crash issues until a real, more permanent solution is found.
+
+---
+
+2024/02/27
+
+Version 7.0.4
+
+Removed Project Reality Footsteps.
+
+This is a test to see if audio driver crash reports are reduced. Time will tell.
+
+---
+
+2024/02/27
+
+Version 7.0.3
+
+Added Better Xander's Aid Navmesh.  
+
+Added a new patch to make radios default to an Off state (as requested).  
+Removed old MCM Settings thing so now only the correct one is listed.  
+Fixed ammo crafting stuff.  
+Added steel and copper to components list for scrapped ammunition.  
+Fixed 5mm Rifle round damage.
+
+---
+
+2024/02/20
+
+Version 7.0.2
+
+Fixed/updated MCM preset.
+
+---
+
+2024/02/20
+
+Version 7.0.1
+
+Fixed 10mm ammunition.
+
+---
+
+
+2024/02/20
+
+Version 7.0.0
+
+Wayyy too much to list here. Tons of new stuff, lots of new/remade patches, lots of removals. Honestly, just treat it like a brand new list at this point.
+
+---
+
 WIP
 
 This is just to help me keep track of my ongoing work. **This update is not happening any time soon.** Probably at least a couple of months. Waiting for the official Fallout 4 update to drop. Then I have to patch in the CC stuff that is likely to be included.
