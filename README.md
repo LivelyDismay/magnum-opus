@@ -1,25 +1,25 @@
 # Magnum Opus Readme
 
 ---
-- [Magnum Opus Readme](#magnum-opus-readme)
-  - [Preamble](#preamble)
-  - [Installation](#installation)
-    - [Pre-Installation](#pre-installation)
-      - [Installing Microsoft Visual C++ Redistributable Packages](#installing-microsoft-visual-c-redistributable-packages)
-        - [Visual Studio 2015, 2017, 2019, and 2022](#visual-studio-2015-2017-2019-and-2022)
-        - [Visual Studio 2012 (VC++ 11.0) Update 4](#visual-studio-2012-vc-110-update-4)
-      - [Steam Config](#steam-config)
-      - [Change Steams Update Behavior](#change-steams-update-behavior)
-      - [Set the Game language to English](#set-the-game-language-to-english)
-      - [Clean Fallout 4](#clean-fallout-4)
-    - [Using Wabbajack](#using-wabbajack)
-      - [Preparations](#preparations)
-    - [Problems with Wabbajack](#problems-with-wabbajack)
-  - [Updating](#updating)
-  - [Post Installation](#post-installation)
-  - [FAQ](#faq)
-  - [Widescreen Support](#widescreen-support)
-  - [Contact](#contact)
+- [Magnum Opus Readme](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#magnum-opus-readme)
+  - [Preamble](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#preamble)
+  - [Installation](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#installation)
+    - [Pre-Installation](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#pre-installation)
+      - [Installing Microsoft Visual C++ Redistributable Packages](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#installing-microsoft-visual-c-redistributable-packages)
+        - [Visual Studio 2015, 2017, 2019, and 2022](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#visual-studio-2015-2017-2019-and-2022)
+        - [Visual Studio 2012 (VC++ 11.0) Update 4](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#visual-studio-2012-vc-110-update-4)
+      - [Steam Config](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#steam-config)
+      - [Change Steams Update Behavior](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#change-steams-update-behavior)
+      - [Set the Game language to English](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#set-the-game-language-to-english)
+      - [Clean Fallout 4](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#clean-fallout-4)
+    - [Using Wabbajack](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#using-wabbajack)
+      - [Preparations](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#preparations)
+    - [Problems with Wabbajack](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#problems-with-wabbajack)
+  - [Updating](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#updating)
+  - [Post Installation](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#post-installation)
+  - [FAQ](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#faq)
+  - [Widescreen Support](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#widescreen-support)
+  - [Contact](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#contact)
 
 ---
 
@@ -41,7 +41,7 @@ Is Magnum Opus for you? I don't know, but [this video might help you decide](htt
 
 **Please consult the in-game Magnum Opus Beginner's Guide terminal (which also has a holotape for a portable version of the terminal!) outside Vault 111 before alt-tabbing out to Discord to ask for my help.**
 
-[[Top]](#table-of-contents)
+[[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
 
 ---
 
@@ -53,7 +53,7 @@ Is Magnum Opus for you? I don't know, but [this video might help you decide](htt
 
 You need a legal copy of Fallout 4 through Steam, with all DLCs **EXCEPT** the High Definition DLC. This is garbage and should not be used in any case ever.
 
-These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
+These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#updating).
 
 #### Installing Microsoft Visual C++ Redistributable Packages
 
@@ -89,7 +89,7 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Fallout 4` folder in `Documents/My Games/`. **Make sure you run the game once** to establish your registry path - otherwise, Wabbajack will be unable to locate the game directory, and thus cannot install the modlist.
 
-[[Top]](#table-of-contents)
+[[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
 
 ---
 
@@ -109,7 +109,7 @@ Set the `Installation Location` to a blank folder at the root of a drive, such a
 
 Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated regardless of your account status.
 
-[[Top]](#table-of-contents)
+[[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
 
 ---
 
@@ -133,9 +133,9 @@ If you have Nexus Premium but are getting a lot of "unable to download" errors i
 
 - **Wabbajack could not find my game folder**:
 
-Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
+Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#pre-installation) step.
 
-[[Top]](#table-of-contents)
+[[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
 
 ---
 
@@ -158,7 +158,7 @@ If you wish for Wabbajack to ignore any additional mods you've installed, rename
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-[[Top]](#table-of-contents)
+[[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
 
 ---
 
@@ -166,7 +166,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 This section [has been moved to its own page, just to really make it stand out in its importance.](https://github.com/LivelyDismay/magnum-opus/blob/main/postinstall.md) **Magnum Opus WILL CRASH CONSTANTLY if you do not do this part.**
 
-[[Top]](#table-of-contents)
+[[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
 
 ---
 
@@ -174,7 +174,7 @@ This section [has been moved to its own page, just to really make it stand out i
 
 I've been doing this for a while now, so [I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
 
-[[Top]](#table-of-contents)
+[[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
 
 ---
 
@@ -182,7 +182,7 @@ I've been doing this for a while now, so [I've compiled the most common question
 
 I don't own a widescreen monitor, so I can't help directly. I don't mind you guys helping each other though, obviously. A generous discord user by the name of bjdripley wrote an [Ultrawide Compatibility Guide for Magnum Opus](https://docs.google.com/document/d/1EbZ_DpyhctsrpBlylDYc2TXtm1NAOjkcYjRCNZsC958/edit) that you may find useful.
 
-[[Top]](#table-of-contents)
+[[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
 
 ---
 
@@ -190,4 +190,4 @@ I don't own a widescreen monitor, so I can't help directly. I don't mind you guy
 
 I'm always available on [my own personal Discord Server](https://discord.gg/yABEjwB).
 
-[[Top]](#table-of-contents)
+[[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
