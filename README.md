@@ -1,7 +1,11 @@
 # Magnum Opus Readme
 
 ---
+
+## Table of Contents
+
 - [Magnum Opus Readme](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#magnum-opus-readme)
+  - [Table of Contents](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
   - [Preamble](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#preamble)
   - [Installation](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#installation)
     - [Pre-Installation](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#pre-installation)
