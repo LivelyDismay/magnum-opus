@@ -1,3 +1,21 @@
+2024/04/16
+
+Version 7.0.7
+
+Updated Sim Settlements 2.  
+Updated Workshop Framework.  
+
+Added Dark Sci Fi Vault Retexture 4K - White Squares Fix.  
+Added a new "mod" that's just a few songs extracted from the vanilla `Fallout 4 - Sounds.ba2` archive in order to help prevent audio crashes.  
+
+Updated a faulty patch I made in regards to crafting Power Armor Repair Kits (accidentally had the components required pointing at COBJ instead of MISC).
+
+Edited Fallout4Custom.ini to change sun shadow timer update and theshold values. Untested because I'm lazy but should give smoother shadow transitions during daytime.  
+
+PLEASE NOTE: This update **might not be save-safe.** Since this is such a huge update to SS2, I am uncertain if it will cause problems later on down the line. Personally, I've updated this mod during the end of chapter 1, prior to reaching HQ. Since this update is primarily focused on HQ, I'm hopeful this won't be problematic for me.  If you are unwilling to take the risk, **don't install this update.** And remember, any problems with the mods in this list are my problem, not the other mod authors' like kinggath. Thanks for reading.
+
+---
+
 2024/03/18
 
 Version 7.0.6
