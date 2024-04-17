@@ -1,3 +1,15 @@
+2024/04/17
+
+Version 7.0.8
+
+Changed LooksMirror/HandsOff patch.  
+ - This required me to reinstall LooksMirror, which I apparently compacted at some point. I don't know why I did that. So if you have already built LooksMirrors in your settlements, they're probably gonna be busted. I would go scrap them, save your game, then update the list.
+
+Changed default profile to one that isn't something I use for mod development.  
+Minor mod order adjustments.  
+
+---
+
 2024/04/16
 
 Version 7.0.7
