@@ -254,7 +254,7 @@ The most common files that fail to download through Wabbajack are as follows:
 
 Download these files manually, paste them into your `downloads` folder that you specified for Wabbajack, then rerun the installation.
 
-If you have Nexus Premium but are getting a lot of "unable to download" errors in Wabbajack, then log out of Nexus within Wabbajack, then log back in. Once you've done that, try downloading again.
+If you're getting a lot of "unable to download" errors in Wabbajack, then log out of Nexus within Wabbajack, then log back in. Once you've done that, try downloading again.
 
 [[Top]](#table-of-contents)
 
