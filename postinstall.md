@@ -43,6 +43,7 @@ Launch ModOrganizer.exe from inside your installation folder you chosefor the mo
 
  - It is recommended that you leave Vault 111 prior to reporting any issues to me. Please.
  - Your Pipboy flashlight will not work between the time you pick it up and the time you press the button to open the vault door. It genuinely amazes me how many people report this to me. Just press the button, it's right there.
+ - You need to bind VATS to a different key if you want VAFS on Q, like I do. Personally, I have VATS on an out-of-the-way key like semicolon or backslash, but you can do what you want.
 
 ---
 
