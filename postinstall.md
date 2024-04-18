@@ -44,6 +44,7 @@ Launch ModOrganizer.exe from inside your installation folder you chosefor the mo
  - It is recommended that you leave Vault 111 prior to reporting any issues to me. Please.
  - Your Pipboy flashlight will not work between the time you pick it up and the time you press the button to open the vault door. It genuinely amazes me how many people report this to me. Just press the button, it's right there.
  - You need to bind VATS to a different key if you want VAFS on Q, like I do. Personally, I have VATS on an out-of-the-way key like semicolon or backslash, but you can do what you want.
+ - On rare occasions, True Damage won't load properly straight away. This will be apparently if your 10mm pistol does 1 damage, and the radroaches in Vault 111 take a dozen shots to kill. To fix this, simply save and load the game (you may need to exit the game fully). I'd recommend enabling the option to kill all Vault 111 radroaches, so you can check your damage in your Pipboy at the end of the vault.  
 
 ---
 
