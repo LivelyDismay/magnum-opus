@@ -23,6 +23,7 @@
   - [Can I have multiple companions at the same time?](#can-i-have-multiple-companions-at-the-same-time)
   - [I don't like the flashlight.](#i-dont-like-the-flashlight)
   - [Can I add an ENB?](#can-i-add-an-enb)
+  - [Can I add character presets?](#can-i-add-character-presets)
   - [Can I update \<...\> mod?](#can-i-update--mod)
   - [What if I want to change/add/remove mods? Can you help me?](#what-if-i-want-to-changeaddremove-mods-can-you-help-me)
   - [Does Magnum Opus have Ultrawide Support?](#does-magnum-opus-have-ultrawide-support)
@@ -217,6 +218,14 @@ I don't care. I do.
 ### Can I add an ENB?
 
 If you hate yourself, sure. Some people have added ENBs and reported consistent crashes, so your mileage may vary. Don't add an ENB and report bugs to me because I can't/won't help. This will void official support.
+
+[[Top]](#table-of-contents)
+
+---
+
+### Can I add character presets?
+
+If you ask about adding presets in my support channel, I'm going to give you the Rule 11 role. Why? Because 1. you're adding stuff, and 2. a lot of presets have other required mods in order to work. It's a slippery slope, and I'm extremely unwilling to deal with it. Plus, frankly, adding presets is the easiest thing in the world, so if you're asking how to do it, you obviously haven't bothered trying to do anything for yourself, and I'm not here to hold your hand.
 
 [[Top]](#table-of-contents)
 
