@@ -14,7 +14,7 @@ Extract this archive into a blank folder, outside of a Windows protected directo
 Now go to [BiRaitBec’s Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description).  
 Manually download the **Main Repack** files (Part One, Part Two, and Part Three). **DO NOT EXTRACT OR UNPACK THESE FILES.**  
 
-Finally, go to [SavrenX HD 1K Buildings and Interior](https://www.nexusmods.com/fallout4/mods/40534?tab=files) and **ONLY** download the last Update File entitled `Fix Vault-Window-Metal-Institute`. **DO NOT EXTRACT OF UNPACK THESE FILES.**
+Finally, go to [SavrenX HD 1K Buildings and Interior](https://www.nexusmods.com/fallout4/mods/40534?tab=files) and **ONLY** download the last Update File entitled `Fix Vault-Window-Metal-Institute`. **DO NOT EXTRACT OR UNPACK THESE FILES.**
 
 **COPY** the "Main Repack" and "SavrexX HD" archives into the `D:/Workbase Improved/Repack7z` folder.
 
