@@ -72,7 +72,7 @@ I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) an
 
 ## Donate
 
-I accept donations via [Patreon](https://www.patreon.com/nicholasjae), Venmo (@Nicholas-Jae), and PayPal (nicholasjae@hotmail.com). The first two are preferred, but your generosity is appreciated regardless.
+I accept donations via [Patreon](https://www.patreon.com/nicholasjae) and Venmo (@Nicholas-Jae). Your generosity is appreciated immensely.
 
 I also accept nice comments. They help get me through the day...
 
