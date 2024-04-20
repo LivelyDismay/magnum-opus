@@ -1,3 +1,17 @@
+2024/04/20
+
+Version 7.0.9
+
+Added Turned Off Radios.  
+
+Updated the Beginner's Guide terminal.  
+
+Removed Liv_RadiosDefaultToOff. You'll get a warning about this when you load your save. I promise you it's fine.  
+
+Added MCM Preset for Controller users. No more green or missing map for you!  
+
+---
+
 2024/04/17
 
 Version 7.0.8
