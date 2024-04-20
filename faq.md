@@ -84,7 +84,7 @@ This is a CBBE issue with some outfits and quite frankly, I can look past it. I'
 
 Nah, I don't use a controller. If someone else wants to set up a controller config, I can add it as an optional file.
 
-If using a controller with Magnum Opus v7, you may find the map doesn't work. If you experience that, go into the MCM menu for Baka Fullscreen and disable the `Disable Pip-Boy VFX` option (the first one under the Visuals separator).
+To mitigate any map issues, please apply the Opus v7 Controller MCM preset.
 
 [[Top]](#table-of-contents)
 
