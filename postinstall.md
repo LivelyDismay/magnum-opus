@@ -57,7 +57,7 @@ After leaving Vault 111, pop open your MCM Config and follow these instructions.
 Apply the `Opus v7` Preset.  
 ![alt text](https://i.imgur.com/WPIBXJ3.png)
 
-True Storms Configuration Holotape  
+True Storms Configuration Holotape (Note: this is completely optional)  
 ![alt text](https://i.imgur.com/cOjL4z2.png)
 
 That's it! Have fun!  
