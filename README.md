@@ -37,7 +37,7 @@ To that end, I like new content. I like new areas, new quests, new NPCs, new wea
 
 This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you choose to play Magnum Opus in Survival difficulty, I don't know if any issues may arise from that, and it is unlikely I can help with such issues.
 
-Is Magnum Opus for you? I don't know, but [this video might help you decide](https://youtu.be/9nb1zEmxZQM).
+Is Magnum Opus for you? I don't know, but [this video might help you decide](https://youtu.be/zpoeRvuHNpw).
 
 **Please read this readme in its entirety.**
 
