@@ -138,7 +138,7 @@ If you've been unable to diagnose your issue after all that, feel free to upload
 
 ---
 
-### I randomly have god mode / I take no damage or rads / my stamina doesn't drain anymore. What happened?
+### I randomly have god mode / I take no damage or rads / my stamina doesn't drain anymore / VAFS isn't triggering when I press Q even though I followed the instructions to unbind VATS. What happened?
 
 Workshop Plus didn't uninitialize, apparently. Enter and exit workshop mode, that should fix it. Try not to open your Pipboy for a few seconds after exiting workshop mode.
 
@@ -151,13 +151,13 @@ Workshop Plus didn't uninitialize, apparently. Enter and exit workshop mode, tha
 Windows Scaling is messing with the game. To fix this:
 
 - Go the folder you installed Magnum Opus into
-- Then go into the "Stock Game" folder
-- Right click on the "Fallout4.exe" item
-- Choose "Properties"
-- Select the "Compatibility" tab at the top of that window
-- Click the "Change high DPI settings" button
-- Put a checkmark in the "Override high DPI scaling behavior" box
-- Choose "Application" in the dropdown list just below the previous checkbox
+- Then go into the `Stock Game` folder
+- Right click on the `Fallout4.exe` item
+- Choose `Properties`
+- Select the `Compatibility` tab at the top of that window
+- Click the `Change high DPI settings` button
+- Put a checkmark in the `Override high DPI scaling behavior` box
+- Choose `Application` in the dropdown list just below the previous checkbox
 
 Note: Wording may not be exact, but should be similar enough.
 
@@ -167,7 +167,7 @@ Note: Wording may not be exact, but should be similar enough.
 
 ### How do I cap/uncap my FPS?
 
-In Mod Organizer, find the `High FPS Physics Fix` mod. Double click it. In the pop-up window, select the `INI Files` tab, then select the only INI listed. In the right pane, scroll down about halfway until you see `InGameFPS=`. Change the number to your liking.
+In Mod Organizer, find the `High FPS Physics Fix` mod. Double click it. In the pop-up window, select the `INI Files` tab, then select the only INI listed. In the right pane, scroll down about halfway until you see `InGameFPS=`. Change the number to your liking (0 = uncapped).
 
 [[Top]](#table-of-contents)
 
@@ -271,7 +271,7 @@ If you're getting a lot of "unable to download" errors in Wabbajack, then log ou
 
 ### How do I change my FOV?
 
-While in game, press Escape, select `Mod Config`, then head down to `Custom Camera`. **Save any changes you make in this MCM to its own Profile or the changes will not stick.**
+While in game, press Escape, select `Mod Config`, then head down to `Custom Camera`. **Save any changes you make in this MCM to its own Custom Camera Profile (under the Profiles tab under the Custom Camera MCM) or the changes will not stick.**
 
 Do note that increasing your FOV also increases the amount of objects being rendered on screen at once, which could potentially result in a drop in performance.
 
@@ -281,7 +281,7 @@ Do note that increasing your FOV also increases the amount of objects being rend
 
 ### Is the BiRaitBec Texture Optimization step required?
 
-Technically, no. But you should still do it.
+Technically, no. But you should still do it. If you ask me this, I'm just going to say yes.
 
 [[Top]](#table-of-contents)
 
