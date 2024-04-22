@@ -14,7 +14,7 @@
   - [I can't build anything / how do I increase settlement size?](#i-cant-build-anything--how-do-i-increase-settlement-size)
   - [I broke Workshop Plus and now I can't fly. What happened?](#i-broke-workshop-plus-and-now-i-cant-fly-what-happened)
   - [I am having random crashes. What do I do?](#i-am-having-random-crashes-what-do-i-do)
-  - [I randomly have god mode / I take no damage or rads / my stamina doesn't drain anymore. What happened?](#i-randomly-have-god-mode--i-take-no-damage-or-rads--my-stamina-doesnt-drain-anymore-what-happened)
+  - [I randomly have god mode / I take no damage or rads / my stamina doesn't drain anymore / VAFS isn't triggering when I press Q even though I followed the instructions to unbind VATS. What happened?](#i-randomly-have-god-mode--i-take-no-damage-or-rads--my-stamina-doesnt-drain-anymore--vafs-isnt-triggering-when-i-press-q-even-though-i-followed-the-instructions-to-unbind-vats-what-happened)
   - [When I start Magnum Opus, the game is zoomed in!](#when-i-start-magnum-opus-the-game-is-zoomed-in)
   - [How do I cap/uncap my FPS?](#how-do-i-capuncap-my-fps)
   - [How do I edit the volumes for things like radios and voices?](#how-do-i-edit-the-volumes-for-things-like-radios-and-voices)
@@ -39,14 +39,14 @@
 
 ### Hotkeys?
 
-**C** - Activate Critical  
-**V** - Toggle first/third person  
-**B** - Toggle West Tek optics (if equipped)  
-**N** - Upgrade SS2 plots with caps  
-**F11** - Open ESP Explorer (see below)  
-**Q** - VAFS (VATS must be unbound, or bound to a different key, to function).  
-**Insert** - Extra object selection (Workshop Mode only) - recommend using for scrapping corpses. Don't use this to scrap buildings, roads, etc.  
-**T** - Wait
+- **C** - Activate Critical
+- **V** - Toggle first/third person
+- **B** - Toggle West Tek optics (if equipped)
+- **N** - Upgrade SS2 plots with caps
+- **F11** - Open ESP Explorer (see below)
+- **Q** - VAFS (VATS must be unbound, or bound to a different key, to function).
+- **Insert** - Extra object selection (Workshop Mode only) - recommend using for scrapping corpses. Don't use this to scrap buildings, roads, etc.
+- **T** - Wait
 
 I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use Ctrl+Z personally. This can undo the last action you took in workshop mode, such as accidentally scrapping something you didn't want to scrap.
 
