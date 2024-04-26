@@ -1,3 +1,15 @@
+2024/04/25
+
+Version 7.0.10
+
+New Bodyslide Output.
+
+Post-installation instructions have been changed for Workbase Improved steps. WBI's script can no longer automatically detect and use the Steam archives due to the update, so you have to manually follow the correct steps to work around this.
+
+If you've already done the Workbase Improved stuff successfully, you do not need to redo it.
+
+---
+
 2024/04/20
 
 Version 7.0.9
