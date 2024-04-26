@@ -39,14 +39,14 @@
 
 ### Hotkeys?
 
-- **C** - Activate Critical
-- **V** - Toggle first/third person
-- **B** - Toggle West Tek optics (if equipped)
-- **N** - Upgrade SS2 plots with caps
-- **F11** - Open ESP Explorer (see below)
-- **Q** - VAFS (VATS must be unbound, or bound to a different key, to function).
-- **Insert** - Extra object selection (Workshop Mode only) - recommend using for scrapping corpses. Don't use this to scrap buildings, roads, etc.
-- **T** - Wait
+- **C** - Activate Critical (Autowalk must be bound to a different key to function)  
+- **V** - Toggle first/third person  
+- **B** - Toggle West Tek optics (if equipped)  
+- **N** - Upgrade SS2 plots with caps  
+- **F11** - Open ESP Explorer (see below)  
+- **Q** - VAFS (VATS must be bound to a different key, to function)  
+- **Insert** - Extra object selection (Workshop Mode only) - recommend using for scrapping corpses. Don't use this to scrap buildings, roads, etc  
+- **T** - Wait  
 
 I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use Ctrl+Z personally. This can undo the last action you took in workshop mode, such as accidentally scrapping something you didn't want to scrap.
 
