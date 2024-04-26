@@ -4,52 +4,7 @@
 
 ## BiRaitBec Texture Optimization
 
-**YES, IT'S MANDATORY. STOP ASKING.**
-
-This step hashes your vanilla files, just like Wabbajack hashes all the downloads and mods. They need to be PERFECTLY CLEAN AND UNALTERED (with the exception of the Game Folder Files in the previous step). If you'd like to be sure, just Verify Integrity of Game Files through Steam to make sure your Fallout 4 archives are pristine.
-
-Go to [BiRaitBec Workbase Improved](https://www.nexusmods.com/fallout4/mods/57782) and download the Main File.  
-Extract this archive into a blank folder, outside of a Windows protected directory (such as `D:/Workbase Improved`).  
-
-Now go to [BiRaitBec’s Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description).  
-Manually download the **Main Repack** files (Part One, Part Two, and Part Three). **DO NOT EXTRACT OR UNPACK THESE FILES.**  
-
-Finally, go to [SavrenX HD 1K Buildings and Interior](https://www.nexusmods.com/fallout4/mods/40534?tab=files) and **ONLY** download the last Update File entitled `Fix Vault-Window-Metal-Institute`. **DO NOT EXTRACT OR UNPACK THESE FILES.**
-
-**COPY** the "Main Repack" and "SavrexX HD" archives into the `D:/Workbase Improved/Repack7z` folder.
-
-Now go to your Stock Game folder, which is in your modlist installation directory (for example, mine is in `D:/Magnum Opus/Stock Game`), open the `Data` folder, and select all of the `Textures.ba2` files. A full list is below for your perusal; there are 15 in total:  
-
- - DLCCoast - Textures.ba2
- - DLCNukaWorld - Textures.ba2
- - DLCRobot - Textures.ba2
- - DLCworkshop01 - Textures.ba2
- - DLCworkshop02 - Textures.ba2
- - DLCworkshop03 - Textures.ba2  
- - Fallout4 - Textures1.ba2  
- - Fallout4 - Textures2.ba2  
- - Fallout4 - Textures3.ba2  
- - Fallout4 - Textures4.ba2  
- - Fallout4 - Textures5.ba2  
- - Fallout4 - Textures6.ba2  
- - Fallout4 - Textures7.ba2  
- - Fallout4 - Textures8.ba2  
- - Fallout4 - Textures9.ba2
-
-**Copy** these files. Navigate back to your `Workbase Improved` folder, and open the folder named `OriginalBA2`. **Paste** the 15 vanilla texture archives inside.  
-
-Now go back to your `Workbase Improved` folder again. Double click the `Installer.cmd` file to run it.  
-  - If the file opens up in Notepad instead of running, simply close it and instead right click on the file and choose `Open`.
-
-Choose the output of your liking. You may use the default `PatchedBa2` folder, or navigate to your Magnum Opus installation and select `mods/[NoDelete] Workbase Optimized Textures`.  
-PowerShell will now launch and begin verifying all of your archives, then repacking your .ba2 files.  
-**This process may take an hour or two, depending on your hardware. For most people, it takes about fifteen minutes.**  
-When the installer is finished, it will automatically close itself.
-  -  If you chose the default `PatchedBa2` folder for your output, navigate to that folder, select all the archives inside, Copy them (right click > copy, or Ctrl+C). Then navigate to `Magnum Opus/mods/[NoDelete] Workbase Optimized Textures` and paste the archives here (right click > paste, or Ctrl+V).
-
-Due to how Wabbajack works, you only need to do this step ONCE. The `[NoDelete]` flag will prevent Wabbajack from ever deleting this mod during updates, so you will never have to redo this step unless you delete it yourself. Huzzah!
-
-*Many thanks to Rux616 for the Workbase Improved installer, please do go show him some love and endorse his work.*
+This section is currently broken due to the recent Fallout 4 update. Fix may come within the week.
 
 ---
 
