@@ -18,7 +18,27 @@ Finally, go to [SavrenX HD 1K Buildings and Interior](https://www.nexusmods.com/
 
 **COPY** the "Main Repack" and "SavrexX HD" archives into the `D:/Workbase Improved/Repack7z` folder.
 
-Go back to your `Workbase Improved` folder. Double click the `Installer.cmd` file to run it.  
+Now go to your Stock Game folder, which is in your modlist installation directory (for example, mine is in `D:/Magnum Opus/Stock Game`), open the `Data` folder, and select all of the `Textures.ba2` files. A full list is below for your perusal; there are 15 in total:  
+
+ - DLCCoast - Textures.ba2
+ - DLCNukaWorld - Textures.ba2
+ - DLCRobot - Textures.ba2
+ - DLCworkshop01 - Textures.ba2
+ - DLCworkshop02 - Textures.ba2
+ - DLCworkshop03 - Textures.ba2  
+ - Fallout4 - Textures1.ba2  
+ - Fallout4 - Textures2.ba2  
+ - Fallout4 - Textures3.ba2  
+ - Fallout4 - Textures4.ba2  
+ - Fallout4 - Textures5.ba2  
+ - Fallout4 - Textures6.ba2  
+ - Fallout4 - Textures7.ba2  
+ - Fallout4 - Textures8.ba2  
+ - Fallout4 - Textures9.ba2
+
+**Copy** these files. Navigate back to your `Workbase Improved` folder, and open the folder named `OriginalBA2`. **Paste** the 15 vanilla texture archives inside.  
+
+Now go back to your `Workbase Improved` folder again. Double click the `Installer.cmd` file to run it.  
   - If the file opens up in Notepad instead of running, simply close it and instead right click on the file and choose `Open`.
 
 Choose the output of your liking. You may use the default `PatchedBa2` folder, or navigate to your Magnum Opus installation and select `mods/[NoDelete] Workbase Optimized Textures`.  
