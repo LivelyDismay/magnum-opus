@@ -6,6 +6,7 @@
 - [Magnum Opus Frequently Asked Questions](#magnum-opus-frequently-asked-questions)
   - [Table of Contents](#table-of-contents)
   - [Hotkeys?](#hotkeys)
+  - [My Pipboy is inaccessible/invisible/showing random stuff I don't want to see/something is wrong. Fix it!](my-pipboy-is-inaccessible-invisible-showing-random-stuff-i-dont-want-to-see-something-is-wrong-fix-it)
   - [My game crashes when I launch from MO2. Help!](#my-game-crashes-when-i-launch-from-mo2-help)
   - [My characters have black/brown/tan/bugged faces. What happened?](#my-characters-have-blackbrowntanbugged-faces-what-happened)
   - [Some people have weird black spots on their body, why don't you fix it?](#some-people-have-weird-black-spots-on-their-body-why-dont-you-fix-it)
@@ -49,6 +50,14 @@
 - **T** - Wait  
 
 I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use Ctrl+Z personally. This can undo the last action you took in workshop mode, such as accidentally scrapping something you didn't want to scrap.
+
+[[Top]](#table-of-contents)
+
+---
+
+### My Pipboy is inaccessible/invisible/showing random stuff I don't want to see/something is wrong. Fix it!
+
+Open your MCM Configs, select the Baka Fullscreen Pipboy entry, and deactivate it.
 
 [[Top]](#table-of-contents)
 
