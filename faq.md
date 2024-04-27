@@ -55,7 +55,7 @@ I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use
 
 ---
 
-### My Pipboy is inaccessible/invisible/showing random stuff I don't want to see/something is wrong. Fix it!
+### My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!
 
 Open your MCM Configs, select the Baka Fullscreen Pipboy entry, and deactivate it.
 
