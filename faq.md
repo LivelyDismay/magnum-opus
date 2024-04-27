@@ -6,7 +6,8 @@
 - [Magnum Opus Frequently Asked Questions](#magnum-opus-frequently-asked-questions)
   - [Table of Contents](#table-of-contents)
   - [Hotkeys?](#hotkeys)
-  - [My Pipboy is inaccessible/invisible/showing random stuff I don't want to see/something is wrong. Fix it!](my-pipboy-is-inaccessible-invisible-showing-random-stuff-i-dont-want-to-see-or-something-is-wrong-fix-it)
+  - [My Pipboy is inaccessible/invisible/showing random stuff I don't want to see/something is wrong. Fix it!](#my-pipboy-is-inaccessible--invisible--showing-random-stuff-i-dont-want-to-see--something-is-wrong-fix-it)
+  - [How Do I Repair Power Armor?](#how-do-i-repair-power-armor)
   - [My game crashes when I launch from MO2. Help!](#my-game-crashes-when-i-launch-from-mo2-help)
   - [My characters have black/brown/tan/bugged faces. What happened?](#my-characters-have-blackbrowntanbugged-faces-what-happened)
   - [Some people have weird black spots on their body, why don't you fix it?](#some-people-have-weird-black-spots-on-their-body-why-dont-you-fix-it)
@@ -55,9 +56,17 @@ I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use
 
 ---
 
-### My Pipboy is inaccessible, invisible, showing random stuff I don't want to see, or something else is wrong. Fix it!
+### My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!
 
 Open your MCM Configs, select the Baka Fullscreen Pipboy entry, and deactivate it.
+
+[[Top]](#table-of-contents)
+
+---
+
+### How do I repair Power Armor?
+
+Craft Power Armor Repair Kits at the Engineering Workbench, or purchase them from applicable vendors (such as the Atom Cats or Brotherhood of Steel).
 
 [[Top]](#table-of-contents)
 
