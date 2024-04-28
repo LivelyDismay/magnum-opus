@@ -1,5 +1,13 @@
 2024/04/27
 
+Version 7.0.12
+
+Removed Creation Kit stuff from the compile. Sorry about that.  
+
+---
+
+2024/04/27
+
 Version 7.0.11
 
 Updated Vault-Tec Tools - Sim Settlements 2 Addon Pack.  
