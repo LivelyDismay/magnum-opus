@@ -1,3 +1,20 @@
+2024/04/27
+
+Version 7.0.11
+
+Updated Vault-Tec Tools - Sim Settlements 2 Addon Pack.  
+
+Updated some perks for True Damage synergy. Thanks to Herb for the consistency fixes.  
+
+Removed Random Junk Redux.  
+ - Note: this fixes the issue with misc items being placed on shelves oddly. However, this also means all the "new" junk items added by this mod are no longer available because they don't exist.  **It is strongly recommended you give yourself a Portable Junk Recycler, break down your junk, and save your game prior to updating.** Your save won't break if you don't do this, but you'll lose a bunch of scrap, and I don't feel like being yelled at.
+
+Fixed issue with `The Punisher` Mk18 rifle.  
+
+Fixed issue causing two stimpaks to be used instead of one.  
+
+---
+
 2024/04/25
 
 Version 7.0.10
