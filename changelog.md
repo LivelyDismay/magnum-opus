@@ -1,3 +1,15 @@
+2024/04/29
+
+Version 7.0.13
+
+Updated one journal entry for one Fourville quest to specify which perks will be needed for the quest not to auti-fail.  
+
+Removed some unused stuff in the MCM Settings Manager MCM to try to reduce confusion for newcomers.  
+
+Bug fix for Ransacked Relays and Shuddersome Subways.  
+
+---
+
 2024/04/27
 
 Version 7.0.12
