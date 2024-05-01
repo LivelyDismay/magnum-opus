@@ -1,3 +1,30 @@
+2024/xx/xx
+
+Version 7.0.14
+
+WIP
+
+Updated Perks:
+- Gunslinger, all ranks - perk descriptions, numranks.  
+- Gunslinger, rank 3 - +15% armor penetration.  
+- Quick Hands, rank 1 - +50% reload speed, no AP cost for reloading in VAFS.  
+- Quick Hands, rank 2 - perk condition check.  
+- Rifleman, ranks 4 & 5 - perk description.  
+- Shotgun Surgeon, rank 1 - perk description, effects (Damage with shotguns is increased by 5% plus an additional 1% per level).  
+- Shotgun Surgeon, rank 2, 3, & 4 - numranks.  
+- Shotgun Surgeon, rank 5 - perk description, effects (+50% limb damage).  
+- Penetrator, rank 1 - perk description, condition check on effects.  
+- Penetrator, rank 2 - perk description, effect (35 armor penetration).  
+- Spray n Pray, rank 5 - fix SPECIAL req.  
+- Four Leaf Clover, rank 1 - %5 chance to refill crit meter.  
+- Four Leaf Clover, rank 2 - 1% increased damage per LUCK; bloody mess effect in VAFS.
+- Four Leaf Clover, rank 3 - 10% chance to refill crit meter; 1% decreased damage taken per LUCK.
+- Four Leaf Clover, rank 4 - bloody mess spell applied (detonate nearby enemies).
+
+Yeeted a door from Beantown Interiors from Forest Grove Marsh. Nothing important inside; conflicted with David Hunter.  
+
+---
+
 2024/04/29
 
 Version 7.0.13
