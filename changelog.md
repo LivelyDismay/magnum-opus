@@ -24,6 +24,7 @@ Updated Perks:
 Yeeted a door from Beantown Interiors from Forest Grove Marsh. Nothing important inside; conflicted with David Hunter.  
 
 Black Widow chest no longer respawns.  
+
 ---
 
 2024/04/29
