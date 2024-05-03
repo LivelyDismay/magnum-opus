@@ -6,8 +6,8 @@
 - [Magnum Opus Frequently Asked Questions](#magnum-opus-frequently-asked-questions)
   - [Table of Contents](#table-of-contents)
   - [Hotkeys?](#hotkeys)
-  - [My Pipboy is inaccessible/invisible/showing random stuff I don't want to see/something is wrong. Fix it!](#my-pipboy-is-inaccessible--invisible--showing-random-stuff-i-dont-want-to-see--something-is-wrong-fix-it)
-  - [How Do I Repair Power Armor?](#how-do-i-repair-power-armor)
+  - [My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!](#my-pipboy-is-inaccessible--invisible--showing-random-stuff-i-dont-want-to-see--something-is-wrong-fix-it)
+  - [How do I repair Power Armor?](#how-do-i-repair-power-armor)
   - [My game crashes when I launch from MO2. Help!](#my-game-crashes-when-i-launch-from-mo2-help)
   - [My characters have black/brown/tan/bugged faces. What happened?](#my-characters-have-blackbrowntanbugged-faces-what-happened)
   - [Some people have weird black spots on their body, why don't you fix it?](#some-people-have-weird-black-spots-on-their-body-why-dont-you-fix-it)
@@ -29,7 +29,7 @@
   - [Can I update \<...\> mod?](#can-i-update--mod)
   - [What if I want to change/add/remove mods? Can you help me?](#what-if-i-want-to-changeaddremove-mods-can-you-help-me)
   - [Does Magnum Opus have Ultrawide Support?](#does-magnum-opus-have-ultrawide-support)
-  - [I'm having problems downloading files, how do I fix it?](#im-having-problems-downloading-files-how-do-i-fix-it)
+  - [I'm having problems downloading files in Wabbajack, how do I fix it?](#im-having-problems-downloading-files-in-wabbajack-how-do-i-fix-it)
   - [How do I change my FOV?](#how-do-i-change-my-fov)
   - [Is the BiRaitBec Texture Optimization step required?](#is-the-biraitbec-texture-optimization-step-required)
   - [But I want to use Cheat Terminal?](#but-i-want-to-use-cheat-terminal)
@@ -273,7 +273,9 @@ No. I don't own an Ultrawide monitor. Some of the other people playing this list
 
 ---
 
-### I'm having problems downloading files, how do I fix it?
+### I'm having problems downloading files in Wabbajack, how do I fix it?
+
+If the files that Wabbajack is getting stuck on are base game files, you should make sure to follow **all** the [Pre-Installation instructions in the README](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#pre-installation).
 
 The most common files that fail to download through Wabbajack are as follows:
 - [More Hairstyles - Beards](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
@@ -281,7 +283,7 @@ The most common files that fail to download through Wabbajack are as follows:
 
 Download these files manually, paste them into your `downloads` folder that you specified for Wabbajack, then rerun the installation.
 
-If you're getting a lot of "unable to download" errors in Wabbajack, then log out of Nexus within Wabbajack, then log back in. Once you've done that, try downloading again.
+If you're getting a lot of "unable to download" errors in Wabbajack outside of the base game files and the files mentioned above, then log out of Nexus within Wabbajack, then log back in. Once you've done that, try downloading again.
 
 [[Top]](#table-of-contents)
 
