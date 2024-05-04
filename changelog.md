@@ -34,6 +34,8 @@ Fixed Category name for Eli's Armour Compendium COBJs in the Armorsmith workbenc
 
 Added Conditions for Power Armor Airdrop flares and flare guns to check if Shadow of Steel has been completed.  
 
+Moved unused/outdated patches to my backups folder so people stop asking why they aren't enabled.  
+
 ---
 
 2024/04/29
