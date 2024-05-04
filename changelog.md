@@ -1,8 +1,6 @@
-2024/xx/xx
+2024/05/04
 
 Version 7.0.14
-
-WIP
 
 Updated Perks:
 - Gunslinger, all ranks - perk descriptions, numranks.  
