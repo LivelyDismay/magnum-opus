@@ -8,7 +8,7 @@ Updated Perks:
 - Gunslinger, all ranks - perk descriptions, numranks.  
 - Gunslinger, rank 3 - +15% armor penetration.  
 - Quick Hands, rank 1 - +50% reload speed, no AP cost for reloading in VAFS.  
-- Quick Hands, rank 2 - perk condition check.  
+- Quick Hands, rank 2 - perk condition check.  You reload weapons 50% faster and reloading in V.A.F.S costs no action points.  
 - Rifleman, ranks 4 & 5 - perk description.  
 - Shotgun Surgeon, rank 1 - perk description, effects (Damage with shotguns is increased by 5% plus an additional 1% per level).  
 - Shotgun Surgeon, rank 2, 3, & 4 - numranks.  
@@ -17,13 +17,22 @@ Updated Perks:
 - Penetrator, rank 2 - perk description, effect (35 armor penetration).  
 - Spray n Pray, rank 5 - fix SPECIAL req.  
 - Four Leaf Clover, rank 1 - %5 chance to refill crit meter.  
-- Four Leaf Clover, rank 2 - 1% increased damage per LUCK; bloody mess effect in VAFS.
+- Four Leaf Clover, rank 2 -  bloody mess effect. 1% decreased damage taken per LUCK.
 - Four Leaf Clover, rank 3 - 10% chance to refill crit meter; 1% decreased damage taken per LUCK.
-- Four Leaf Clover, rank 4 - bloody mess spell applied (detonate nearby enemies).
+- Four Leaf Clover, rank 4 - 1% increased damage per LUCK; bloody mess spell applied (detonate nearby enemies).
+- Restored Heavy Gunner rank 5.  
+- Penetrator rank 1 & 2 - doubled armor penetration while in VAFS.
+- Spray n Pray, rank 1 - added condition to check if weapon was a shotgun or not.  
 
 Yeeted a door from Beantown Interiors from Forest Grove Marsh. Nothing important inside; conflicted with David Hunter.  
 
 Black Widow chest no longer respawns.  
+
+Removed COBJ for Eli's Armor Workbench.  
+
+Fixed Category name for Eli's Armour Compendium COBJs in the Armorsmith workbench.  
+
+Added Conditions for Power Armor Airdrop flares and flare guns to check if Shadow of Steel has been completed.  
 
 ---
 
