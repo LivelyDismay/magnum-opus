@@ -1,3 +1,16 @@
+2024/xx/xx
+
+Version 7.0.15
+
+Removed Looksmenu Player Rotation.  
+
+Added Infinite Companion Ammo.  
+Added New Tactical Vertibird Sounds.  
+
+Changed conditional check on PA Armor Airdrop COBJs to check against Stage 40 of Fire Support instead of Call to Arms.  
+
+---
+
 2024/05/04
 
 Version 7.0.14
