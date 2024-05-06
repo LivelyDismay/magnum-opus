@@ -1,8 +1,6 @@
-2024/xx/xx
+2024/05/05
 
 Version 7.0.15
-
-WIP
 
 Removed Looksmenu Player Rotation.  
 
