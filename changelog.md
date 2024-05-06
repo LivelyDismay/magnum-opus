@@ -6,7 +6,8 @@ WIP
 
 Removed Looksmenu Player Rotation.  
 
-Added Infinite Companion Ammo.  
+Added Companion Tweaks - RobCo Patcher.  
+Added RobCo - Bosses Get Legendaries.  
 Added New Tactical Vertibird Sounds.  
 
 Changed conditional check on PA Armor Airdrop COBJs to check against Stage 40 of Fire Support instead of Call to Arms.  
