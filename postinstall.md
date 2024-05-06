@@ -10,7 +10,7 @@ This texture optimization is currently broken due to the recent Fallout 4 update
 
 #### Launching the Game
 
-Launch ModOrganizer.exe from inside your installation folder you chosefor the modlist when you first launched the Wabbajack app. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
+Launch ModOrganizer.exe from inside your installation folder you chose for the modlist when you first launched the Wabbajack app. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
 
 ---
 
