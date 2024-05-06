@@ -10,6 +10,8 @@ Added New Tactical Vertibird Sounds.
 
 Changed conditional check on PA Armor Airdrop COBJs to check against Stage 40 of Fire Support instead of Call to Arms.  
 
+Some ini tweaks.  
+
 ---
 
 2024/05/04
