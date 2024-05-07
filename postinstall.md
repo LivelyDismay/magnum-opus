@@ -17,7 +17,7 @@
 
 ### BiRaitBec Texture Optimization
 
-This texture optimization is currently broken due to the recent Fallout 4 update. It's being worked on.
+This texture optimization is currently broken due to the recent Fallout 4 update. It's being worked on. You can skip this until then.
 
 [[Top]](#table-of-contents)
 
