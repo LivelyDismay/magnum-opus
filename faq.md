@@ -20,6 +20,7 @@
   - [I can't seem to hurt enemies that are in power armor!](#i-cant-seem-to-hurt-enemies-that-are-in-power-armor)
   - [Why are feral ghouls so hard to kill?](#why-are-feral-ghouls-so-hard-to-kill)
   - [I'm only doing 1 damage! / Why does it take a dozen shots to kill the radroaches in Vault 111?](#im-only-doing-1-damage--why-does-it-take-a-dozen-shots-to-kill-the-radroaches-in-vault-111)
+  - [Why am I dying in just 1 or 2 hits?](#why-am-i-dying-in-just-1-or-2-hits)
   - [When I start Magnum Opus, the game is zoomed in!](#when-i-start-magnum-opus-the-game-is-zoomed-in)
   - [How do I cap/uncap my FPS?](#how-do-i-capuncap-my-fps)
   - [How do I edit the volumes for things like radios and voices?](#how-do-i-edit-the-volumes-for-things-like-radios-and-voices)
@@ -28,7 +29,6 @@
   - [Can I have multiple companions at the same time?](#can-i-have-multiple-companions-at-the-same-time)
   - [I don't like the flashlight.](#i-dont-like-the-flashlight)
   - [My flashlight isn't working!](#my-flashlight-isnt-working)
-  - [My flashlight isn't working elsewhere](#my-flashlight-isnt-working-elsewhere)
   - [Can I add an ENB?](#can-i-add-an-enb)
   - [Can I add character presets?](#can-i-add-character-presets)
   - [Can I update \<...\> mod?](#can-i-update--mod)
@@ -192,6 +192,16 @@ On rare occasions, True Damage won't load properly straight away. This will be a
 
 ---
 
+### Why am I dying in just 1 or 2 hits?
+
+This modlist uses True Damage, which changes ballistic weapons so that their damage is mostly based on the caliber of the round, not the weapon itself. This means that .38 does relatively little damage (it's still no joke when you're fresh out of the Vault though), but .50 cal is going to ruin your day. Automatic weapons will probably ruin your day regardless. Shotguns will also wreck you and enemies.
+
+Get tactical and don't stand out in the open like a numpty. Wear head armor. Bullets actually hurt in Magnum Opus, so get tactical and adjust your play style accordingly or be prepared to see the reload screen a lot.
+
+[[Top]](#table-of-contents)
+
+---
+
 ### When I start Magnum Opus, the game is zoomed in!
 
 Windows Scaling is messing with the game. To fix this:
@@ -268,11 +278,6 @@ If you're just starting the game and you're still in Vault 111, know that the yo
 Otherwise, some weapons that have flashlight attachment hijack the Pipboy flashlight, so even if you have the weapon holstered it still activates. Either change weapons, or use a different attachment.
 
 [[Top]](#table-of-contents)
-
----
-
-### My flashlight isn't working elsewhere
-
 
 ---
 
