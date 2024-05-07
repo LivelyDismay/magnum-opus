@@ -13,10 +13,13 @@
   - [Some people have weird black spots on their body, why don't you fix it?](#some-people-have-weird-black-spots-on-their-body-why-dont-you-fix-it)
   - [Controller support?!?](#controller-support)
   - [VAFS no work, plz fix](#vafs-no-work-plz-fix)
-  - [I can't build anything / how do I increase settlement size?](#i-cant-build-anything--how-do-i-increase-settlement-size)
+  - [I can't build anything / How do I increase settlement size?](#i-cant-build-anything--how-do-i-increase-settlement-size)
   - [I broke Workshop Plus and now I can't fly. What happened?](#i-broke-workshop-plus-and-now-i-cant-fly-what-happened)
   - [I am having random crashes. What do I do?](#i-am-having-random-crashes-what-do-i-do)
   - [I randomly have god mode / I take no damage or rads / my stamina doesn't drain anymore / VAFS isn't triggering when I press Q even though I followed the instructions to unbind VATS. What happened?](#i-randomly-have-god-mode--i-take-no-damage-or-rads--my-stamina-doesnt-drain-anymore--vafs-isnt-triggering-when-i-press-q-even-though-i-followed-the-instructions-to-unbind-vats-what-happened)
+  - [I can't seem to hurt enemies that are in power armor!](#i-cant-seem-to-hurt-enemies-that-are-in-power-armor)
+  - [Why are feral ghouls so hard to kill?](#why-are-feral-ghouls-so-hard-to-kill)
+  - [I'm only doing 1 damage! / Why does it take a dozen shots to kill the radroaches in Vault 111?](#im-only-doing-1-damage--why-does-it-take-a-dozen-shots-to-kill-the-radroaches-in-vault-111)
   - [When I start Magnum Opus, the game is zoomed in!](#when-i-start-magnum-opus-the-game-is-zoomed-in)
   - [How do I cap/uncap my FPS?](#how-do-i-capuncap-my-fps)
   - [How do I edit the volumes for things like radios and voices?](#how-do-i-edit-the-volumes-for-things-like-radios-and-voices)
@@ -24,6 +27,8 @@
   - [Why is there a crosshair on my Pip-Boy?](#why-is-there-a-crosshair-on-my-pip-boy)
   - [Can I have multiple companions at the same time?](#can-i-have-multiple-companions-at-the-same-time)
   - [I don't like the flashlight.](#i-dont-like-the-flashlight)
+  - [My flashlight isn't working!](#my-flashlight-isnt-working)
+  - [My flashlight isn't working elsewhere](#my-flashlight-isnt-working-elsewhere)
   - [Can I add an ENB?](#can-i-add-an-enb)
   - [Can I add character presets?](#can-i-add-character-presets)
   - [Can I update \<...\> mod?](#can-i-update--mod)
@@ -116,7 +121,7 @@ VATS needs to be unbound or bound to a different key. I thought this would trans
 
 ---
 
-### I can't build anything / how do I increase settlement size?
+### I can't build anything / How do I increase settlement size?
 
 If you can't build anything in Workshop mode, odds are you're at the Build Limit (that bar in the top right). To increase your build limit, approach a workshop and press Space, then Configure Build Limit.
 
@@ -159,6 +164,29 @@ If you've been unable to diagnose your issue after all that, feel free to upload
 ### I randomly have god mode / I take no damage or rads / my stamina doesn't drain anymore / VAFS isn't triggering when I press Q even though I followed the instructions to unbind VATS. What happened?
 
 Workshop Plus didn't uninitialize, apparently. Enter and exit workshop mode, that should fix it. Try not to open your Pipboy for a few seconds after exiting workshop mode.
+
+[[Top]](#table-of-contents)
+
+---
+
+### I can't seem to hurt enemies that are in power armor!
+
+This modlist uses a really cool mod called [Bastion](https://www.nexusmods.com/fallout4/mods/75184) that makes power armor actually prevent damage taken on a body part until the piece of armor covering that part is destroyed. This works for both you _and_ enemies. Some weapons also have built in armor penetration, mostly based on caliber (think .50 cal and 2mm EC for example).
+
+[[Top]](#table-of-contents)
+
+---
+
+### Why are feral ghouls so hard to kill?
+
+They're basically zombies. Go for the head. (Other body parts have a pretty high damage resistance.)
+
+[[Top]](#table-of-contents)
+
+---
+### I'm only doing 1 damage! / Why does it take a dozen shots to kill the radroaches in Vault 111?
+
+On rare occasions, True Damage won't load properly straight away. This will be apparently if your 10mm pistol does 1 damage, and the radroaches in Vault 111 take a dozen shots to kill. To fix this, simply save and load the game (you may need to exit the game fully). I'd recommend enabling the option to kill all Vault 111 radroaches, so you can check your damage in your Pipboy at the end of the vault.
 
 [[Top]](#table-of-contents)
 
@@ -233,6 +261,21 @@ I don't care. I do.
 
 ---
 
+### My flashlight isn't working!
+
+If you're just starting the game and you're still in Vault 111, know that the your Pipboy flashlight will not work between the time you pick it up and the time you press the button to open the vault door. It genuinely amazes me how many people report this to me. Just press the button, it's right there.
+
+Otherwise, some weapons that have flashlight attachment hijack the Pipboy flashlight, so even if you have the weapon holstered it still activates. Either change weapons, or use a different attachment.
+
+[[Top]](#table-of-contents)
+
+---
+
+### My flashlight isn't working elsewhere
+
+
+---
+
 ### Can I add an ENB?
 
 If you hate yourself, sure. Some people have added ENBs and reported consistent crashes, so your mileage may vary. Don't add an ENB and report bugs to me because I can't/won't help. This will void official support.
@@ -259,7 +302,7 @@ You can do whatever you want, but this will void any official support.
 
 ### What if I want to change/add/remove mods? Can you help me?
 
-Sometimes I [write guides on how to do these things](https://github.com/LivelyDismay/Learn-To-Mod/wiki). Please don't ask me "can I add" or "is it safe to add" or "is there a list of mods I can add" or "can I suggest this mod" because I don't want to make YOUR list. I want to make MY list. I'm happy to answer any *technical* questions you have. This will void official support.
+Sometimes I [write guides on how to do these things](https://github.com/LivelyDismay/Learn-To-Mod/wiki). Please don't ask me "can I add" or "is it safe to add" or "is there a list of mods I can add" or "can I suggest this mod" because I don't want to make YOUR list. I want to make MY list. I'm happy to answer any _technical_ questions you have. This will void official support.
 
 [[Top]](#table-of-contents)
 
