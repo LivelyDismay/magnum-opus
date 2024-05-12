@@ -13,6 +13,7 @@
   - [Some people have weird black spots on their body, why don't you fix it?](#some-people-have-weird-black-spots-on-their-body-why-dont-you-fix-it)
   - [Controller support?!?](#controller-support)
   - [VAFS no work, plz fix](#vafs-no-work-plz-fix)
+  - [I'm using two Stimpaks instead of one. What gives?](#im-using-two-stimpaks-instead-of-one-what-gives)
   - [I can't build anything / How do I increase settlement size?](#i-cant-build-anything--how-do-i-increase-settlement-size)
   - [I broke Workshop Plus and now I can't fly. What happened?](#i-broke-workshop-plus-and-now-i-cant-fly-what-happened)
   - [I am having random crashes. What do I do?](#i-am-having-random-crashes-what-do-i-do)
