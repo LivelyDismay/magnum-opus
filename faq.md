@@ -121,6 +121,14 @@ VATS needs to be unbound or bound to a different key. I thought this would trans
 
 ---
 
+### I'm using two Stimpaks instead of one. What gives?
+
+Sporadic issue that happens to a few users. Don't know why. There is a mod in the Optional section of Mod Organizer 2 entitled `Double Stimpak Bug Fix - Remove Stimpak Animation on Use` which will negate the issue, but will also remove the Stimpak animation on use (obviously). Enable it to fix this bug (and remove the animation...obviously).
+
+[[Top]](#table-of-contents)
+
+---
+
 ### I can't build anything / How do I increase settlement size?
 
 If you can't build anything in Workshop mode, odds are you're at the Build Limit (that bar in the top right). To increase your build limit, approach a workshop and press Space, then Configure Build Limit.
