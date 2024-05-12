@@ -53,7 +53,7 @@ That's it! Have fun!
 
 ### Contact
 
-I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and [my own personal Discord Server](https://discord.gg/yABEjwB).
+I'm always available on the [my own personal Discord Server](https://discord.gg/yABEjwB).
 
 [[Top]](#table-of-contents)
 
