@@ -1,3 +1,36 @@
+2024/05/12
+
+Version 7.0.16
+
+Updated Sim Settlements 2.  
+Updated SS2 - Superstructures.  
+Updated Vault Tec Tools.  
+Updated Workshop Framework.  
+Updated Challenges.  
+
+Added Sim Settlements 2 - Nuka World Expansion.  
+Added SS2 Addon - Shazbot's Cots.  
+Added Wasteland Defense - SS2 Addon.  
+Added Sim Settlements 2 - Addon Pack - DZK Concrete Defensible Positions.  
+Added Warwick Homestead - Concrete Bulwark Outpost - Sim Settlements 2 City Plan Contest Entry - November 2023.  
+Added MysticRogue's County Crossing City Plan and Outpost.  
+Added MysticRogue's Abernathy City Plan and Outpost Plan.  
+Added Warwick Outpost SS2 Plan.  
+Added MysticRogue's Tenpines Outpost Contest Entry Dec 2023.  
+Added Red Rocket Raider Outpost SS2 Plan.  
+
+Re-added the stimpak animation. Added an Optional file to disable the animation for players experiencing the "double stimpak" bug.  
+
+New Complex Sorter outputs.  
+
+Removed Dave's ESP Explorer from Sorter Outputs. Moved ESP Explorer to the Optional section (starts disabled). I only use this mod to test item sorting things. If you don't know what this is or how to use it, don't enable it. I will not help you with any problems you have while using it.  
+
+Removed Explosive OMOD from UZK50Gi.  
+
+Fixed issue with Utility Protectrons causing a repeatable freeze. Removed outdated and useless plugin previously used to try to mitigate this. You will get a missing plugin warning on loading your save. It's fine to ignore this and continue.  
+
+---
+
 2024/05/05
 
 Version 7.0.15
