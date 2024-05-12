@@ -37,9 +37,7 @@
   - [Does Magnum Opus have Ultrawide Support?](#does-magnum-opus-have-ultrawide-support)
   - [I'm having problems downloading files in Wabbajack, how do I fix it?](#im-having-problems-downloading-files-in-wabbajack-how-do-i-fix-it)
   - [How do I change my FOV?](#how-do-i-change-my-fov)
-  - [Is the BiRaitBec Texture Optimization step required?](#is-the-biraitbec-texture-optimization-step-required)
   - [But I want to use Cheat Terminal?](#but-i-want-to-use-cheat-terminal)
-  - [Pressing F11 crashes my game though!](#pressing-f11-crashes-my-game-though)
   - [Hey Lively, is there a reason ... ?](#hey-lively-is-there-a-reason--)
   - [Can I buy you a drink?](#can-i-buy-you-a-drink)
 
@@ -356,31 +354,9 @@ Do note that increasing your FOV also increases the amount of objects being rend
 
 ---
 
-### Is the BiRaitBec Texture Optimization step required?
-
-Technically, no. But you should still do it. If you ask me this, I'm just going to say yes.
-
-[[Top]](#table-of-contents)
-
----
-
 ### But I want to use Cheat Terminal?
 
-That's a shame. It'll break a lot of stuff in this list. Besides, half of what that mod does is already in Opus, like making various outfits and whatnot craftable. Use the console if you want to cheat, or press F11 to access the ESP Explorer. Don't blindly add stupid shit to the modlist.
-
-[[Top]](#table-of-contents)
-
----
-
-### Pressing F11 crashes my game though!
-
-If ESP Explorer crashes when you push the hotkey (F11), check your ESPExplorer.ini in "%USERPROFILE%\Documents\My Games\Fallout4\F4SE". If there is anything else on the line "HotKey=..." besides something like 0x79 or 0x7A, remove it.
-
-Good:
-(start of line)`HotKey=0x79`(end of line)
-
-Bad:
-(start of line)`HotKey=0x79 ; 0x79 = F10`(end of line)
+That's a shame. It'll break a lot of stuff in this list. Besides, half of what that mod does is already in Opus, like making various outfits and whatnot craftable. Use the console if you want to cheat. Don't blindly add stupid shit to the modlist.
 
 [[Top]](#table-of-contents)
 
