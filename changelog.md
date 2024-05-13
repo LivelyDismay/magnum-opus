@@ -1,5 +1,13 @@
 2024/05/13
 
+Versopm 7.0.18
+
+Removed CK text file from compile.  
+
+---
+
+2024/05/13
+
 Version 7.0.17
 
 Updated for newest version of Fallout 4.  
