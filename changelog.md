@@ -1,3 +1,13 @@
+2024/05/13
+
+Version 7.0.17
+
+Updated for newest version of Fallout 4.  
+
+Added a patch to allow BoS Legendary PA to be fixed with Repair Kits.  
+
+---
+
 2024/05/12
 
 Version 7.0.16
