@@ -1,6 +1,25 @@
+2024/05/21
+
+Version 7.0.19
+
+Added Faction Reinforcements - True Damage Patch.  
+Added RobCo - Smarter Bastion Penetration.  
+Added Sprint Jump AP Fix.  
+Added ToggleEquip.  
+
+Hid a few face/head files from CBBE and Nuclear, in an attempt to mitigate ongoing blackface issues. Didn't seem to work. Forgot to unhide them. Eh.  
+
+LOTS of new perk changes. Honestly I didn't document a lot of them. Things like Rifleman and Commando were changed, Dressed for the Apocalypse was swapped out for a new perk I made called Adaptation, Gunslinger was updated...sorry. In exchange for not diligently taking notes as I worked, I [made a spreadsheet for reference that contains the entire perk chart for your viewing pleasure](https://docs.google.com/spreadsheets/d/1uR2e_3fcl31K7SzcnnBw-sm6N3xxtXhPywt5Bli05ug/edit?usp=sharing).
+
+So, is this save-safe? Yeah, probably. I didn't edit any perks that would make any crazy changes to your character (looking at you, Forced Evolution). You may notice combat is a bit...easier, depending on your perks. APUs also won't be insanely difficult to kill. So that's cool, I guess.  
+
+I made sure to update the version separator as well so people can stop yelling at me.  
+
+---
+
 2024/05/13
 
-Versopm 7.0.18
+Version 7.0.18
 
 Removed CK text file from compile.  
 
