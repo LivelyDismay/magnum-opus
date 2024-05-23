@@ -191,6 +191,7 @@ They're basically zombies. Go for the head. (Other body parts have a pretty high
 [[Top]](#table-of-contents)
 
 ---
+
 ### I'm only doing 1 damage! / Why does it take a dozen shots to kill the radroaches in Vault 111?
 
 On rare occasions, True Damage won't load properly straight away. This will be apparently if your 10mm pistol does 1 damage, and the radroaches in Vault 111 take a dozen shots to kill. To fix this, simply save and load the game (you may need to exit the game fully). I'd recommend enabling the option to kill all Vault 111 radroaches, so you can check your damage in your Pipboy at the end of the vault.
