@@ -13,6 +13,7 @@
   - [Some people have weird black spots on their body, why don't you fix it?](#some-people-have-weird-black-spots-on-their-body-why-dont-you-fix-it)
   - [Controller support?!?](#controller-support)
   - [VAFS no work, plz fix](#vafs-no-work-plz-fix)
+  - [I don't like VAFS, how do I get VATS back?](#i-dont-like-vafs-how-do-i-get-vats-back)
   - [I'm using two Stimpaks instead of one. What gives?](#im-using-two-stimpaks-instead-of-one-what-gives)
   - [I can't build anything / How do I increase settlement size?](#i-cant-build-anything--how-do-i-increase-settlement-size)
   - [I broke Workshop Plus and now I can't fly. What happened?](#i-broke-workshop-plus-and-now-i-cant-fly-what-happened)
@@ -115,6 +116,16 @@ To mitigate any map issues, please apply the Opus v7 Controller MCM preset.
 ### VAFS no work, plz fix
 
 VATS needs to be unbound or bound to a different key. I thought this would transfer over from my own custom control map, but apparently I was mistaken. You can do this in your vanilla key binds menu under Settings, and the VAFS MCM.
+
+[[Top]](#table-of-contents)
+
+---
+
+### I don't like VAFS, how do I get VATS back?
+
+It's highly recommended that you just get used to VAFS. This list is made to use it, and perks have been edited with that idea very much in mind. Therefore, some perks may not work quite as described if you use them in VATS.
+
+Despite this, if you still wish to go ahead, you can re-enable VATS in the "VAFS Redux" MCM, "Other" page, in the "Debug" section. Toggle "VATS" to "ON".
 
 [[Top]](#table-of-contents)
 
