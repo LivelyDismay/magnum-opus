@@ -27,7 +27,7 @@ Manually download the **Main Repack** files (Part One, Part Two, and Part Three)
 
 Next, go to [SavrenX HD 1K Buildings and Interior](https://www.nexusmods.com/fallout4/mods/40534?tab=files) and **ONLY** download the last Update File entitled `Fix Vault-Window-Metal-Institute`.
 
-Finally, head on over to [the Restyle Pack](https://www.nexusmods.com/fallout4/mods/23556?tab=files&file_id=164211) and download that file. **DO NOT EXTRACT OR UNPACK THIS FILE.**
+Finally, head on over to [the Restyle Pack](https://www.nexusmods.com/fallout4/mods/23556?tab=files&file_id=164211) and download that file. 
 
 **COPY** the `Main Repack Parts 1, 2, & 3`, `SavrexX HD`, and `Restyle Pack - FOMOD` archives into the `D:/Workbase Improved/Repack7z` folder. **DO NOT EXTRACT, UNPACK, OR RENAME ANY OF THESE FILES.**
 
