@@ -6,11 +6,49 @@
 
 - [Post-Installation Instructions](#post-installation-instructions)
   - [Table of Contents](#table-of-contents)
+  - [BiRatBec Texture Optimization](#biraitbec-texture-optimization)
   - [Launching the Game](#launching-the-game)
   - [A Few Quick Notes](#a-few-quick-notes)
   - [In-Game MCM Options](#in-game-mcm-options)
   - [Contact](#contact)
   - [Donate](#donate)
+
+---
+
+### BiRatBec Texture Optimization
+
+This step hashes your vanilla files, just like Wabbajack hashes all the downloads and mods. They need to be PERFECTLY CLEAN AND UNALTERED (with the exception of the Game Folder Files in the previous step). If you'd like to be sure, just Verify Integrity of Game Files through Steam to make sure your Fallout 4 archives are pristine.
+
+Go to [BiRaitBec Workbase Improved](https://www.nexusmods.com/fallout4/mods/57782) and download the Main File.  
+Extract this archive into a blank folder, outside of a Windows protected directory (such as `D:/Workbase Improved`).  
+
+Now go to [BiRaitBec’s Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description).  
+Manually download the **Main Repack** files (Part One, Part Two, and Part Three).
+
+Next, go to [SavrenX HD 1K Buildings and Interior](https://www.nexusmods.com/fallout4/mods/40534?tab=files) and **ONLY** download the last Update File entitled `Fix Vault-Window-Metal-Institute`.
+
+Finally, head on over to [the Restyle Pack](https://www.nexusmods.com/fallout4/mods/23556?tab=files&file_id=164211) and download that file. **DO NOT EXTRACT OR UNPACK THIS FILE.**
+
+**COPY** the `Main Repack Parts 1, 2, & 3`, `SavrexX HD`, and `Restyle Pack - FOMOD` archives into the `D:/Workbase Improved/Repack7z` folder. **DO NOT EXTRACT, UNPACK, OR RENAME ANY OF THESE FILES.**
+
+Now go back to your `Workbase Improved` folder again. Double click the `Installer.cmd` file to run it.  
+  - If the file opens up in Notepad instead of running, simply close it and instead right click on the file and choose `Open`.
+
+Choose the output of your liking. You may use the default `PatchedBa2` folder, or navigate to your Magnum Opus installation and select `mods/[NoDelete] Workbase Optimized Textures` (recommended).  
+
+PowerShell will now launch and begin verifying all of your archives, then repacking your .ba2 files.  
+**This process may take an hour or two, depending on your hardware. For most people, it takes about fifteen minutes.** 
+
+When the installer is finished, it will automatically close itself.
+  -  If you chose the default `PatchedBa2` folder for your output, navigate to that folder, select all the archives inside, Copy them (right `click > copy`, or `Ctrl+C`). Then navigate to `Magnum Opus/mods/[NoDelete] Workbase Optimized Textures` and paste the archives here (`right click > paste`, or `Ctrl+V`).
+
+Due to how Wabbajack works, you only need to do this step ONCE. The `[NoDelete]` flag will prevent Wabbajack from ever deleting this mod during updates, so you will never have to redo this step unless you delete it yourself. Huzzah!
+
+*Many thanks to Rux616 for the Workbase Improved installer, please do go show him some love and endorse his work.*
+
+If you're still using the old Workbase Improved output, that's totally fine! Your perk chart will look different than mine does in the Youtube videos (as that's from the Restyle pack), but it's still perfectly functional. Dealer's choice!
+
+[[Top]](#table-of-contents)
 
 ---
 
