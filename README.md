@@ -55,7 +55,7 @@ Is Magnum Opus for you? I don't know, but [this video might help you decide](htt
 
 ### Pre-Installation
 
-You need a legal copy of the latest version of Fallout 4 through **Steam** (not GOG, not Epic), with all DLCs **EXCEPT** the High Definition DLC. The High Definition DLC is garbage and should not be used in any case ever.
+You need a legal copy of the latest version of Fallout 4 through **Steam** (not GOG, not Epic), with all DLCs as listed in Steam **EXCEPT** the High Definition DLC. The High Definition DLC is garbage and should not be used in any case ever.
 
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#updating).
 
