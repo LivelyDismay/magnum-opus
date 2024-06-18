@@ -57,6 +57,17 @@ Is Magnum Opus for you? I don't know, but [this video might help you decide](htt
 
 You need a legal copy of the latest version of Fallout 4 through **Steam** (not GOG, not Epic), with all DLCs as listed in Steam **EXCEPT** the High Definition DLC. The High Definition DLC is garbage and should not be used in any case ever.
 
+Here's how that works:
+<details>
+You update Fallout 4 in Steam to the latest version.
+Wabbajack looks for Fallout 4 and finds it based on your registry (which is why you launch the game once prior to installing) and the file hashes (unique identifiers that tell Wabbajack which versions of the files you have).
+
+Since Wabbajack is looking for one specific version, it will only work with the latest update.
+Wabbajack then reads the files in my Stock Game folder (which are the previous Fallout 4 version), identifies those hashes, compares them to the hashes of the files it found in Steam, and “patches” the Steam files into the Stock Game files.
+
+So what does this mean, in a nutshell? It means you need the latest version of Fallout 4 to install Magnum Opus. It also means Magnum Opus does not yet use the content from the update. This likely will not happen for several months (if ever), due to the nature of how these updates work.
+</details>
+
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#updating).
 
 #### Installing Microsoft Visual C++ Redistributable Packages
