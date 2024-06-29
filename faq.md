@@ -29,6 +29,7 @@
   - [I hate the HUD overlays while I'm in Power Armor. Can these be safely disabled?](#i-hate-the-hud-overlays-while-im-in-power-armor-can-these-be-safely-disabled)
   - [Why is there a crosshair on my Pip-Boy?](#why-is-there-a-crosshair-on-my-pip-boy)
   - [Can I have multiple companions at the same time?](#can-i-have-multiple-companions-at-the-same-time)
+  - [Are achievements enabled?](#are-achievements-enabled)
   - [I don't like the flashlight.](#i-dont-like-the-flashlight)
   - [My flashlight isn't working!](#my-flashlight-isnt-working)
   - [Can I add an ENB?](#can-i-add-an-enb)
@@ -277,6 +278,14 @@ A small side effect of the Power Armor HUD overlays. You can turn the Power Armo
 ### Can I have multiple companions at the same time?
 
 [Heather Casdin](https://www.nexusmods.com/fallout4/mods/23273) doesn't occupy a "follower" slot, so you can have Heather + one other companion. You cannot have multiple vanilla companions with you at the same time.
+
+[[Top]](#table-of-contents)
+
+---
+
+### Are achievements enabled?
+
+Yes.
 
 [[Top]](#table-of-contents)
 
