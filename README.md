@@ -240,6 +240,6 @@ Step 3:
 
 ## Contact
 
-I'm always available on [my own personal Discord Server](https://discord.gg/yABEjwB).
+I'm always available on [my own personal Discord Server](https://discord.gg/livelymods).
 
 [[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
