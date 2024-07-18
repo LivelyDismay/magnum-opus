@@ -91,7 +91,7 @@ That's it! Have fun!
 
 ### Contact
 
-I'm always available on [my own personal Discord Server](https://discord.gg/yABEjwB).
+I'm always available on [my own personal Discord Server](https://discord.gg/livelymods).
 
 [[Top]](#table-of-contents)
 
