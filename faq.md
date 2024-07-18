@@ -174,7 +174,7 @@ If your crash log references an `xAudio dll` file, I have no idea how to fix thi
 
 Barring those reasons, there are still a plethora of other possibilities. [Auto Scanner](https://www.nexusmods.com/fallout4/mods/56255) can catch a ton of these. It is recommended you run your crash log through this script (it's easy, you copy and paste the file, double click a thing, and press a button - no special knowledge required) and check the results. There is also a handy dandy `HOW TO READ CRASH LOGS.pdf` file you can reference.
 
-If you've been unable to diagnose your issue after all that, feel free to upload your crash log to me on [Discord](https://discord.gg/yABEjwB). Maybe I can figure something out.
+If you've been unable to diagnose your issue after all that, feel free to upload your crash log to me on [Discord](https://discord.gg/livelymods). Maybe I can figure something out.
 
 [[Top]](#table-of-contents)
 
