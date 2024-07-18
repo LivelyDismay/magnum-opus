@@ -146,7 +146,7 @@ The most common files that fail to download through Wabbajack are as follows:
 
 Download these files manually, paste them into your `downloads` folder that you specified for Wabbajack, then rerun the installation.
 
-Need help with something else? [Join my Discord server for live support.](https://discord.gg/yABEjwB)
+Need help with something else? [Join my Discord server for live support.](https://discord.gg/livelymods)
 
 - **I'm having problems downloading more than a few files**
 
@@ -193,7 +193,7 @@ This section [has been moved to its own page, just to really make it stand out i
 
 ## FAQ
 
-I've been doing this for a while now, so [I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md) Please check this out first, then come on over to [my Discord](https://discord.gg/yABEjwB) if you need further assistance.
+I've been doing this for a while now, so [I've compiled the most common questions into one handy spot!](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md) Please check this out first, then come on over to [my Discord](https://discord.gg/livelymods) if you need further assistance.
 
 [[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
 
