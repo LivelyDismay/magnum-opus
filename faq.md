@@ -6,6 +6,7 @@
 - [Magnum Opus Frequently Asked Questions](#magnum-opus-frequently-asked-questions)
   - [Table of Contents](#table-of-contents)
   - [Hotkeys?](#hotkeys)
+  - [Load order? / What mods are in this list?](#load-order--what-mods-are-in-this-list)
   - [My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!](#my-pipboy-is-inaccessible--invisible--showing-random-stuff-i-dont-want-to-see--something-is-wrong-fix-it)
   - [How do I repair Power Armor?](#how-do-i-repair-power-armor)
   - [My game crashes when I launch from MO2. Help!](#my-game-crashes-when-i-launch-from-mo2-help)
@@ -57,6 +58,14 @@
 - **T** - Wait  
 
 I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use Ctrl+Z personally. This can undo the last action you took in workshop mode, such as accidentally scrapping something you didn't want to scrap.
+
+[[Top]](#table-of-contents)
+
+---
+
+### Load order? / What mods are in this list?
+
+Have a look. <https://loadorderlibrary.com/lists/magnum-opus>
 
 [[Top]](#table-of-contents)
 
