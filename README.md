@@ -108,19 +108,7 @@ I highly recommend uninstalling the game through Steam, deleting the game folder
 
 Let's get to the actual installation..
 
-~~Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/) (just click the big blue Download button) Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop..~~  
-
----
-
-**WARNING: PLEASE READ:**
-
-You'll need to use wabbajack version 3.6.1.1 to install the list for the foreseeable future. Compilations on 3.7.0.0 won't work for me even after a full reset. So I guess i won't be updating for a while either.
-
-Wabbajack keeps the three most recent versions of the program, so if you have a folder along the lines of Wabbajack\3.6.1.1, there's a Wabbajack.exe inside of there that you can use to launch that specific version.
-
-If you dont have it, you can get it here: https://github.com/wabbajack-tools/wabbajack/releases/tag/3.6.1.1
-
-Thanks. Sorry.
+Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/) (just click the big blue Download button) Place the `Wabbajack.exe` file in a blank folder at the root of a drive, such as `C:/Wabbajack`. Please do not put it in a Windows Protected Directory, such as Program Files or your Desktop..  
 
 ---
 
