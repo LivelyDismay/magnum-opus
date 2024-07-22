@@ -1,3 +1,16 @@
+2024/07/21
+
+Version 7.0.20
+
+Added Rusty Face Fix.  
+Added a new patch I made called ModdableTrunk. Allows Trunk to be modded with Automatron pieces. Neato.  
+
+Removed More Clothes and Outfit Textures.  
+
+Updated to Wabbajack v3.7.0.0.  
+
+---
+
 2024/05/21
 
 Version 7.0.19
