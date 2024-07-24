@@ -173,7 +173,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Post Installation
 
-This section [has been moved to its own page, just to really make it stand out in its importance.](https://github.com/LivelyDismay/magnum-opus/blob/main/postinstall.md) **Magnum Opus WILL CRASH CONSTANTLY if you do not do this part.**
+This section includes things like the BiRaitBec textures/WorkBase Improved (WBI)/Mod Config Menu (MCM)/etc. and [has been moved to its own page, just to really make it stand out in its importance.](https://github.com/LivelyDismay/magnum-opus/blob/main/postinstall.md) **Magnum Opus WILL CRASH CONSTANTLY if you do not do this part.**
 
 [[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
 
