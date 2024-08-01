@@ -6,7 +6,7 @@
 - [Magnum Opus Frequently Asked Questions](#magnum-opus-frequently-asked-questions)
   - [Table of Contents](#table-of-contents)
   - [Hotkeys?](#hotkeys)
-  - [I'm crashing on character creation / when changing my hair / when choosing a character preset. How do I fix this?](#im-crashing-on-character-creation--when-changing-my-hair--when-choosing-a-character-preset-how-do-i-fix-it)
+  - [I'm crashing on character creation / when changing my hair / when choosing a character preset. How do I fix this?](#im-crashing-on-character-creation--when-changing-my-hair--when-choosing-a-character-preset-how-do-i-fix-this)
   - [Load order? / What mods are in this list?](#load-order--what-mods-are-in-this-list)
   - [My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!](#my-pipboy-is-inaccessible--invisible--showing-random-stuff-i-dont-want-to-see--something-is-wrong-fix-it)
   - [How do I repair Power Armor?](#how-do-i-repair-power-armor)
