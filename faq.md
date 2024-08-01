@@ -6,6 +6,7 @@
 - [Magnum Opus Frequently Asked Questions](#magnum-opus-frequently-asked-questions)
   - [Table of Contents](#table-of-contents)
   - [Hotkeys?](#hotkeys)
+  - [I'm crashing on character creation / when changing my hair / when choosing a character preset. How do I fix this?](#im-crashing-on-character-creation--when-changing-my-hair--when-choosing-a-character-preset-how-do-i-fix-it)
   - [Load order? / What mods are in this list?](#load-order--what-mods-are-in-this-list)
   - [My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!](#my-pipboy-is-inaccessible--invisible--showing-random-stuff-i-dont-want-to-see--something-is-wrong-fix-it)
   - [How do I repair Power Armor?](#how-do-i-repair-power-armor)
@@ -58,6 +59,14 @@
 - **T** - Wait  
 
 I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use Ctrl+Z personally. This can undo the last action you took in workshop mode, such as accidentally scrapping something you didn't want to scrap.
+
+[[Top]](#table-of-contents)
+
+---
+
+### I'm crashing on character creation / when changing my hair / when choosing a character preset. How do I fix this?
+
+For some reason, there's a small but significant amount of people that experience this. Close the game, and disable the mod in MO2 called `Rusty Face Fix`. Now go back and make your character. I'd recommend turning this mod back on next time you close the game.
 
 [[Top]](#table-of-contents)
 
