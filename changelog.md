@@ -139,7 +139,7 @@ Moved unused/outdated patches to my backups folder so people stop asking why the
 
 Version 7.0.13
 
-Updated one journal entry for one Fourville quest to specify which perks will be needed for the quest not to auti-fail.  
+Updated one journal entry for one Fourville quest to specify which perks will be needed for the quest not to auto-fail.  
 
 Removed some unused stuff in the MCM Settings Manager MCM to try to reduce confusion for newcomers.  
 
@@ -164,7 +164,7 @@ Updated Vault-Tec Tools - Sim Settlements 2 Addon Pack.
 Updated some perks for True Damage synergy. Thanks to Herb for the consistency fixes.  
 
 Removed Random Junk Redux.  
- - Note: this fixes the issue with misc items being placed on shelves oddly. However, this also means all the "new" junk items added by this mod are no longer available because they don't exist.  **It is strongly recommended you give yourself a Portable Junk Recycler, break down your junk, and save your game prior to updating.** Your save won't break if you don't do this, but you'll lose a bunch of scrap, and I don't feel like being yelled at.
+- Note: this fixes the issue with misc items being placed on shelves oddly. However, this also means all the "new" junk items added by this mod are no longer available because they don't exist.  **It is strongly recommended you give yourself a Portable Junk Recycler, break down your junk, and save your game prior to updating.** Your save won't break if you don't do this, but you'll lose a bunch of scrap, and I don't feel like being yelled at.
 
 Fixed issue with `The Punisher` Mk18 rifle.  
 
@@ -203,7 +203,7 @@ Added MCM Preset for Controller users. No more green or missing map for you!
 Version 7.0.8
 
 Changed LooksMirror/HandsOff patch.  
- - This required me to reinstall LooksMirror, which I apparently compacted at some point. I don't know why I did that. So if you have already built LooksMirrors in your settlements, they're probably gonna be busted. I would go scrap them, save your game, then update the list.
+- This required me to reinstall LooksMirror, which I apparently compacted at some point. I don't know why I did that. So if you have already built LooksMirrors in your settlements, they're probably gonna be busted. I would go scrap them, save your game, then update the list.
 
 Changed default profile to one that isn't something I use for mod development.  
 Minor mod order adjustments.  
@@ -222,7 +222,7 @@ Added a new "mod" that's just a few songs extracted from the vanilla `Fallout 4 
 
 Updated a faulty patch I made in regards to crafting Power Armor Repair Kits (accidentally had the components required pointing at COBJ instead of MISC).
 
-Edited Fallout4Custom.ini to change sun shadow timer update and theshold values. Untested because I'm lazy but should give smoother shadow transitions during daytime.  
+Edited Fallout4Custom.ini to change sun shadow timer update and threshold values. Untested because I'm lazy but should give smoother shadow transitions during daytime.  
 
 PLEASE NOTE: This update **might not be save-safe.** Since this is such a huge update to SS2, I am uncertain if it will cause problems later on down the line. Personally, I've updated this mod during the end of chapter 1, prior to reaching HQ. Since this update is primarily focused on HQ, I'm hopeful this won't be problematic for me.  If you are unwilling to take the risk, **don't install this update.** And remember, any problems with the mods in this list are my problem, not the other mod authors' like kinggath. Thanks for reading.
 
@@ -233,21 +233,21 @@ PLEASE NOTE: This update **might not be save-safe.** Since this is such a huge u
 Version 7.0.6
 
 Changed the following perks for VAFS synergy, clearer descriptions, or other various small tweaks:
- - Blitz, ranks 1 & 2
- - Classic Criticals, ranks 1-4
- - Deadly Rush, ranks 1-4
- - Action Boy / Action Girl, rank 3
- - Gumshoe, rank 4
- - Night Person, rank 3
- - Four Leaf Clover, ranks 1-4
- - Gunslinger, ranks 3 & 4
- - Heavy Gunner, rank 5
- - Iron Fist, rank 3
- - Medic, ranks 1 & 2
- - Penetrator, ranks 1 & 2
- - Refractor, rank 5
- - Rifleman, ranks 1, 3, & 4
- - Sniper, ranks 1 & 2
+- Blitz, ranks 1 & 2
+- Classic Criticals, ranks 1-4
+- Deadly Rush, ranks 1-4
+- Action Boy / Action Girl, rank 3
+- Gumshoe, rank 4
+- Night Person, rank 3
+- Four Leaf Clover, ranks 1-4
+- Gunslinger, ranks 3 & 4
+- Heavy Gunner, rank 5
+- Iron Fist, rank 3
+- Medic, ranks 1 & 2
+- Penetrator, ranks 1 & 2
+- Refractor, rank 5
+- Rifleman, ranks 1, 3, & 4
+- Sniper, ranks 1 & 2
 
 Moved Portable Junk Recycler to the Utility Workbench.  
 Made the Simple version for constructing the Portable Junk Recycler the default option.
@@ -319,123 +319,123 @@ This is just to help me keep track of my ongoing work. **This update is not happ
 **There is no ETA.** But you are free to peruse the coming changes - do note, this is not final in any way and is constantly changing. Anything listed here may or may not be accurate for what the future update actually contains.
 
 <details>  
- 
- ---
- 
- **ADDED**  
- 
- Buffout 4 NG  
- Perchik's In-Game Mod Explorer  
- No Bloodworm Molerats Scorpions Teleport Fix  
- Terrain Undersides  
- Settlers of the Commonwealth  
- Beantown Interiors Project  
- BTI True Interiors Patch  
- 
- ---
- 
- **REMOVED**  
- 
- Buffout 4  
- Dave's ESP Explorer  
- The Bleachers - A Diamond City Story  
- Ad Victoriam  
- B-35C Heavy Brotherhood of Steel Armor  
- Better Gold Bars  
- Better UFO Crash Site  
- Fallout 4 Capital Wasteland Classic Metal Armor  
- Homemaker - Expanded Settlements  
- Clean Homemaker Greenhouses  
- COBRA - Officer's Revolver  
- Courser Crusher  
- Energy Weapon Kill FX  
- Crossbows of the Commonwealth  
- CROSS PlasRail  
- Evil Detective  
- Fallout 4 - Point Lookout  
- Hilda Hughes - An Institute Story  
- HK USP .45  
- Hot Rodder Hazmat Suits  
- I'm Darlene  
- HN66s SIRIUS.12 Assault Suit  
- Improved Disarm  
- Improved Disarm - Auto Lockpick Consistency  
- I've Got Wood - Sanctuary Texture Overhaul  
- Kriss Vector  
- Legendary Swap with Reasonable Restrictions  
- NPC Level Scaling  
- Nuka World Plus  
- Remove Explosives  
- Rusty Face Fix  
- Settlement Tidy Bot  
- Stevens M-520 Shotgun  
- STI 2011 DVC - A Relic of the Modern Age  
- True Storms Wasteland Edition  
- Vivid Weathers  
- Waster Armor  
- Weather Synergy  
- Notes of the Commonwealth  
- Root Cellar Shelter  
- Tales from the Commonwealth - Patch Previsiblines  
- CleanVATS - Green Tint Remover  
- More Obvious Low Health - Grey-scale Version  
- Believable Drumlin Diner  
- Unique Uniques - Unique Weapons Redone  
- Deliverer Modification Pack  
- 10mm Modification Pack  
- Unique Uniques  
- 
- ---
- 
- **UPDATED**  
- 
- Heather Casdin  
- Unofficial Fallout 4 Patch  
- Workshop Framework  
- FallUI - Inventory  
- FallUI - HUD  
- FallUI - Workbench  
- FallUI - Sleep and Wait  
- FallUI - Confirm Boxes  
- Who's the General - Minutemen Quest Cleanup  
- Subversion - The Institute-Railroad Alliance  
- Far Harbor Story  
- Nuka-World Monorail Fast Travel  
- Laser Weapons 1st Person Reposition Fix  
- The Brotherhood Power Armor Drop Team  
- Portable Junk Recycler Mk 2  
- Ownership Fixes  
- Companion Thoughts Overhaul  
- Sim Settlements 2  
- SS2 Chapter 2  
- Minutemen Watchtowers  
- Abandoned Tunnels - Underground Railroad Redux  
- Wasteland Ventures  
- Superstructures - A Sim Settlements 2 Addon Pack  
- Pra's Random Addon  
- SS2 - Nobody's Leaders  
- Jampads 2 - A Sim Settlements 2 Addon  
- So I Made Plans  
- Radiant Municipal Power  
- SS2 Settlers at Play  
- Rise of the Commonwealth for SS2  
- Castle Restoration Project  
- Choochoo1's The Metro - Vault 88 City Plan  
- Coastal Cottage - SS2 City Plan  
- SS2 Nordhagen Beach Seaside Views  
- SS2 Sanctuary Green Hills  
- Holotape Display  
- Hands Off - Locked Settlement Containers  
- Whisper's Extra Pieces and Snaps  
- Provisioner and Supply Line Management System  
- Settlers Go Shopping  
- Immersive Candles  
- Wetness Shader Fix  
- TftC - Visual Fixes  
- Dark Sci Fi Vault Retexture  
- Ultimate Window Overhaul  
- Evil Institute  
- 
+
+---
+
+**ADDED**  
+
+Buffout 4 NG  
+Perchik's In-Game Mod Explorer  
+No Bloodworm Molerats Scorpions Teleport Fix  
+Terrain Undersides  
+Settlers of the Commonwealth  
+Beantown Interiors Project  
+BTI True Interiors Patch  
+
+---
+
+**REMOVED**  
+
+Buffout 4  
+Dave's ESP Explorer  
+The Bleachers - A Diamond City Story  
+Ad Victoriam  
+B-35C Heavy Brotherhood of Steel Armor  
+Better Gold Bars  
+Better UFO Crash Site  
+Fallout 4 Capital Wasteland Classic Metal Armor  
+Homemaker - Expanded Settlements  
+Clean Homemaker Greenhouses  
+COBRA - Officer's Revolver  
+Courser Crusher  
+Energy Weapon Kill FX  
+Crossbows of the Commonwealth  
+CROSS PlasRail  
+Evil Detective  
+Fallout 4 - Point Lookout  
+Hilda Hughes - An Institute Story  
+HK USP .45  
+Hot Rodder Hazmat Suits  
+I'm Darlene  
+HN66s SIRIUS.12 Assault Suit  
+Improved Disarm  
+Improved Disarm - Auto Lockpick Consistency  
+I've Got Wood - Sanctuary Texture Overhaul  
+Kriss Vector  
+Legendary Swap with Reasonable Restrictions  
+NPC Level Scaling  
+Nuka World Plus  
+Remove Explosives  
+Rusty Face Fix  
+Settlement Tidy Bot  
+Stevens M-520 Shotgun  
+STI 2011 DVC - A Relic of the Modern Age  
+True Storms Wasteland Edition  
+Vivid Weathers  
+Waster Armor  
+Weather Synergy  
+Notes of the Commonwealth  
+Root Cellar Shelter  
+Tales from the Commonwealth - Patch Previsiblines  
+CleanVATS - Green Tint Remover  
+More Obvious Low Health - Grey-scale Version  
+Believable Drumlin Diner  
+Unique Uniques - Unique Weapons Redone  
+Deliverer Modification Pack  
+10mm Modification Pack  
+Unique Uniques  
+
+---
+
+**UPDATED**  
+
+Heather Casdin  
+Unofficial Fallout 4 Patch  
+Workshop Framework  
+FallUI - Inventory  
+FallUI - HUD  
+FallUI - Workbench  
+FallUI - Sleep and Wait  
+FallUI - Confirm Boxes  
+Who's the General - Minutemen Quest Cleanup  
+Subversion - The Institute-Railroad Alliance  
+Far Harbor Story  
+Nuka-World Monorail Fast Travel  
+Laser Weapons 1st Person Reposition Fix  
+The Brotherhood Power Armor Drop Team  
+Portable Junk Recycler Mk 2  
+Ownership Fixes  
+Companion Thoughts Overhaul  
+Sim Settlements 2  
+SS2 Chapter 2  
+Minutemen Watchtowers  
+Abandoned Tunnels - Underground Railroad Redux  
+Wasteland Ventures  
+Superstructures - A Sim Settlements 2 Addon Pack  
+Pra's Random Addon  
+SS2 - Nobody's Leaders  
+Jampads 2 - A Sim Settlements 2 Addon  
+So I Made Plans  
+Radiant Municipal Power  
+SS2 Settlers at Play  
+Rise of the Commonwealth for SS2  
+Castle Restoration Project  
+Choochoo1's The Metro - Vault 88 City Plan  
+Coastal Cottage - SS2 City Plan  
+SS2 Nordhagen Beach Seaside Views  
+SS2 Sanctuary Green Hills  
+Holotape Display  
+Hands Off - Locked Settlement Containers  
+Whisper's Extra Pieces and Snaps  
+Provisioner and Supply Line Management System  
+Settlers Go Shopping  
+Immersive Candles  
+Wetness Shader Fix  
+TftC - Visual Fixes  
+Dark Sci Fi Vault Retexture  
+Ultimate Window Overhaul  
+Evil Institute  
+
  </details>
 
 ---
@@ -597,9 +597,9 @@ Presets have default hair.
 Claudia (12047d77, 12047d55) spawns naked.  
 Heather Casdin and Vault 494 use the same radio frequency.  
 
-Notes: 
+Notes:
 
-This is Trash was rebuilt from scratch. That's why you have two of them in the left pane. The new one will (eventually) completely replace the old one. When I stop being so lazy.   
+This is Trash was rebuilt from scratch. That's why you have two of them in the left pane. The new one will (eventually) completely replace the old one. When I stop being so lazy.  
 Updates are never mandatory. This version of Magnum Opus has been very thoroughly tested by myself and a few dozen others, so bugs should be extremely minimal. In 26 hours of playtime, I had one crash that I could not reproduce or diagnose.  
 The known issues are so minor that I'm finally comfortable releasing this into the wild. Thanks for your time.
 
@@ -2511,7 +2511,7 @@ Added Smaller Map Markers.
 Added CCCleaner.  
 Added Simply Lowered Drawbridges.  
 Added Emogene Takes a Lover - Quest Fix.  
- - *Yes, I stole two of those from F4EE. I have no shame.*  
+- *Yes, I stole two of those from F4EE. I have no shame.*  
 Fixed one house from BTI in Concord that 99% of you won't see because nobody even goes to that part of town anyway.  
 Removed Super Mutant Explosion Resistance. (They still have high damage resist overall so keep that in mind before you say "But Lively, my 1000 damage mini nuke only does 600 damage, what gives")  
 Updated Buffout 4.  

@@ -63,7 +63,7 @@ You update Fallout 4 in Steam to the latest version.
 Wabbajack looks for Fallout 4 and finds it based on your registry (which is why you launch the game once prior to installing) and the file hashes (unique identifiers that tell Wabbajack which versions of the files you have).
 
 Since Wabbajack is looking for one specific version, it will only work with the latest update.
-Wabbajack then reads the files in my Stock Game folder (which are the previous Fallout 4 version), identifies those hashes, compares them to the hashes of the files it found in Steam, and “patches” the Steam files into the Stock Game files.
+Wabbajack then reads the files in my Stock Game folder (which are the previous Fallout 4 version), identifies those hashes, compares them to the hashes of the files it found in Steam, and "patches" the Steam files into the Stock Game files.
 
 So what does this mean, in a nutshell? It means you need the latest version of Fallout 4 to install Magnum Opus. It also means Magnum Opus does not yet use the content from the update. This likely will not happen for several months (if ever), due to the nature of how these updates work.
 </details>

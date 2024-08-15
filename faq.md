@@ -234,7 +234,7 @@ On rare occasions, True Damage won't load properly straight away. This will be a
 
 This modlist uses True Damage, which changes ballistic weapons so that their damage is mostly based on the caliber of the round, not the weapon itself. This means that .38 does relatively little damage (it's still no joke when you're fresh out of the Vault though), but .50 cal is going to ruin your day. Automatic weapons will probably ruin your day regardless. Shotguns will also wreck you and enemies.
 
-Get tactical and don't stand out in the open like a numpty. Wear head armor. Bullets actually hurt in Magnum Opus, so get tactical and adjust your play style accordingly or be prepared to see the reload screen a lot.
+Don't stand out in the open like a numpty. Wear head armor. Bullets actually hurt in Magnum Opus, so get tactical and adjust your play style accordingly or be prepared to see the reload screen a lot.
 
 [[Top]](#table-of-contents)
 
