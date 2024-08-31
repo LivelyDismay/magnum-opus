@@ -1,5 +1,13 @@
 2024/07/21
 
+Version 7.0.21
+
+Edited Rusy Face Fix ini to disable streaming mode. Hopefully this resolves the looksmenu crashes and random npc instance crashes a few of you are having.
+
+Removed some test stuff from the compile that you don't need or want or know what to do with because I am an idiot and make mods in an unclean environment sometimes.
+
+---
+
 Version 7.0.20
 
 Added Rusty Face Fix.  
