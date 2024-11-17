@@ -1,3 +1,13 @@
+2024/11/17
+
+Version 7.0.22
+
+Added Keep Deacon's Trust.  
+
+Removed Fallout Priority.  
+
+---
+
 2024/08/31
 
 Version 7.0.21
