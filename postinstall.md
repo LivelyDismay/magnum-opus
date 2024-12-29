@@ -22,14 +22,15 @@ This step hashes your vanilla files, just like Wabbajack hashes all the download
 Go to [BiRaitBec Workbase Improved](https://www.nexusmods.com/fallout4/mods/57782) and download the Main File.  
 Extract this archive into a blank folder, outside of a Windows protected directory (such as `D:/Workbase Improved`).  
 
-Now go to [BiRaitBec's Modding Guide](https://www.nexusmods.com/fallout4/mods/23556?tab=description).  
-Manually download the **Main Repack** files (Part One, Part Two, and Part Three).
+Download the following files:
 
-Next, go to [SavrenX HD 1K Buildings and Interior](https://www.nexusmods.com/fallout4/mods/40534?tab=files) and **ONLY** download the last Update File entitled `Fix Vault-Window-Metal-Institute`.
+* [2a. Main Repack - Part One-23556-1-0-1565616028.7z](https://www.nexusmods.com/fallout4/mods/23556?tab=files&file_id=164245)
+* [2b. Main Repack - Part Two-23556-1-0-1565980979.7z](https://www.nexusmods.com/fallout4/mods/23556?tab=files&file_id=164487)
+* [2c. Main Reapack - Part Three-23556-1-0-1565605113.7z](https://www.nexusmods.com/fallout4/mods/23556?tab=files&file_id=164241)
+* [Fix Vault-Window-Metal-Institute-40534-1-02-1565670781.7z](https://www.nexusmods.com/fallout4/mods/40534?tab=files&file_id=164279)
+* [3. Restyle Pack - Fomod-23556-1-0-1565546849.7z](https://www.nexusmods.com/fallout4/mods/23556?tab=files&file_id=164211)
 
-Finally, head on over to [the Restyle Pack](https://www.nexusmods.com/fallout4/mods/23556?tab=files&file_id=164211) and download that file.
-
-**COPY** the `Main Repack Parts 1, 2, & 3`, `SavrenX HD`, and `Restyle Pack - FOMOD` archives into the `D:/Workbase Improved/Repack7z` folder. **DO NOT EXTRACT, UNPACK, OR RENAME ANY OF THESE FILES.**
+**COPY** the `2a. Main Repack - Part One`, `2b. Main Repack - Part Two`, `2c. Main Reapack - Part Three`, `Fix Vault-Window-Metal-Institute`, and `3. Restyle Pack - Fomod` archives into the `D:/Workbase Improved/Repack7z` folder. **DO NOT EXTRACT, UNPACK, OR RENAME ANY OF THESE FILES.**
 
 Now go back to your `Workbase Improved` folder again. Double click the `Installer.cmd` file to run it.  
 - If the file opens up in Notepad instead of running, simply close it and instead right click on the file and choose `Open`.
