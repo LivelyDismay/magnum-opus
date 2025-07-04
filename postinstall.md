@@ -7,6 +7,7 @@
 - [Post-Installation Instructions](#post-installation-instructions)
   - [Table of Contents](#table-of-contents)
   - [BiRaitBec Texture Optimization](#biraitbec-texture-optimization)
+  - [Performance Tweaks](#performance-tweaks)
   - [Launching the Game](#launching-the-game)
   - [A Few Quick Notes](#a-few-quick-notes)
   - [In-Game MCM Options](#in-game-mcm-options)
@@ -53,9 +54,17 @@ If you're still using the old Workbase Improved output, that's totally fine! You
 
 ---
 
+### Performance Tweaks
+
+Launch ModOrganizer.exe from inside your installation folder (the one you chose for the modlist when you first installed it via the Wabbajack app). There's a big bar on the right side that says `F4SE`. Click this to reveal the dropdown menu and select `Fallout 4 Launcher`. Click `Run`. On the launcher, click `Options`. Under the `Detail` tab, click `Medium` or `High`. Do not click `Ultra`. I don't care how good your computer is; this game is old and doesn't care about your hardware. I would also recommend checking the `Windowed Mode` and `Borderless` boxes. When finished, press `OK`. You may now Exit the launcher.
+
+[[Top]](#table-of-contents)
+
+---
+
 ### Launching the Game
 
-Launch ModOrganizer.exe from inside your installation folder you chose for the modlist when you first launched the Wabbajack app. Make sure the bar on the right side says `F4SE` and click Run. **You need to launch the game in this exact way every time in order to play with the installed mods.**
+Back in MO2, change the dropdown back to `F4SE`. This is how you will launch the game from now on. **You need to launch the game in this exact way every time in order to play with the installed mods.**
 
 [[Top]](#table-of-contents)
 
@@ -63,7 +72,9 @@ Launch ModOrganizer.exe from inside your installation folder you chose for the m
 
 ### A Few Quick Notes
 
+- Papa Lively has a lot of cats. [Your support would be immensely appreciated.](https://www.patreon.com/c/nicholasjae)
 - It is recommended that you leave Vault 111 prior to reporting any issues to me. Please.
+- Sometimes the game can scale in odd ways. Please [read the FAQ](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md#when-i-start-magnum-opus-the-game-is-zoomed-in) to resolve this issue, and to help with any other frequently asked questions about the modlist.
 - Your Pipboy flashlight will not work between the time you pick it up and the time you press the button to open the vault door. It genuinely amazes me how many people report this to me. Just press the button, it's right there.
 - You need to bind VATS to a different key if you want VAFS on Q, like I do. Personally, I have VATS on an out-of-the-way key like semicolon or backslash, but you can do what you want.
 - On rare occasions, True Damage won't load properly straight away. This will be apparently if your 10mm pistol does 1 damage, and the radroaches in Vault 111 take a dozen shots to kill. To fix this, simply save and load the game (you may need to exit the game fully). I'd recommend enabling the option to kill all Vault 111 radroaches, so you can check your damage in your Pipboy at the end of the vault.  
