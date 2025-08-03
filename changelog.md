@@ -6,151 +6,143 @@ Version 8.0.0
 
 **REMOVED**
 
-<details>
- Fatigue
- Overboss PA Lamp Fix (redundant)
- Synth PA
-</details>
+ - Fatigue
+ - Overboss PA Lamp Fix (redundant)
+ - Synth PA
 
 **ADDED**
 
-<details>
- .44 Magnum Ammo Replacer  
- 3D Super Mutant Chains  
- Attack of the Lobotomites  
- Attack of the Lobotomites - Additions and Adjustments Patch  
- Attack of the Lobotomites - Lesser Loot Patch  
- Attack of the Lobotomites Settlement Location and City Plan  
- Attack of the lobotplots  
- Bastion Armor Penetration Creature Addon  
- Better Fusion Core Management - F4SE
- BodySlide and CBBE for the Human-Sized Alien Suit
- Boston Riot Armor
- Brel Submachine Gun
- Cinema Aces Lights Lighting mod
- Cinematic Reloads
- Combat Knife Replacer
- Commonwealth Weaponry Hunting Shotgun
- Commonwealth Weaponry Vending Machines - Random Weapon Gambling
- dp Power Armor Frame Revival
- Emirals Tales From The Commonwealth Fixes
- Emirals Wire Fixes
- f4ee-patched
- F4NV Trail Carbine
- F4SE ChangeHeadPart Fix
- Facial Expression and Eyetracking Engine Fixes - F4SE
- Fallout 3 Garbage Can Replacer
- Fallout 4 - First person IdleStop fix
- Fallout 4 - Power Armor Idle Stance Fix
- FallUI - Inventory Fix
- Far Harbor - High Quality Pip-Boy Map
- Fix Radio Subtitle
- Floating super mutant chain fix
- FO4FI HD Project - Architecture
- Follower AI Approach Reaction Fix - F4SE
- Glowing Sea De-Lit
- Grassphalts Be Gone
- Gun Mover
- Handmade Rifle Animations
- HD Architecture - Airport
- HD Architecture - Hightech and Skyscraper
- Helmet Popper
- HFs - Burnt Books - 2K
- HFs - DriveIn Speaker - 2K
- HFs - Oil Cans All-in-One - remodel
- High Quality Pip-Boy Map
- Hit Those Objects
- HK MP7A2
- HMAR Anims Tacticool Sprint
- Hold To Sprint
- Icon Expansion Pack for FIS
- illuminated AIO - Street Clock Update
- Jurttu's Mods Shared Assets
- Legendary Loot Expansion
- Legendary Trapper Armor Drops - Rare Spawn
- Locked and Loaded - Gunners Addon
- Machineguns Rebirth Reflex Sights Fix
- Magazine Perks Tab
- Malyuk - Assault Rifle
- Map Marker Fix - Prydwen and Boston Airport Ruins
- Mentats - F4SE
- Midnight Cult Fix
- Minuteman Watchtowers - Survey Addon
- MK18 Armory Project Scopes Fix - Kahles Edition
- Modding for Charity - Shady Motives - with Wes Johnson
- Modding for Charity - Transmission Zeta - with Wes Johnson
- Modern Replacer - Bottle Caps
- More Natural Idle Animation NPCs
- Navy Auto Pistol - M2074 Navy
- Nick Valentine Reborn - Compatibility Fix
- No Grass Enforcer - A universal weedwhacker for grass mods
- Nuka World Radio Fix
- Papyrus Common Library
- Papyrus Condition Exporter
- Plots Extended
- Police Magnum Shotgun - Covadonga Remington 870 Reborn
- Right-handed Nukaworld AK Replacer
- Robot Behavior Animation Tweaks
- Robot Workbench Fix
- Select Power Bow
- Shoulder Mounted Machine Gun - Rat Runners Arsenal
- Show workshop object happiness values
- Sim Settlements 2 Addon Pack - Rebirth of the Commonwealth
- Sim Settlements 2 - Plotapalooza Building Plan Pack
- Simple Everyone's Best Friend
- Simple FOV Slider
- Slow Motion Dismemberment
- Sprint Reload and Cancel
- SS2 City Plan Contest Mega Pack
- Super Mutant Equality a Super Mutant Weapon Expansion
- Super Mutant Redux Dismemberment Fix
- Sweet Sweep System
- T-47R Power Armor Hotfix
- Terminals Lock Up
- TG'z Cambridge Interiors
- TG'z Fens Interiors
- This Is Collectible Addon
- To Fuel The Blaster - An Alien Power Cell Recipe and Quest Mod
- Tumbajamba's Sniper Rifle and Gunner Ghillie Armor
- Unique Raider Gangs And Patrols 2 - Nightmare Edition
- Vanilla Locations Plus
- Wade In Water
- Wattz 3000 mkII Laser gun
- West Tek Tactical Optics - Reflex Sights Fix
- ZP's Fauna - Anglers
- ZP's Fauna - Bloodworms
- ZP's Fauna - Brahmins
- ZP's Fauna - Mongrels and Wolves
- ZP's Flora - Green Worlds
- ZP's Gore Galore
- ZP's Gritty Interiors
- ZP's Prydwen
- ZP's Statues
- ZP's Stingwing Nests
- ZP's Vanilla Landscape
- ZP's Vanilla Water Liquid Scum
-</details>
+ - .44 Magnum Ammo Replacer  
+ - 3D Super Mutant Chains  
+ - Attack of the Lobotomites  
+ - Attack of the Lobotomites - Additions and Adjustments Patch  
+ - Attack of the Lobotomites - Lesser Loot Patch  
+ - Attack of the Lobotomites Settlement Location and City Plan  
+ - Attack of the lobotplots  
+ - Bastion Armor Penetration Creature Addon  
+ - Better Fusion Core Management - F4SE
+ - BodySlide and CBBE for the Human-Sized Alien Suit
+ - Boston Riot Armor
+ - Brel Submachine Gun
+ - Cinema Aces Lights Lighting mod
+ - Cinematic Reloads
+ - Combat Knife Replacer
+ - Commonwealth Weaponry Hunting Shotgun
+ - Commonwealth Weaponry Vending Machines - Random Weapon Gambling
+ - dp Power Armor Frame Revival
+ - Emirals Tales From The Commonwealth Fixes
+ - Emirals Wire Fixes
+ - f4ee-patched
+ - F4NV Trail Carbine
+ - F4SE ChangeHeadPart Fix
+ - Facial Expression and Eyetracking Engine Fixes - F4SE
+ - Fallout 3 Garbage Can Replacer
+ - Fallout 4 - First person IdleStop fix
+ - Fallout 4 - Power Armor Idle Stance Fix
+ - FallUI - Inventory Fix
+ - Far Harbor - High Quality Pip-Boy Map
+ - Fix Radio Subtitle
+ - Floating super mutant chain fix
+ - FO4FI HD Project - Architecture
+ - Follower AI Approach Reaction Fix - F4SE
+ - Glowing Sea De-Lit
+ - Grassphalts Be Gone
+ - Gun Mover
+ - Handmade Rifle Animations
+ - HD Architecture - Airport
+ - HD Architecture - Hightech and Skyscraper
+ - Helmet Popper
+ - HFs - Burnt Books - 2K
+ - HFs - DriveIn Speaker - 2K
+ - HFs - Oil Cans All-in-One - remodel
+ - High Quality Pip-Boy Map
+ - Hit Those Objects
+ - HK MP7A2
+ - HMAR Anims Tacticool Sprint
+ - Hold To Sprint
+ - Icon Expansion Pack for FIS
+ - illuminated AIO - Street Clock Update
+ - Jurttu's Mods Shared Assets
+ - Legendary Loot Expansion
+ - Legendary Trapper Armor Drops - Rare Spawn
+ - Locked and Loaded - Gunners Addon
+ - Machineguns Rebirth Reflex Sights Fix
+ - Magazine Perks Tab
+ - Malyuk - Assault Rifle
+ - Map Marker Fix - Prydwen and Boston Airport Ruins
+ - Mentats - F4SE
+ - Midnight Cult Fix
+ - Minuteman Watchtowers - Survey Addon
+ - MK18 Armory Project Scopes Fix - Kahles Edition
+ - Modding for Charity - Shady Motives - with Wes Johnson
+ - Modding for Charity - Transmission Zeta - with Wes Johnson
+ - Modern Replacer - Bottle Caps
+ - More Natural Idle Animation NPCs
+ - Navy Auto Pistol - M2074 Navy
+ - Nick Valentine Reborn - Compatibility Fix
+ - No Grass Enforcer - A universal weedwhacker for grass mods
+ - Nuka World Radio Fix
+ - Papyrus Common Library
+ - Papyrus Condition Exporter
+ - Plots Extended
+ - Police Magnum Shotgun - Covadonga Remington 870 Reborn
+ - Right-handed Nukaworld AK Replacer
+ - Robot Behavior Animation Tweaks
+ - Robot Workbench Fix
+ - Select Power Bow
+ - Shoulder Mounted Machine Gun - Rat Runners Arsenal
+ - Show workshop object happiness values
+ - Sim Settlements 2 Addon Pack - Rebirth of the Commonwealth
+ - Sim Settlements 2 - Plotapalooza Building Plan Pack
+ - Simple Everyone's Best Friend
+ - Simple FOV Slider
+ - Slow Motion Dismemberment
+ - Sprint Reload and Cancel
+ - SS2 City Plan Contest Mega Pack
+ - Super Mutant Equality a Super Mutant Weapon Expansion
+ - Super Mutant Redux Dismemberment Fix
+ - Sweet Sweep System
+ - T-47R Power Armor Hotfix
+ - Terminals Lock Up
+ - TG'z Cambridge Interiors
+ - TG'z Fens Interiors
+ - This Is Collectible Addon
+ - To Fuel The Blaster - An Alien Power Cell Recipe and Quest Mod
+ - Tumbajamba's Sniper Rifle and Gunner Ghillie Armor
+ - Unique Raider Gangs And Patrols 2 - Nightmare Edition
+ - Vanilla Locations Plus
+ - Wade In Water
+ - Wattz 3000 mkII Laser gun
+ - West Tek Tactical Optics - Reflex Sights Fix
+ - ZP's Fauna - Anglers
+ - ZP's Fauna - Bloodworms
+ - ZP's Fauna - Brahmins
+ - ZP's Fauna - Mongrels and Wolves
+ - ZP's Flora - Green Worlds
+ - ZP's Gore Galore
+ - ZP's Gritty Interiors
+ - ZP's Prydwen
+ - ZP's Statues
+ - ZP's Stingwing Nests
+ - ZP's Vanilla Landscape
+ - ZP's Vanilla Water Liquid Scum
 
 **UPDATED**
 
-<details>
- MK18 CQBR
- Sim Settlements 2: All Chapters Pack
- Workshop Framework
-</details>
+ - MK18 CQBR
+ - Sim Settlements 2: All Chapters Pack
+ - Workshop Framework
 
 **OTHER NOTES**
 
-<details>
- The Updated and Removed lists are likely very lacking. I haven't really been keeping track of these.
- Removed outdated MCM setting configs.
- Created a new v8 settings config.
- Changed Geneva's face.
- Lots and lots of new/updated patches.
- Created plugin replacer for Eli's Armour Compendium. This strips out the shop, magazines, NPCs, and loads of other things. All clothings and armors are now craftable at the Clothing and Armorsmith workbenches instead, and avoids any Navmesh-related issues outside of Diamond City.
- New Sorter outputs.
- Added a fully custom set of Loot rules for Rule-11 users to have an easier time. Note that you should still be using xEdit and the CK to properly patch in your mods, and ideally, be making your own load order adjustments as needed.
-</details>
+ - The Updated and Removed lists are likely very lacking. I haven't really been keeping track of these.
+ - Removed outdated MCM setting configs.
+ - Created a new v8 settings config.
+ - Changed Geneva's face.
+ - Lots and lots of new/updated patches.
+ - Created plugin replacer for Eli's Armour Compendium. This strips out the shop, magazines, NPCs, and loads of other things. All clothings and armors are now craftable at the Clothing and Armorsmith workbenches instead, and avoids any Navmesh-related issues outside of Diamond City.
+ - New Sorter outputs.
+ - Added a fully custom set of Loot rules for Rule-11 users to have an easier time. Note that you should still be using xEdit and the CK to properly patch in your mods, and ideally, be making your own load order adjustments as needed.
 
 ---
 
