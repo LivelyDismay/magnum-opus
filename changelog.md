@@ -15,14 +15,14 @@ Version 8.0.0
 **ADDED**
 
 <details>
- .44 Magnum Ammo Replacer
- 3D Super Mutant Chains
- Attack of the Lobotomites
- Attack of the Lobotomites - Additions and Adjustments Patch
- Attack of the Lobotomites - Lesser Loot Patch
- Attack of the Lobotomites Settlement Location and City Plan
- Attack of the lobotplots
- Bastion Armor Penetration Creature Addon
+ .44 Magnum Ammo Replacer  
+ 3D Super Mutant Chains  
+ Attack of the Lobotomites  
+ Attack of the Lobotomites - Additions and Adjustments Patch  
+ Attack of the Lobotomites - Lesser Loot Patch  
+ Attack of the Lobotomites Settlement Location and City Plan  
+ Attack of the lobotplots  
+ Bastion Armor Penetration Creature Addon  
  Better Fusion Core Management - F4SE
  BodySlide and CBBE for the Human-Sized Alien Suit
  Boston Riot Armor
