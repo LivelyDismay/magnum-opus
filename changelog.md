@@ -7,7 +7,11 @@ Version 8.0.0
 **REMOVED**
 
  - Fatigue
+ - Improved Map with Visible Roads
+ - Less Annoying Water Ripples
+ - Nahant - More Things To Do
  - Overboss PA Lamp Fix (redundant)
+ - Realistic Gore
  - Synth PA
 
 **ADDED**
