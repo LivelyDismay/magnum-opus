@@ -147,6 +147,7 @@ Version 8.0.0
  - Created plugin replacer for Eli's Armour Compendium. This strips out the shop, magazines, NPCs, and loads of other things. All clothings and armors are now craftable at the Clothing and Armorsmith workbenches instead, and avoids any Navmesh-related issues outside of Diamond City.
  - New Sorter outputs.
  - Added a fully custom set of Loot rules for Rule-11 users to have an easier time. Note that you should still be using xEdit and the CK to properly patch in your mods, and ideally, be making your own load order adjustments as needed.
+ - Made VAFS optional.
 
 ---
 
