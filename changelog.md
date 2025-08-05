@@ -40,7 +40,6 @@ Version 8.0.0
  - F4NV Trail Carbine
  - F4SE ChangeHeadPart Fix
  - Facial Expression and Eyetracking Engine Fixes - F4SE
- - Fallout 3 Garbage Can Replacer
  - Fallout 4 - First person IdleStop fix
  - Fallout 4 - Power Armor Idle Stance Fix
  - FallUI - Inventory Fix
