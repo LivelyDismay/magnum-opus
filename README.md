@@ -29,11 +29,7 @@
 
 ## Preamble
 
-Magnum Opus is what one would describe as a "kitchen sink list." There is no specific focus or aspect I really care about. There is no set goal I'm trying to achieve. I just want to have fun.
-
-This means if I like a mod, it's going in. There is no such thing as "it doesn't fit my aesthetic" or "it goes against the theme of the list." The theme is fun.
-
-To that end, I like new content. I like new areas, new quests, new NPCs, new weapons, new outfits, new faces. You'll find all of that - and a whole lot more - in this list. I genuinely hope you enjoy it as much as I do.
+Magnum Opus is one of the oldest premade modlists available for any game, which means there have been thousands of hours of work put into this. It is extremely stable, extremely fun, and packed with loads of new content for you to enjoy.
 
 This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you choose to play Magnum Opus in Survival difficulty, I don't know if any issues may arise from that, and it is unlikely I can help with such issues.
 
