@@ -101,7 +101,6 @@ Version 8.0.0
  - Simple FOV Slider
  - Slow Motion Dismemberment
  - Sprint Reload and Cancel
- - SS2 City Plan Contest Mega Pack
  - Super Mutant Equality a Super Mutant Weapon Expansion
  - Super Mutant Redux Dismemberment Fix
  - Sweet Sweep System
@@ -132,6 +131,7 @@ Version 8.0.0
 
 **UPDATED**
 
+ - Challenges FNV  
  - MK18 CQBR
  - Sim Settlements 2: All Chapters Pack
  - Workshop Framework
@@ -140,7 +140,9 @@ Version 8.0.0
 
  - The Updated and Removed lists are likely very lacking. I haven't really been keeping track of these.
  - Removed outdated MCM setting configs.
+ - Removed some trees, mainly around the Shady Motives treehouse area and Drumlin Diner.
  - Created a new v8 settings config.
+ - New quest for the Beginner's Guide Terminal. Now you have no excuse for missing this.
  - Changed Geneva's face.
  - Lots and lots of new/updated patches.
  - Created plugin replacer for Eli's Armour Compendium. This strips out the shop, magazines, NPCs, and loads of other things. All clothings and armors are now craftable at the Clothing and Armorsmith workbenches instead, and avoids any Navmesh-related issues outside of Diamond City.
