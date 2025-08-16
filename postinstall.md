@@ -84,15 +84,15 @@ Back in MO2, change the dropdown back to `F4SE`. This is how you will launch the
 
 ### In-Game MCM Options
 
-After leaving Vault 111, pop open your MCM Config and follow these instructions.  
-- *Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself.*
+After leaving Vault 111, you'll get a friendly little pop-up. Please follow these instructions.  
+![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/v8popup.png)
 
 **MCM Settings Manager**  
 Apply the `Opus v8` Preset.  
-![alt text](https://i.imgur.com/WPIBXJ3.png)
+![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/v8mcm.png)
 
-True Storms Configuration Holotape (Note: this is completely optional)  
-![alt text](https://i.imgur.com/cOjL4z2.png)
+Please read the Terminal outside of Vault 111, and take the Holotape with you.
+![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/v8term.png)
 
 That's it! Have fun!  
 
