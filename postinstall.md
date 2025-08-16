@@ -76,7 +76,6 @@ Back in MO2, change the dropdown back to `F4SE`. This is how you will launch the
 - It is recommended that you leave Vault 111 prior to reporting any issues to me. Please.
 - Sometimes the game can scale in odd ways. Please [read the FAQ](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md#when-i-start-magnum-opus-the-game-is-zoomed-in) to resolve this issue, and to help with any other frequently asked questions about the modlist.
 - Your Pipboy flashlight will not work between the time you pick it up and the time you press the button to open the vault door. It genuinely amazes me how many people report this to me. Just press the button, it's right there.
-- You need to bind VATS to a different key if you want VAFS on Q, like I do. Personally, I have VATS on an out-of-the-way key like semicolon or backslash, but you can do what you want.
 - On rare occasions, True Damage won't load properly straight away. This will be apparently if your 10mm pistol does 1 damage, and the radroaches in Vault 111 take a dozen shots to kill. To fix this, simply save and load the game (you may need to exit the game fully). I'd recommend enabling the option to kill all Vault 111 radroaches, so you can check your damage in your Pipboy at the end of the vault.  
 
 [[Top]](#table-of-contents)
@@ -89,7 +88,7 @@ After leaving Vault 111, pop open your MCM Config and follow these instructions.
 - *Note: Anything involving hotkeys can be set up however you like. These are simply the way I have them set up for myself.*
 
 **MCM Settings Manager**  
-Apply the `Opus v7` Preset.  
+Apply the `Opus v8` Preset.  
 ![alt text](https://i.imgur.com/WPIBXJ3.png)
 
 True Storms Configuration Holotape (Note: this is completely optional)  
@@ -111,8 +110,8 @@ I'm always available on [my own personal Discord Server](https://discord.gg/live
 
 ### Donate
 
-I accept donations via [Patreon](https://www.patreon.com/nicholasjae) and Venmo (@Nicholas-Jae). Your generosity is appreciated immensely.
+I accept donations via [Patreon](https://www.patreon.com/nicholasjae), [Ko-fi](https://ko-fi.com/livelymods), and Venmo (@Nicholas-Jae). Your generosity is appreciated immensely.
 
-I also accept nice comments. They help get me through the day...
+I also accept [nice comments](https://discord.gg/livelymods). They help get me through the day...
 
 [[Top]](#table-of-contents)
