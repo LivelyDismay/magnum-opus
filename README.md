@@ -4,26 +4,27 @@
 
 ## Table of Contents
 
-- [Magnum Opus Readme](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#magnum-opus-readme)
-  - [Table of Contents](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
-  - [Preamble](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#preamble)
-  - [Installation](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#installation)
-    - [Pre-Installation](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#pre-installation)
-      - [Installing Microsoft Visual C++ Redistributable Packages](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#installing-microsoft-visual-c-redistributable-packages)
-        - [Visual Studio 2015, 2017, 2019, and 2022](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#visual-studio-2015-2017-2019-and-2022)
-        - [Visual Studio 2012 (VC++ 11.0) Update 4](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#visual-studio-2012-vc-110-update-4)
-      - [Steam Config](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#steam-config)
-      - [Change Steams Update Behavior](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#change-steams-update-behavior)
-      - [Set the Game language to English](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#set-the-game-language-to-english)
-      - [Clean Fallout 4](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#clean-fallout-4)
-    - [Using Wabbajack](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#using-wabbajack)
-      - [Preparations](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#preparations)
-    - [Problems with Wabbajack](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#problems-with-wabbajack)
-  - [Updating](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#updating)
-  - [Post Installation](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#post-installation)
-  - [FAQ](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#faq)
-  - [Widescreen Support](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#widescreen-support)
-  - [Contact](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#contact)
+- [Magnum Opus Readme](#magnum-opus-readme)
+  - [Table of Contents](#table-of-contents)
+  - [Preamble](#preamble)
+  - [Installation](#installation)
+    - [Pre-Installation](#pre-installation)
+      - [Installing Microsoft Visual C++ Redistributable Packages](#installing-microsoft-visual-c-redistributable-packages)
+        - [Visual Studio 2015, 2017, 2019, and 2022](#visual-studio-2015-2017-2019-and-2022)
+        - [Visual Studio 2012 (VC++ 11.0) Update 4](#visual-studio-2012-vc-110-update-4)
+      - [Steam Config](#steam-config)
+      - [Change Steams Update Behavior](#change-steams-update-behavior)
+      - [Set the Game language to English](#set-the-game-language-to-english)
+      - [Clean Fallout 4](#clean-fallout-4)
+    - [Using Wabbajack](#using-wabbajack)
+      - [Preparations](#preparations)
+    - [Problems with Wabbajack](#problems-with-wabbajack)
+  - [Updating](#updating)
+  - [Post Installation](#post-installation)
+  - [FAQ](#faq)
+  - [Widescreen Support](#widescreen-support)
+  - [Contact](#contact)
+  - [Donate](#donate)
 
 ---
 
@@ -228,5 +229,13 @@ Step 3:
 ## Contact
 
 I'm always available on [my own personal Discord Server](https://discord.gg/livelymods).
+
+I stream most days [on Twitch](https://www.twitch.tv/livelymods) at 3:30 PM EST. Feel free to hang out, ask modding questions, or whatever. I like talking about modding stuff.
+
+---
+
+## Donate
+
+Donations can be made via [Patreon](https://www.patreon.com/nicholasjae), [Ko-fi](https://ko-fi.com/livelymods), or Venmo (@Nicholas-Jae). Even $1/month makes a world of difference if enough people do it.
 
 [[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
