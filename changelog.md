@@ -1,8 +1,8 @@
-WIP
-
-**This is a work in progress. It is not released yet. Any details here are subject to change and nothing is guaranteed. I'm only posting this here to keep people in the loop of what I'm working on. Please do not ask for an ETA. Please do not post in Discord about how you don't have Version 8 installed from Wabbajack.**
+2025/08/18
 
 Version 8.0.0
+
+Happy birthday to me!
 
 **REMOVED**
 
