@@ -51,7 +51,8 @@ Version 8.0.0
  - Glowing Sea De-Lit
  - Grassphalts Be Gone
  - Gun Mover
- - Handmade Rifle Animations
+ - Hangman's Alley Outpost- Sim Settlements 2 City Plan Contest Jan 2024 SS2
+ - Hangmans Needs More Brick - Outpost Edition - January 2024 Outpost Plan Contest Entry
  - HD Architecture - Airport
  - HD Architecture - Hightech and Skyscraper
  - Helmet Popper
@@ -66,6 +67,7 @@ Version 8.0.0
  - Icon Expansion Pack for FIS
  - illuminated AIO - Street Clock Update
  - Jurttu's Mods Shared Assets
+ - KezzDaddy's Sanctuary Outpost
  - Legendary Loot Expansion
  - Legendary Trapper Armor Drops - Rare Spawn
  - Locked and Loaded - Gunners Addon
@@ -95,12 +97,16 @@ Version 8.0.0
  - Select Power Bow
  - Shoulder Mounted Machine Gun - Rat Runners Arsenal
  - Show workshop object happiness values
+ - Sim Settlements 2 Addon Pack Caravan Snatex
  - Sim Settlements 2 Addon Pack - Rebirth of the Commonwealth
+ - Sim Settlements 2 - Far Harbor Expansion
+ - Sim Settlements 2 - HQ Upper Office Settlement and City Plan
  - Sim Settlements 2 - Plotapalooza Building Plan Pack
  - Simple Everyone's Best Friend
  - Simple FOV Slider
  - Slow Motion Dismemberment
  - Sprint Reload and Cancel
+ - SS2 - Fort Covenant Outpost
  - Super Mutant Equality a Super Mutant Weapon Expansion
  - Super Mutant Redux Dismemberment Fix
  - Sweet Sweep System
@@ -112,10 +118,16 @@ Version 8.0.0
  - To Fuel The Blaster - An Alien Power Cell Recipe and Quest Mod
  - Tumbajamba's Sniper Rifle and Gunner Ghillie Armor
  - Unique Raider Gangs And Patrols 2 - Nightmare Edition
+ - Unique Raider Gang Patrols - No Features Items or Deliverer
+ - Vana's Fort Tenpines Bluff
+ - Vana's Outpost Egret Tours Marina
+ - Vana's Outpost Starlight Keep
+ - Vana's Outpost Warwick Homestead
  - Vanilla Locations Plus
  - Wade In Water
  - Wattz 3000 mkII Laser gun
  - West Tek Tactical Optics - Reflex Sights Fix
+ - Yagisan's Better Settlements and Outposts - Egret Tours Outpost
  - ZP's Fauna - Anglers
  - ZP's Fauna - Bloodworms
  - ZP's Fauna - Brahmins
@@ -131,9 +143,13 @@ Version 8.0.0
 
 **UPDATED**
 
- - Challenges FNV  
+ - Challenges FNV
+ - Jampads 2 - a Sim Settlements 2 Add-on
  - MK18 CQBR
  - Sim Settlements 2: All Chapters Pack
+ - Sim Settlements 2 - Pra's Random Addon 2
+ - Sim Settlements 2 Scrappers
+ - SS2 - Settlers at Play
  - Workshop Framework
 
 **OTHER NOTES**
