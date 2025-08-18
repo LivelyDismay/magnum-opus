@@ -6,7 +6,6 @@
 - [Magnum Opus Frequently Asked Questions](#magnum-opus-frequently-asked-questions)
   - [Table of Contents](#table-of-contents)
   - [Hotkeys?](#hotkeys)
-  - [I'm crashing on character creation / when changing my hair / when choosing a character preset. How do I fix this?](#im-crashing-on-character-creation--when-changing-my-hair--when-choosing-a-character-preset-how-do-i-fix-this)
   - [Load order? / What mods are in this list?](#load-order--what-mods-are-in-this-list)
   - [My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!](#my-pipboy-is-inaccessible--invisible--showing-random-stuff-i-dont-want-to-see--something-is-wrong-fix-it)
   - [How do I repair Power Armor?](#how-do-i-repair-power-armor)
@@ -14,13 +13,11 @@
   - [My characters have black/brown/tan/bugged faces. What happened?](#my-characters-have-blackbrowntanbugged-faces-what-happened)
   - [Some people have weird black spots on their body, why don't you fix it?](#some-people-have-weird-black-spots-on-their-body-why-dont-you-fix-it)
   - [Controller support?!?](#controller-support)
-  - [VAFS no work, plz fix](#vafs-no-work-plz-fix)
-  - [I don't like VAFS, how do I get VATS back?](#i-dont-like-vafs-how-do-i-get-vats-back)
   - [I'm using two Stimpaks instead of one. What gives?](#im-using-two-stimpaks-instead-of-one-what-gives)
   - [I can't build anything / How do I increase settlement size?](#i-cant-build-anything--how-do-i-increase-settlement-size)
   - [I broke Workshop Plus and now I can't fly. What happened?](#i-broke-workshop-plus-and-now-i-cant-fly-what-happened)
   - [I am having random crashes. What do I do?](#i-am-having-random-crashes-what-do-i-do)
-  - [I randomly have god mode / I take no damage or rads / my stamina doesn't drain anymore / VAFS isn't triggering when I press Q even though I followed the instructions to unbind VATS. What happened?](#i-randomly-have-god-mode--i-take-no-damage-or-rads--my-stamina-doesnt-drain-anymore--vafs-isnt-triggering-when-i-press-q-even-though-i-followed-the-instructions-to-unbind-vats-what-happened)
+  - [I randomly have god mode / I take no damage or rads / my stamina doesn't drain anymore. What happened?](#i-randomly-have-god-mode--i-take-no-damage-or-rads--my-stamina-doesnt-drain-anymore-what-happened)
   - [I can't seem to hurt enemies that are in power armor!](#i-cant-seem-to-hurt-enemies-that-are-in-power-armor)
   - [Why are feral ghouls so hard to kill?](#why-are-feral-ghouls-so-hard-to-kill)
   - [I'm only doing 1 damage! / Why does it take a dozen shots to kill the radroaches in Vault 111?](#im-only-doing-1-damage--why-does-it-take-a-dozen-shots-to-kill-the-radroaches-in-vault-111)
@@ -38,6 +35,7 @@
   - [Can I add character presets?](#can-i-add-character-presets)
   - [Can I update \<...\> mod?](#can-i-update--mod)
   - [What if I want to change/add/remove mods? Can you help me?](#what-if-i-want-to-changeaddremove-mods-can-you-help-me)
+  - [I miss VAFS! Can I add it back?](#i-miss-vafs-can-i-add-it-back)
   - [Does Magnum Opus have Ultrawide Support?](#does-magnum-opus-have-ultrawide-support)
   - [I'm having problems downloading files in Wabbajack, how do I fix it?](#im-having-problems-downloading-files-in-wabbajack-how-do-i-fix-it)
   - [How do I change my FOV?](#how-do-i-change-my-fov)
@@ -49,12 +47,10 @@
 
 ### Hotkeys?
 
-- **C** - Activate Critical (Autowalk must be bound to a different key to function)  
 - **V** - Toggle first/third person  
 - **B** - Toggle West Tek optics (if equipped)  
-- **N** - Upgrade SS2 plots with caps  
-- **F11** - Open ESP Explorer (see below)  
-- **Q** - VAFS (VATS must be bound to a different key, to function)  
+- **N** - Upgrade SS2 plots with caps
+- **[** - Faster Workshop
 - **Insert** - Extra object selection (Workshop Mode only) - recommend using for scrapping corpses. Don't use this to scrap buildings, roads, etc  
 - **T** - Wait  
 
@@ -64,17 +60,9 @@ I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use
 
 ---
 
-### I'm crashing on character creation / when changing my hair / when choosing a character preset. How do I fix this?
-
-For some reason, there's a small but significant amount of people that experience this. Close the game, and disable the mod in MO2 called `Rusty Face Fix`. Now go back and make your character. I'd recommend turning this mod back on next time you close the game.
-
-[[Top]](#table-of-contents)
-
----
-
 ### Load order? / What mods are in this list?
 
-Have a look. <https://loadorderlibrary.com/lists/magnum-opus>
+[Have a look.](https://loadorderlibrary.com/lists/magnum-opus)
 
 [[Top]](#table-of-contents)
 
@@ -90,7 +78,7 @@ Open your MCM Configs, select the Baka Fullscreen Pipboy entry, and deactivate i
 
 ### How do I repair Power Armor?
 
-Craft Power Armor Repair Kits at the Engineering Workbench, or purchase them from applicable vendors (such as the Atom Cats or Brotherhood of Steel).
+Craft Power Armor Repair Kits at the Engineering Workbench, or purchase them from applicable vendors (such as the Atom Cats or Brotherhood of Steel). [More information available here.](https://youtu.be/OX2jOp9wrKs)
 
 [[Top]](#table-of-contents)
 
@@ -108,7 +96,7 @@ The other most common cause is an Antivirus (not Windows Defender; a third party
 
 ### My characters have black/brown/tan/bugged faces. What happened?
 
-First, ensure you do NOT have the High Definition DLC active in Steam. If you don't, then quite frankly, the so-called "Black Face Bug" can happen randomly. Saving and reloading should fix it. You can also use the console to disable then enable the NPC with the bug.
+First, ensure you do NOT have the High Definition DLC active in Steam. If you don't, then quite frankly, the so-called "Black Face Bug" can happen randomly. Saving and reloading should fix it. You can also use the console to disable then enable the NPC with the bug. Most common cause is fast traveling, which will force the game to load a lot of stuff at once, and NPCs tend to get kinda left behind. But regardless, it's pretty random.
 
 [[Top]](#table-of-contents)
 
@@ -125,26 +113,6 @@ This is a CBBE issue with some outfits and quite frankly, I can look past it. I'
 ### Controller support?!?
 
 Nah, I don't use a controller. If someone else wants to set up a controller config, I can add it as an optional file.
-
-To mitigate any map issues, please apply the Opus v7 Controller MCM preset.
-
-[[Top]](#table-of-contents)
-
----
-
-### VAFS no work, plz fix
-
-VATS needs to be unbound or bound to a different key. I thought this would transfer over from my own custom control map, but apparently I was mistaken. You can do this in your vanilla key binds menu under Settings, and the VAFS MCM.
-
-[[Top]](#table-of-contents)
-
----
-
-### I don't like VAFS, how do I get VATS back?
-
-It's highly recommended that you just get used to VAFS. This list is made to use it, and perks have been edited with that idea very much in mind. Therefore, some perks may not work quite as described if you use them in VATS.
-
-Despite this, if you still wish to go ahead, you can re-enable VATS in the "VAFS Redux" MCM, "Other" page, in the "Debug" section. Toggle "VATS" to "ON".
 
 [[Top]](#table-of-contents)
 
@@ -198,9 +166,9 @@ If you've been unable to diagnose your issue after all that, feel free to upload
 
 ---
 
-### I randomly have god mode / I take no damage or rads / my stamina doesn't drain anymore / VAFS isn't triggering when I press Q even though I followed the instructions to unbind VATS. What happened?
+### I randomly have god mode / I take no damage or rads / my stamina doesn't drain anymore. What happened?
 
-Workshop Plus didn't uninitialize, apparently. Enter and exit workshop mode, that should fix it. Try not to open your Pipboy for a few seconds after exiting workshop mode.
+Workshop Plus didn't uninitialize, apparently. Enter workshop mode, sit tight for a few seconds, then exit workshop mode. That should fix it. Try not to open your Pipboy for a few seconds after exiting workshop mode.
 
 [[Top]](#table-of-contents)
 
@@ -216,7 +184,7 @@ This modlist uses a really cool mod called [Bastion](https://www.nexusmods.com/f
 
 ### Why are feral ghouls so hard to kill?
 
-They're basically zombies. Go for the head. (Other body parts have a pretty high damage resistance.)
+They're basically zombies. Go for the head. Other body parts have a pretty high damage resistance.
 
 [[Top]](#table-of-contents)
 
@@ -281,6 +249,8 @@ Audio sliders for True Storms are in the vanilla Audio settings.
 
 You can use the Power Armor HUD Switcher holotape to disable them. Do not disable them while you're in Power Armor. I repeat: DO NOT disable them while you're in Power Armor.
 
+There is also an Optional mod in Mod Organizer 2 to restore the third person Power Armor overlays. You can disable this if you like.
+
 [[Top]](#table-of-contents)
 
 ---
@@ -295,7 +265,7 @@ A small side effect of the Power Armor HUD overlays. You can turn the Power Armo
 
 ### Can I have multiple companions at the same time?
 
-[Heather Casdin](https://www.nexusmods.com/fallout4/mods/23273) doesn't occupy a "follower" slot, so you can have Heather + one other companion. You cannot have multiple vanilla companions with you at the same time.
+[Heather Casdin](https://www.nexusmods.com/fallout4/mods/23273) doesn't occupy a "follower" slot, so you can have Heather + another companion. You can also have Dogmeat alongside a companion.
 
 [[Top]](#table-of-contents)
 
@@ -359,6 +329,16 @@ Sometimes I [write guides on how to do these things](https://github.com/LivelyDi
 
 ---
 
+### I miss VAFS! Can I add it back?
+
+VAFS is now in its own Optional section in Mod Organizer 2. You may enable it if you wish. Be sure to load my VAFS patchwork last, otherwise your perk chart will be hella broken.
+
+You'll also need to handle your hotkeys for VAFS and Critical. I'm not holding your hand through this part.
+
+[[Top]](#table-of-contents)
+
+---
+
 ### Does Magnum Opus have Ultrawide Support?
 
 No. I don't own an Ultrawide monitor. Some of the other people playing this list do, and one of them [wrote this guide](https://docs.google.com/document/d/1EbZ_DpyhctsrpBlylDYc2TXtm1NAOjkcYjRCNZsC958/edit) for their own Ultrawide setup. I make no guarantees on how accurate or up-to-date this information is, and I cannot help you troubleshoot any issues that arise from using an Ultrawide. This will not void official support, but I do expect you to learn how to utilize your own hardware. I can't do it for you.
@@ -385,7 +365,7 @@ If you're getting a lot of "unable to download" errors in Wabbajack outside of t
 
 ### How do I change my FOV?
 
-While in game, press Escape, select `Mod Config`, then head down to `Custom Camera`. **Save any changes you make in this MCM to its own Custom Camera Profile (under the Profiles tab under the Custom Camera MCM) or the changes will not stick.**
+While in game, press Escape, select `Mod Config`, then head down to `Simple FOV Slider`.
 
 Do note that increasing your FOV also increases the amount of objects being rendered on screen at once, which could potentially result in a drop in performance.
 
