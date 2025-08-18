@@ -128,6 +128,7 @@ Version 8.0.0
  - Wattz 3000 mkII Laser gun
  - West Tek Tactical Optics - Reflex Sights Fix
  - Yagisan's Better Settlements and Outposts - Egret Tours Outpost
+ - Yagisan's March 2025 Plot-A-Palooza Entry
  - ZP's Fauna - Anglers
  - ZP's Fauna - Bloodworms
  - ZP's Fauna - Brahmins
