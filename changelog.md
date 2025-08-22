@@ -2,6 +2,8 @@
 
 Version 8.0.1
 
+**Please open your MCM Settings Manager and apply the Opus v8 preset again.**
+
 **UPDATED**
 
  - Legendary Loot Expansion
