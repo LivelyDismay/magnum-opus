@@ -1,3 +1,17 @@
+2025/08/22
+
+Version 8.0.1
+
+**UPDATED**
+
+ - Legendary Loot Expansion
+
+**OTHER NOTES**
+
+ - Updated the MCM Profile (changed Faster Workshop hotkey from `\` to `[`, changed Legendary Loot Expansion settings).
+
+---
+
 2025/08/18
 
 Version 8.0.0
