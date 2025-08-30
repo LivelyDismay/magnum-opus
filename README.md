@@ -32,6 +32,8 @@
 
 Magnum Opus is one of the oldest premade modlists available for any game, which means there have been thousands of hours of work put into this. It is extremely stable, extremely fun, and packed with loads of new content for you to enjoy.
 
+Magnum Opus runs on a downgraded version of Fallout 4. The downgrade is handled for you by Wabbajack; you do not have to do anything. This also means Magnum Opus does **not** use the Next-Gen update, and will not contain any Creation Club mods whatsoever.
+
 This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you choose to play Magnum Opus in Survival difficulty, I don't know if any issues may arise from that, and it is unlikely I can help with such issues.
 
 Is Magnum Opus for you? I don't know, but [this video might help you decide](https://youtu.be/zpoeRvuHNpw).
