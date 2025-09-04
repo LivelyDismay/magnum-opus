@@ -1,3 +1,27 @@
+2025/09/04
+
+Version 8.1.0
+
+**New save required.**
+
+**REMOVED**
+
+ - Legendary Loot Expansion.
+ - VAFS Redux as an Optional mod.
+
+**OTHER NOTES**
+
+ - Moved No Legendaries From Creatures to the Optional section.
+ - Changed the Four Leaf Clover perk to avoid similarities to Beginner's Luck.
+ - Edited the ammo types used by the AKS-74u (probably).
+ - Edited a variety of Junk items so they are no longer Collectibles that can't be scrapped due to frequent requests/complaints. Note that some items are still unscrappable, but the list is far shorter now. Meaning you can now scrap toy cars, gold bars, clean coffee tins, things like that. 
+ - Edited perk description on Classic Criticals to no longer mention VAFS.
+ - Edited Synth Components to drop 1 Circuitry when scrapped instead of 1 Plastic.
+ - Edited Burnt Magazines to drop 1 Cloth when scrapped instead of nothing.
+ - Edited value of Burnt Magazines from 0 to 1.
+
+---
+
 2025/08/22
 
 Version 8.0.1
