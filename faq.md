@@ -73,6 +73,8 @@ I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use
 
 After applying the `Opus v8` preset, exit the MCM and reopen it again. Scroll down to the `DLC Timing` MCM. On each of the DLCs, change all of the Quest Requirements to NONE. I don't know why, but MCM Settings Manager does not save the preconfigured settings properly. I apologize for the inconvenience here, it really sucks.
 
+---
+
 ### My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!
 
 Open your MCM Configs, select the Baka Fullscreen Pipboy entry, and deactivate it.
