@@ -92,6 +92,9 @@ After leaving Vault 111, you'll get a friendly little pop-up. Please follow thes
 Apply the `Opus v8` Preset.  
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/v8mcm.png)
 
+**DLC Timing MCM**
+After applying the `Opus v8` preset, exit the MCM and reopen it again. Scroll down to the `DLC Timing` MCM. On each of the DLCs, change all of the Quest Requirements to NONE. I don't know why, but MCM Settings Manager does not save the preconfigured settings properly. I apologize for the inconvenience here, it really sucks.
+
 Please read the Terminal outside of Vault 111, and take the Holotape with you.
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/v8term.png)
 
