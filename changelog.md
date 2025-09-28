@@ -1,3 +1,33 @@
+2025/09/28
+
+Version 8.1.1
+
+**ADDED**
+- Custom Camera - FOV Slider compatibility patch.
+- Remove Ammo from Dropped Guns.
+
+**REMOVED**
+ - No Shaking in ADS.
+
+**OTHER NOTES**
+
+- Added a fix for T47R Quantum Steel armor that could cause a crash.
+- Added a mod to transfer all Power Armor Repair Kits to a universal PA Repair Kit; while all the other Repair Kits still exist in the game files (allowing this to be save-safe), they no longer have any function. You can throw them in a garbage can or something.
+- Added a patch for Heather Casdin to allow the player to repair Mom's Power Armor with the PA Repair Kits.
+- Renamed Mom's Power Armor pieces to be more uniform and in line with vanilla naming conventions.
+- Removed an old duplicate version of More Feral Ghouls. Originally kept this to see if the update (which had all new IDs, breaking my old patches) had nude ghoul models; this doesn't seem to be the case, though.
+- Removed a few extra archives from my downloads folder (will reduce the download number for you by a little bit).
+- "Why was No Shaking in ADS removed?" Because I added it a long time ago when a friend said the shaking caused nausea then promptly forgot it existed until [someone mentioned it on stream](https://www.twitch.tv/livelymods) a few days ago.
+- "What is that Removed Ammo thing you added?" A lot of people aren't aware that picking up guns also adds ammo to your inventory (which is why, if you watch my streams, you'll see me pick up every gun all the time). Now, the ammo is removed from guns and inserted into the corpse's inventory. This should, hopefully, greatly lessen the complaints about ammo scarcity.
+- Updated LOOT rules.
+- Made some edits to No Legendaries From Creatures. Ghouls, Mirelurk Queens, and Deathclaws may drop legendaries now. Untested.
+- Custom Camera/FOV Slider patch is untested by me.
+- The Engineering Workbench is now pretty empty. I'll probably start moving some stuff over there in the future (Junk Recycler, Ammo Switchers, etc). Open to suggestion.
+
+In the future, DLC Timing will be removed, but it could potentially cause problems with keeping saves intact, so that can wait. Until that time, please continue following the instructions [in the Post Install page](https://github.com/LivelyDismay/magnum-opus/blob/main/postinstall.md#in-game-mcm-options) and [in the FAQ](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md#my-dlc-isnt-triggering-what-gives) to resolve the issue.
+
+---
+
 2025/09/04
 
 Version 8.1.0
