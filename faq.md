@@ -343,9 +343,9 @@ Sometimes I [write guides on how to do these things](https://github.com/LivelyDi
 
 ### I miss VAFS! Can I add it back?
 
-VAFS is now in its own Optional section in Mod Organizer 2. You may enable it if you wish. Be sure to load my VAFS patchwork last, otherwise your perk chart will be hella broken.
+Not easily. It was an optional file for a bit, but due to a number of complaints and a fair amount of confusion, it has since been removed entirely. Adding it back into the modlist would require extensive amounts of manual patching.
 
-You'll also need to handle your hotkeys for VAFS and Critical. I'm not holding your hand through this part.
+Please remember to use the rule-11 channels, as this will void official support.
 
 [[Top]](#table-of-contents)
 
