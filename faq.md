@@ -43,6 +43,7 @@
   - [How do I change my FOV?](#how-do-i-change-my-fov)
   - [But I want to use Cheat Terminal?](#but-i-want-to-use-cheat-terminal)
   - [Hey Lively, is there a reason ... ?](#hey-lively-is-there-a-reason--)
+  - [Any support for Linux?](#any-support-for-linux)
   - [Can I buy you a drink?](#can-i-buy-you-a-drink)
 
 ---
@@ -417,6 +418,14 @@ Do note that increasing your FOV also increases the amount of objects being rend
 ### But I want to use Cheat Terminal?
 
 That's a shame. It'll break a lot of stuff in this list. Besides, half of what that mod does is already in Opus, like making various outfits and whatnot craftable. Use the console if you want to cheat. Don't blindly add stupid shit to the modlist.
+
+[[Top]](#table-of-contents)
+
+---
+
+### Any support for Linux?
+
+No. I'm told you have to disable MCM Booster. Other than that, there is a linux-support channel in the [Wabbajack Discord](https://discord.gg/wabbajack). I'd recommend heading there. Omni really knows his stuff.
 
 [[Top]](#table-of-contents)
 
