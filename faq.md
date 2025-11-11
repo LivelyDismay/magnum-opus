@@ -11,6 +11,7 @@
   - [My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!](#my-pipboy-is-inaccessible--invisible--showing-random-stuff-i-dont-want-to-see--something-is-wrong-fix-it)
   - [How do I repair Power Armor?](#how-do-i-repair-power-armor)
   - [My game crashes when I launch from MO2. Help!](#my-game-crashes-when-i-launch-from-mo2-help)
+  - [How do I use the Livelier Perks profile?](#how-do-i-use-the-livelier-perks-profile)
   - [My characters have black/brown/tan/bugged faces. What happened?](#my-characters-have-blackbrowntanbugged-faces-what-happened)
   - [Some people have weird black spots on their body, why don't you fix it?](#some-people-have-weird-black-spots-on-their-body-why-dont-you-fix-it)
   - [Controller support?!?](#controller-support)
@@ -96,6 +97,34 @@ Craft Power Armor Repair Kits at the Engineering Workbench, or purchase them fro
 Make sure you disable any overlays - most notably, Medal.TV seems to cause this crash frequently for those with that program.
 
 The other most common cause is an Antivirus (not Windows Defender; a third party antivirus like AVG, BitDefender, Kapersky, Webroot, etc). Disable those or exclude MO2/scriptextender/etc.
+
+[[Top]](#table-of-contents)
+
+---
+
+### How do I use the Livelier Perks profile?
+
+It's a little complicated because I can't really provide direct patches/support for this mod in a Wabbajack list, but let's go through it step by step.
+- Launch Fallout 4 through Steam.
+- Open the Creations storefront.
+- Download Livelier Perks.
+- Close Fallout 4.
+- Back in Steam, in your Library tab, right-click on `Fallout 4`.
+- Navigate to `Manage > Browse local files`. This will open a Windows Explorer.
+- Double click the `Data` folder.
+- Scroll down until you find `livckperkoverhaulfinalihope.esp` and `livckperkoverhaulfinalihope - Main.ba2`. Select both of these files.
+- Copy (ctrl+c) or Cut (ctrl+x) these two files.
+- In Magnum Opus' Mod Organizer 2, change the profile at the top from `Magnum Opus` to `Magnum Opus - Livelier Perks`.
+- Scroll to the bottom of the mods in the left pane, and go to the section labeled `Lively's VC Shenanigans`.
+- Inside that section, you'll see a mod called `[NoDelete] Livelier Perks`. Right-click this mod and select `Open in Explorer`.
+- Paste (ctrl+v) the two files you copied/cut a few moments ago.
+- Back in Mod Organizer 2, press F5 to refresh the program.
+- Scroll down to the bottom of the Plugins list on the right to make sure `LivCKPerkOverhaulFinalIHope.esp` is active.
+  - Your Plugins need to be sorted by Priority here. This is the default setting, so no need to do anything. But if you changed it, then change it back to Priority.
+- Back in the left pane of Mod Organizer 2, activate the next mod below Livelier Perks, entitled `Sorter - Livelier Perks Profile`.
+- Enjoy the game.
+
+I know it sounds like a lot, but it seriously takes like 30 seconds. I'm just writing this to be as foolproof as possible. And thanks for your support!
 
 [[Top]](#table-of-contents)
 
