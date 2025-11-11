@@ -32,7 +32,7 @@
 
 Magnum Opus is one of the oldest premade modlists available for any game, which means there have been thousands of hours of work put into this. It is extremely stable, extremely fun, and packed with loads of new content for you to enjoy.
 
-Magnum Opus runs on a downgraded version of Fallout 4. The downgrade is handled for you by Wabbajack; you do not have to do anything. This also means Magnum Opus does **not** use the Next-Gen update, and will not contain any Creation Club mods whatsoever.
+Magnum Opus runs on a downgraded version of Fallout 4. The downgrade is handled for you by Wabbajack; you do not have to do anything. This also means Magnum Opus does **not** use the Next-Gen update, and will not contain any Creation Club mods whatsoever. This includes the Anniversary Edition content and the Creation Content bundle - they won't be included any time soon, if ever.
 
 This list is NOT built with Survival Mode in mind. I don't play it. I don't like it. If you choose to play Magnum Opus in Survival difficulty, I don't know if any issues may arise from that, and it is unlikely I can help with such issues.
 
@@ -54,7 +54,7 @@ Is Magnum Opus for you? I don't know, but [this video might help you decide](htt
 
 ### Pre-Installation
 
-You need a legal copy of the latest version of Fallout 4 through **Steam** (not GOG, not Epic), with all DLCs as listed in Steam **EXCEPT** the High Definition DLC. The High Definition DLC is garbage and should not be used in any case ever.
+You need a legal copy of the latest version of Fallout 4 through **Steam** (not GOG, not Epic), with all DLCs as listed in Steam **EXCEPT** the High Definition DLC. The High Definition DLC is garbage and should not be used in any case ever. **You also do NOT need to own the Creation bundle that was released alongside Anniversary Edition.**
 
 Here's how that works:
 <details>
@@ -191,9 +191,7 @@ I've been doing this for a while now, so [I've compiled the most common question
 
 ## Widescreen Support
 
-I don't own a widescreen monitor, so I can't help directly. I don't mind you guys helping each other though, obviously. A generous discord user by the name of bjdripley wrote an [Ultrawide Compatibility Guide for Magnum Opus](https://docs.google.com/document/d/1EbZ_DpyhctsrpBlylDYc2TXtm1NAOjkcYjRCNZsC958/edit) that you may find useful.
-
-On 2024/04/17, another user posted this solution for 32:9 users:
+I don't own a widescreen monitor, so I can't help directly. I don't mind you guys helping each other though, obviously. A generous discord user did write this for you:
 
 For everyone using an ultra wide monitor with ratios 32:9 or 21:9 (3840×1080 / 5120×1440 / 3440×1440 / 2560 × 1080), here is the fix for a bulk of the most serious problems, such as not being able to distribute stats and name your character, or not being able to properly use the TAB menu.
 
