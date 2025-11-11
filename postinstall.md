@@ -73,7 +73,7 @@ Back in MO2, change the dropdown back to `F4SE`. This is how you will launch the
 ### A Few Quick Notes
 
 - If you want to use the optional profile with my VC mods, please [reference this section of the FAQ](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md#how-do-i-use-the-livelier-perks-profile) for details on how to do that.
-- Papa Lively has a lot of cats. [Your support would be immensely appreciated.](https://www.patreon.com/c/nicholasjae)
+- Papa Lively has a lot of cats. Your support would be immensely appreciated. I have a [Patreon](https://www.patreon.com/c/nicholasjae) and a [Ko-fi](https://ko-fi.com/livelymods) if you'd like to leave a buck or two.
 - It is recommended that you leave Vault 111 prior to reporting any issues to me. Please.
 - Sometimes the game can scale in odd ways. Please [read the FAQ](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md#when-i-start-magnum-opus-the-game-is-zoomed-in) to resolve this issue, and to help with any other frequently asked questions about the modlist.
 - Your Pipboy flashlight will not work between the time you pick it up and the time you press the button to open the vault door. It genuinely amazes me how many people report this to me. Just press the button, it's right there.
