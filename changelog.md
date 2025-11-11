@@ -1,3 +1,42 @@
+2025/11/11
+
+Happy birthday...Skyrim...
+
+Version 8.1.2
+
+Before all else, I want to scream this from the rooftops:
+
+**MAGNUM OPUS DOES NOT USE, SUPPORT, OR NEED THE CREATIONS BUNDLE.** If you have it downloaded/installed, that's fine, but it will not be used in this modlist. Feel free to pop by the [Discord](https://discord.gg/livelymods) if you want to talk about why. Please don't join with the intention of just being hyper negative, though. Civil discussion, however, is more than welcome.
+
+**IF YOU USE THE NEW ALTERNATE PROFILE, A NEW SAVE IS REQUIRED.** If you are NOT switching to the new profile, you are free to continue your ongoing save without issue.
+
+**YOU CANNOT SWITCH BETWEEN PROFILES DURING THE SAME PLAYTHROUGH.** Pick one or the other. Or both. But the save files are not cross-compatible.
+
+**ADDED**
+- SKK Long Days Fast Nights.
+- Long Save Bug Fix.
+
+**NOTES**
+- Magnum Opus now includes a secondary profile to support my release of [Livelier Perks](https://creations.bethesda.net/en/fallout4/details/3b19ee36-06b9-45cb-985c-fd1720636d99/Livelier_Perks), if you're interested in that sort of thing. Instructions on how to use this can be found in the [FAQ](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md#how-do-i-use-the-livelier-perks-profile).
+- A lot of shenanigans had to go into making the downgrade work here. For posterity, I'll write down what I had to do:
+  - Extract `Fallout4 - Sounds.ba2`.
+    - Delete `MUS_Radio_Diamond_Dion_TheWanderer.xwm` and `MUS_Radio_Diamond_Dion_TheWandererxxx.xwm`.
+    - Repack `Fallout4 - Sounds.ba2` using Archive2 from Stock Game. Change the Settings to None for the compression type.
+    - Replace the Sounds.ba2 from Stock game with the new one you just created.
+  - Extract `Fallout4 - Meshes.ba2`.
+    - Delete the `GameJam2015` folder (there's only one NIF inside for a Fishing Rod).
+    - Delete `LS_Mirelurk.nif` from `Meshes\Actors\Mirelurk`. It's just kinda hanging out by itself next to the `Character Assets` folder. Only delete the one file, though.
+    - Repack `Fallout4 - Meshes.ba2` using Archive2 from Stock Game. Keep the Settings at Default.
+      - Note: I had to do this twice, for some reason. The first repacked archive ended up being larger than the original, and crashed consistently whenever the game loaded any object with a Pivot Dummy (which is pretty much every object). The second repacked archive, despite using the exact same settings, had a smaller filesize (1,458,193 KB) and does not seem to have any issues after some in-game testing. Isn't modding great?
+    - Replace the Meshes.ba2 from Stock Game with the one you just created (twice?).
+
+**OTHER PLANS**
+- I'm strongly leaning towards removing True Damage and going back to Better Locational Damage. The more I play, the more I dislike TD, especially with how it treats energy weapons. And honestly, I'm tired of trying to patch every little thing for it. Late-game enemies feel like they either do 0 damage or one-shot you from 100 yards out. Neither are terribly engaging.
+- Cinematic Reload will be removed at some point, but I don't like removing mods with an MCM mid-save, and I'm currently mid-save, so it's just on hold. If you dislike the Cinematic Reload, you can disable it completely in the MCM.
+- I might remove some of the weapons we have (Chiappa, DKS, couple others) and try out some new stuff. If you have recommendations of mods you've used, do let me know. Please don't just recommend mods you randomly saw on Nexus five minutes ago, though. That's really annoying.
+
+---
+
 2025/09/28
 
 Version 8.1.1
