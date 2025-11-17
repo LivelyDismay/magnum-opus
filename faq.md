@@ -31,6 +31,7 @@
   - [Why is there a crosshair on my Pip-Boy?](#why-is-there-a-crosshair-on-my-pip-boy)
   - [Can I have multiple companions at the same time?](#can-i-have-multiple-companions-at-the-same-time)
   - [Are achievements enabled?](#are-achievements-enabled)
+  - [Can I turn on the option to see what I'm scrapping?](#can-i-turn-on-the-option-to-see-what-im-scrapping)
   - [I don't like the flashlight.](#i-dont-like-the-flashlight)
   - [My flashlight isn't working!](#my-flashlight-isnt-working)
   - [Can I add an ENB?](#can-i-add-an-enb)
@@ -316,6 +317,14 @@ A small side effect of the Power Armor HUD overlays. You can turn the Power Armo
 ### Are achievements enabled?
 
 Yes.
+
+[[Top]](#table-of-contents)
+
+---
+
+### Can I turn on the option to see what I'm scrapping?
+
+Yeah. Open your MCM and head down to FallUI Confirm Boxes. Options are in there.
 
 [[Top]](#table-of-contents)
 
