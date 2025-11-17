@@ -1,3 +1,13 @@
+20205/11/17
+
+Version 8.1.3
+
+Recompiled for recent Fallout 4 update. That's it. No other changes.
+
+Note: Your header version in MO2 will still say 8.1.2 because I didn't feel like opening MO2 to change it. It's the same exact thing regardless. This update is only for people that were unable to install the list at all.
+
+---
+
 2025/11/11
 
 Happy birthday...Skyrim...
