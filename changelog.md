@@ -1,3 +1,28 @@
+WIP
+
+Version 9.0.0
+
+**ADDED**
+
+- Better Locational Damage
+- SKK's Random Encounter Manager
+
+**REMOVED**
+
+- SS2C3 - True Damage Patch
+- True Damage
+- True Damage - Criticals Patch
+- TRUE DAMAGE - FN Five-seveN
+- TRUE DAMAGE - Heavy Select Shotgun
+- TRUE DAMAGE - Miniguns Rebirth
+- TRUE DAMAGE - PKM Machine Gun
+
+**NOTES**
+
+- Fixed typo in starter pop-up message.
+
+---
+
 2025/11/17
 
 Version 8.1.3
