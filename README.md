@@ -118,6 +118,8 @@ Set the `Installation Location` to a blank folder at the root of a drive, such a
 
 You may delete the Downloads folder after the installation is completed successfully, if you want to save space.
 
+It's always a good idea to make sure you're logged in to Nexus via Wabbajack's settings. Might even want to log out then log back in, just to be sure it didn't expire.
+
 Click the `Play` arrow. If you have a Nexus Premium account, all of your downloads will be automated. Without Premium, you will need to manually click the Download button for each mod. Installation will be automated regardless of your account status.
 
 [[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
