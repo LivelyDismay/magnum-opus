@@ -1,14 +1,28 @@
 WIP
 
+Nothing final. Anything is subject to change prior to release.
+
 Version 9.0.0
 
 **ADDED**
 
 - Better Locational Damage
-- SKK's Random Encounter Manager
+- Better Locational Damage - Gunner Outfit Pack helmets patch
+- Better Locational Damage - Holotape Begone
+- Better Locational Damage - RobCo Patch
+- BLD - AI Tweaks
+- BLD - Looks Menu Customization Compendium Patch
+- BLD - RobCo - No Projectile Patch
+- Carry More with Power Armor REDUX
+- ITO Institute Technology Overhaul Full v2
+- Random Encounter Manager by SKK
+- REM Patches - Attack of the Lobotomites
+- REM Patches - Trauma Harness
+- Tumbajamba's Brotherhood Armor Collection
 
 **REMOVED**
 
+- Power Armor to the People
 - SS2C3 - True Damage Patch
 - True Damage
 - True Damage - Criticals Patch
@@ -20,6 +34,7 @@ Version 9.0.0
 **NOTES**
 
 - Fixed typo in starter pop-up message.
+- Restored ability to craft alternate skins for Courser Strigidae, Expedition Suit, Mojave Manhunter, and Cross Blades.
 
 ---
 
