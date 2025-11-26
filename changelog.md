@@ -1,6 +1,4 @@
-WIP
-
-Nothing final. Anything is subject to change prior to release.
+2025/11/16
 
 Version 9.0.0
 
