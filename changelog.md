@@ -6,6 +6,8 @@ Version 9.0.0
 
 **ADDED**
 
+- Autumnal Grass Overhaul
+- Autumnal Grass Overhaul - Half-Sized Ugly Plants
 - Better Locational Damage
 - Better Locational Damage - Gunner Outfit Pack helmets patch
 - Better Locational Damage - Holotape Begone
@@ -23,12 +25,21 @@ Version 9.0.0
 - REM Patches - Trauma Harness
 - The Republic of Boston Militia - A Minutemen Overhaul
 - Tumbajamba's Brotherhood Armor Collection
+- Wildergrowth - Grasses and Groundcovers
 
 **REMOVED**
 
+- Cinematic Reloads
+- DLC Timing
+- Grass Reworked
+- Helmet Popper
+- Live Dismemberment
 - Power Armor to the People
 - Private Military Company - PMC
 - Private Military Company - BoS Armor Replacer - FOMOD Installer
+- Radio Reverb Fix
+- Reverb and Ambiance Overhaul
+- Slow Motion Dismemberment
 - SS2C3 - True Damage Patch
 - Techno Mutants
 - True Damage
@@ -37,6 +48,11 @@ Version 9.0.0
 - TRUE DAMAGE - Heavy Select Shotgun
 - TRUE DAMAGE - Miniguns Rebirth
 - TRUE DAMAGE - PKM Machine Gun
+- True Grass
+- True Grass - Forsyhia No glow
+- True Grass - Invisible Shrub Fix
+- True Grass - Vines No glow
+- True Grass Crash Fix
 - W.A.T.M. - Power Armor Expansion (Blue Version)
 - W.A.T.M. - Power Armor Expansion - Some Assembly Required Patch
 - We Are The Minutemen
