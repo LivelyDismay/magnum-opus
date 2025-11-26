@@ -78,6 +78,8 @@ Back in MO2, change the dropdown back to `F4SE`. This is how you will launch the
 - Sometimes the game can scale in odd ways. Please [read the FAQ](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md#when-i-start-magnum-opus-the-game-is-zoomed-in) to resolve this issue, and to help with any other frequently asked questions about the modlist.
 - Your Pipboy flashlight will not work between the time you pick it up and the time you press the button to open the vault door. It genuinely amazes me how many people report this to me. Just press the button, it's right there.
 
+You'll get this pop-up on character creation. Choose whatever options you like. I usually just Enable All and call it a day.
+
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/fo4faststartoptions.png)
 
 [[Top]](#table-of-contents)
@@ -87,14 +89,11 @@ Back in MO2, change the dropdown back to `F4SE`. This is how you will launch the
 ### In-Game MCM Options
 
 After leaving Vault 111, you'll get a friendly little pop-up. Please follow these instructions.  
-![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/v8popup.png)
+![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/presetpopup.png)
 
 **MCM Settings Manager**  
-Apply the `Opus v8` Preset.  
-![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/v8mcm.png)
-
-**DLC Timing MCM**
-After applying the `Opus v8` preset, exit the MCM and reopen it again. Scroll down to the `DLC Timing` MCM. On each of the DLCs, change all of the Quest Requirements to NONE. I don't know why, but MCM Settings Manager does not save the preconfigured settings properly. I apologize for the inconvenience here, it really sucks.
+Apply the `Opus v9` Preset.  
+![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/applypreset.png)
 
 Please read the Terminal outside of Vault 111, and take the Holotape with you.
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/v8term.png)
