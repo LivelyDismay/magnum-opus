@@ -64,6 +64,7 @@ Version 9.0.0
 - Fixed typo in starter pop-up message.
 - Restored ability to craft alternate skins for Courser Strigidae, Expedition Suit, Mojave Manhunter, and Cross Blades.
 - New Opus v9 MCM Preset.
+- Updated Post Installation section of the readme (removed some outdated info, updated screenshots).
 
 ---
 
