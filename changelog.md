@@ -14,22 +14,34 @@ Version 9.0.0
 - BLD - Looks Menu Customization Compendium Patch
 - BLD - RobCo - No Projectile Patch
 - Carry More with Power Armor REDUX
+- CROSS_BrotherhoodRecon
 - ITO Institute Technology Overhaul Full v2
+- Minuteman Combat Armor (Standalone paintjob)
+- Post-apocalyptic homemade weapons. Replacer
 - Random Encounter Manager by SKK
 - REM Patches - Attack of the Lobotomites
 - REM Patches - Trauma Harness
+- The Republic of Boston Militia - A Minutemen Overhaul
 - Tumbajamba's Brotherhood Armor Collection
 
 **REMOVED**
 
 - Power Armor to the People
+- Private Military Company - PMC
+- Private Military Company - BoS Armor Replacer - FOMOD Installer
 - SS2C3 - True Damage Patch
+- Techno Mutants
 - True Damage
 - True Damage - Criticals Patch
 - TRUE DAMAGE - FN Five-seveN
 - TRUE DAMAGE - Heavy Select Shotgun
 - TRUE DAMAGE - Miniguns Rebirth
 - TRUE DAMAGE - PKM Machine Gun
+- W.A.T.M. - Power Armor Expansion (Blue Version)
+- W.A.T.M. - Power Armor Expansion - Some Assembly Required Patch
+- We Are The Minutemen
+- We Are The Minutemen - Enhanced Textures
+- We Are The MInutemen - Tweaks - Fixes - Power Armor Expansion - Patches
 
 **NOTES**
 
