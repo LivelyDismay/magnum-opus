@@ -7,7 +7,6 @@
   - [Table of Contents](#table-of-contents)
   - [Hotkeys?](#hotkeys)
   - [Load order? / What mods are in this list?](#load-order--what-mods-are-in-this-list)
-  - [My DLC isn't triggering! What gives?](#my-dlc-isnt-triggering-what-gives)
   - [My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!](#my-pipboy-is-inaccessible--invisible--showing-random-stuff-i-dont-want-to-see--something-is-wrong-fix-it)
   - [How do I repair Power Armor?](#how-do-i-repair-power-armor)
   - [My game crashes when I launch from MO2. Help!](#my-game-crashes-when-i-launch-from-mo2-help)
@@ -69,12 +68,6 @@ I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use
 [Have a look.](https://loadorderlibrary.com/lists/magnum-opus)
 
 [[Top]](#table-of-contents)
-
----
-
-### My DLC isn't triggering! What gives?!
-
-After applying the `Opus v8` preset, exit the MCM and reopen it again. Scroll down to the `DLC Timing` MCM. On each of the DLCs, change all of the Quest Requirements to NONE. I don't know why, but MCM Settings Manager does not save the preconfigured settings properly. I apologize for the inconvenience here, it really sucks.
 
 ---
 
