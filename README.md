@@ -116,6 +116,8 @@ Launch Wabbajack. The exe will download the rest of the program from Github and 
 
 Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\Magnum Opus`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories. **You may have the Installation and Download locations on separate drives if you prefer, but your Installation folder should be on an SSD or NVME.** If you have the Installation on an HDD, you will experience stuttering and poor performance.
 
+If the installation fails for whatever reason, **DO NOT USE THE RETRY BUTTON.** It is bugged. Close Wabbajack completely and rerun the installer, choosing the same Installation and Download locations you used previously. You do not need to delete anything. You do not lose progress on your install.
+
 You may delete the Downloads folder after the installation is completed successfully, if you want to save space.
 
 It's always a good idea to make sure you're logged in to Nexus via Wabbajack's settings. Might even want to log out then log back in, just to be sure it didn't expire.
