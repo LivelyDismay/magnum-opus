@@ -58,13 +58,15 @@ If you're still using the old Workbase Improved output, that's totally fine! You
 
 Launch ModOrganizer.exe from inside your installation folder (the one you chose for the modlist when you first installed it via the Wabbajack app). There's a big bar on the right side that says `F4SE`. Click this to reveal the dropdown menu and select `Fallout 4 Launcher`. Click `Run`. On the launcher, click `Options`. Under the `Detail` tab, click `Medium` or `High`. Do not click `Ultra`. I don't care how good your computer is; this game is old and doesn't care about your hardware. I would also recommend checking the `Windowed Mode` and `Borderless` boxes. When finished, press `OK`. You may now Exit the launcher.
 
+The Nvidia app also really likes to "optimize" your games. It is terrible at doing so. I would strongly encourage you to disable this alleged feature. Same with AMD Adrenaline.
+
 [[Top]](#table-of-contents)
 
 ---
 
 ### Launching the Game
 
-Back in MO2, change the dropdown back to `F4SE`. This is how you will launch the game from now on. **You need to launch the game in this exact way every time in order to play with the installed mods.**
+Launch ModOrganizer.exe from inside your installation folder (the one you chose for the modlist when you first installed it via the Wabbajack app). There's a big bar on the right side that says `F4SE`. This is how you will launch the game from now on. **You need to launch the game in this exact way every time in order to play with the installed mods.**
 
 [[Top]](#table-of-contents)
 
