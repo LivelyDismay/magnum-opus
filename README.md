@@ -200,8 +200,8 @@ I don't own a widescreen monitor, so I can't help directly. I don't mind you guy
 For everyone using an ultra wide monitor with ratios 32:9 or 21:9 (3840×1080 / 5120×1440 / 3440×1440 / 2560 × 1080), here is the fix for a bulk of the most serious problems, such as not being able to distribute stats and name your character, or not being able to properly use the TAB menu.
 
 The issue is fixed by using one of the two mods, based on your aspect ratio:  
-- 32:9 [Super Ultra Wide Interface 32:9](https://www.nexusmods.com/fallout4/mods/56363)  
-- 21:9 [Ultra Wide Interface 21:9](https://www.nexusmods.com/fallout4/mods/65677)  
+- 32:9 [Super Ultra Wide Interface 32:9](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=309863&game_id=1151)  
+- 21:9 [Ultra Wide Interface 21:9](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=309866&game_id=1151)  
 
 Installing is a 3 step process, copy the inputs below.
 
