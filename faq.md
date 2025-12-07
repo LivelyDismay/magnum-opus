@@ -21,8 +21,6 @@
   - [I randomly have god mode / I take no damage or rads / my stamina doesn't drain anymore. What happened?](#i-randomly-have-god-mode--i-take-no-damage-or-rads--my-stamina-doesnt-drain-anymore-what-happened)
   - [I can't seem to hurt enemies that are in power armor!](#i-cant-seem-to-hurt-enemies-that-are-in-power-armor)
   - [Why are feral ghouls so hard to kill?](#why-are-feral-ghouls-so-hard-to-kill)
-  - [I'm only doing 1 damage! / Why does it take a dozen shots to kill the radroaches in Vault 111?](#im-only-doing-1-damage--why-does-it-take-a-dozen-shots-to-kill-the-radroaches-in-vault-111)
-  - [Why am I dying in just 1 or 2 hits?](#why-am-i-dying-in-just-1-or-2-hits)
   - [When I start Magnum Opus, the game is zoomed in!](#when-i-start-magnum-opus-the-game-is-zoomed-in)
   - [How do I cap/uncap my FPS?](#how-do-i-capuncap-my-fps)
   - [How do I edit the volumes for things like radios and voices?](#how-do-i-edit-the-volumes-for-things-like-radios-and-voices)
@@ -221,24 +219,6 @@ This modlist uses a really cool mod called [Bastion](https://www.nexusmods.com/f
 ### Why are feral ghouls so hard to kill?
 
 They're basically zombies. Go for the head. Other body parts have a pretty high damage resistance.
-
-[[Top]](#table-of-contents)
-
----
-
-### I'm only doing 1 damage! / Why does it take a dozen shots to kill the radroaches in Vault 111?
-
-On rare occasions, True Damage won't load properly straight away. This will be apparently if your 10mm pistol does 1 damage, and the radroaches in Vault 111 take a dozen shots to kill. To fix this, simply save and load the game (you may need to exit the game fully). I'd recommend enabling the option to kill all Vault 111 radroaches, so you can check your damage in your Pipboy at the end of the vault.
-
-[[Top]](#table-of-contents)
-
----
-
-### Why am I dying in just 1 or 2 hits?
-
-This modlist uses True Damage, which changes ballistic weapons so that their damage is mostly based on the caliber of the round, not the weapon itself. This means that .38 does relatively little damage (it's still no joke when you're fresh out of the Vault though), but .50 cal is going to ruin your day. Automatic weapons will probably ruin your day regardless. Shotguns will also wreck you and enemies.
-
-Don't stand out in the open like a numpty. Wear head armor. Bullets actually hurt in Magnum Opus, so get tactical and adjust your play style accordingly or be prepared to see the reload screen a lot.
 
 [[Top]](#table-of-contents)
 
