@@ -1,3 +1,15 @@
+2025/12/08
+
+Version 9.0.1
+
+**ADDED**
+
+- Super Mutant Redux-Better Locational Damage Patch
+- Super Mutant Redux-West Tek Tactical Optics Patch
+
+Note: If you're on the Livelier Perks profile, you'll probably need to re-enable the Sorter for it (as I keep it disabled while compiling, to hopefully prevent people from loading them before the perk module).
+---
+
 2025/11/16
 
 Version 9.0.0
