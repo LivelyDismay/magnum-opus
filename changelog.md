@@ -44,7 +44,7 @@ This version allows for prebuilt settlements. Please consult the [Post Install](
 
 - Set three bloatflies to spawn in dead because they were annoying me when doing SS2 and they made the raiders attack the flies when I'm just trying to negotiate with them and go to hell you stupid bloatflies you're really harshing my mellow.
 - Updated `Liv_BLD_UFO4P` patch. This changes a bit about the Dreadnaught armor (allows it to spawn on raiders again, but reduces the Armor and EnergyResist values by half of what it used to be). I originally let it be removed from spawn lists because it's pretty overpowered, but I also know how much people like it...but I am pretty sure people only like it because of how overpowered it is...so I guess we'll see how it goes.
-- Fixed a bug with the Hellcat Power Armor repait kits.
+- Fixed a bug with the Hellcat Power Armor repair kits.
 - Some of the patching was a bit rushed (looking at you, Hallucigen Inc Weaponry) because I wanted to get the list installable, so if you do use these things, let me know how it goes. Of course I'll be playing myself as well, but extra eyes are always welcome.
 
 Unpacked the following archives and deleted the ba2s:
