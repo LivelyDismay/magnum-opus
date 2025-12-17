@@ -1,3 +1,74 @@
+WIP
+
+Version 9.1.0
+
+**ADDED**
+
+- Basic Skin Overrides - Clean - Dirty - Old
+- Companion Command Animations
+- Companion Take All - Keep Equipped Items
+- FallUI Companion Carryweight Fix
+- Flutter Flicker Fixer For Foliage
+- HalluciGen, Inc. Weaponry No Creation Club Version
+- Ida Body Texture - LooksMenu Skin Override
+- Kala's Tattoo Shop- CBBE Skin Overrides for LooksMenu
+- Looks Menu Temp Scroll
+- Plutonium and Quantum Ones Get Vanilla Glowing One Race
+- Quantum Creatures - Quantum Ones Are Glowing Ones
+- SIG MCX Armory Project Flashlight fixes
+- Tattoo Mass Vol.1 Re-Skin Edition
+
+**UPDATED**
+
+- Fast Start - Skip Sanctuary Prologue
+- See-Through-Scopes
+- Sim Settlements 2 Addon Pack - Rebirth of the Commonwealth
+- Sim Settlements 2 - All Chapters Pack
+- SS2 Superstructures - A Sim Settlements 2 Addon Pack
+- Who's The General - Minutemen Quest Cleanup
+- Workshop Framework
+- You And What Army 2
+- You And What Army 2 Patch Hub
+
+**REMOVED**
+
+- Cinema Aces Lights Lighting mod
+- Wastelander's XM2076
+
+**NOTES**
+
+- Updated `Liv_BLD_UFO4P` patch. This changes a bit about the Dreadnaught armor (allows it to spawn on raiders again, but reduces the Armor and EnergyResist values by half of what it used to be). I originally let it be removed from spawn lists because it's pretty overpowered, but I also know how much people like it...but I am pretty sure people only like it because of how overpowered it is...so I guess we'll see how it goes.
+- Fixed a bug with the Hellcat Power Armor repait kits.
+- Some of the patching was a bit rushed (looking at you, Hallucigen Inc Weaponry) because I wanted to get the list installable, so if you do use these things, let me know how it goes. Of course I'll be playing myself as well, but extra eyes are always welcome.
+
+Unpacked the following archives and deleted the ba2s:
+<details>
+  
+  - Settlement Keywords Expanded v1.60
+  - HUDFramework
+  - Workshop Framework
+  - Old Gen Replacers
+  - Settlement Menu Manager
+  - Canary Save File Monitor
+  - Slow days Fast nights
+  - Legendary Radroach Fix
+  - Persistent Volume Sliders
+  - Atom Cats Drag Race Start Fix
+  - Extended Dialogue Interface
+  - BS Defence - This Settlement Does Not Need Your Help
+  - Automatically Lowered Weapons
+  - Weapon QuickSwap
+  - FO4 Photo Mode  
+  - Complex Vendors
+  - Lootable Vertibirds
+  - SS2 - XDI Compatibility Patch
+
+This is something that will be ongoing in order to reduce the total number of ba2 archives moving forward. The update kinda caught me in the middle of this stuff.
+
+</details>
+
+---
+
 2025/12/08
 
 Version 9.0.1
