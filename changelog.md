@@ -6,7 +6,7 @@ This version allows for prebuilt settlements. Please consult the [Post Install](
 
 **ADDED**
 
-- Basic Skin Overrides - Clean - Dirty - Old
+- Basic Skin Overrides - Clean - Dirty - Old (the Old skin on Nora looks pretty bad, would not recommend it)
 - Companion Command Animations
 - Companion Take All - Keep Equipped Items
 - FallUI Companion Carryweight Fix
