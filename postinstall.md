@@ -104,7 +104,7 @@ You'll get this pop-up on character creation. Choose whatever options you like. 
 After character creation, you'll start in your cryopod in Vault 111. You'll quickly get this pop-up:  
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart01.png)
 
-This option allows Sim Settlements 2 to start Prebuilding settlements. You can choose either one. If you choose Yes, you can carry on as normal until you receive the next pop-up:  
+This option allows Sim Settlements 2 to start Prebuilding settlements. You can choose either one. If you choose No, settlements will not be prebuilt and you can skip to the MCM Options section further down this page. If you choose Yes, you can carry on as normal until you receive the next pop-up in a few minutes:  
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart02.png)
 
 Feel free to go through the options if you want to change things, but I would strongly encourage you to leave them at the default settings. This will have no impact on your ability to build your own settlements in the future (or tear them down, or replace the city plans, etc).
