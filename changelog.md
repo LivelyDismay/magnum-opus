@@ -2,7 +2,7 @@ WIP
 
 Version 9.1.0
 
-This version allows for prebuilt settlements. Please consult the Post Install page for details.
+This version allows for prebuilt settlements. Please consult the [Post Install](https://github.com/LivelyDismay/magnum-opus/blob/main/postinstall.md#prebuilt-settlement-system) page for details.
 
 **ADDED**
 
