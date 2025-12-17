@@ -17,6 +17,7 @@ This version allows for prebuilt settlements. Please consult the [Post Install](
 - Ida Body Texture - LooksMenu Skin Override
 - Kala's Tattoo Shop- CBBE Skin Overrides for LooksMenu
 - Looks Menu Temp Scroll
+- Misery Island - Isles Of New England
 - Motion Vector Fixes
 - Plutonium and Quantum Ones Get Vanilla Glowing One Race
 - Quantum Creatures - Quantum Ones Are Glowing Ones
