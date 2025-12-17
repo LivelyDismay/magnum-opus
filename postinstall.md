@@ -8,8 +8,10 @@
   - [Table of Contents](#table-of-contents)
   - [BiRaitBec Texture Optimization](#biraitbec-texture-optimization)
   - [Performance Tweaks](#performance-tweaks)
+  - [Godrays](#godrays)
   - [Launching the Game](#launching-the-game)
   - [A Few Quick Notes](#a-few-quick-notes)
+  - [Prebuilt Settlement System](#prebuilt-settlement-system)
   - [In-Game MCM Options](#in-game-mcm-options)
   - [Contact](#contact)
   - [Donate](#donate)
@@ -64,6 +66,15 @@ The Nvidia app also really likes to "optimize" your games. It is terrible at doi
 
 ---
 
+### Godrays (AMD users)
+
+Scroll down in MO2 until you reach the `Optional` section. You'll see these files in here:  
+![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/amdornvidia.png)
+
+If you are an Nvidia user, you don't have to do anything. If you are an AMD user, tick the AMD version so it is active. It does not matter if you disable the Nvidia one or not.
+
+---
+
 ### Launching the Game
 
 Launch ModOrganizer.exe from inside your installation folder (the one you chose for the modlist when you first installed it via the Wabbajack app). There's a big bar on the right side that says `F4SE`. This is how you will launch the game from now on. **You need to launch the game in this exact way every time in order to play with the installed mods.**
@@ -85,6 +96,27 @@ You'll get this pop-up on character creation. Choose whatever options you like. 
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/fo4faststartoptions.png)
 
 [[Top]](#table-of-contents)
+
+---
+
+### Prebuilt Settlement System
+
+After character creation, you'll start in your cryopod in Vault 111. You'll quickly get this pop-up:  
+![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart01.png)
+
+This option allows Sim Settlements 2 to start Prebuilding settlements. You can choose either one. If you choose Yes, you can carry on as normal until you receive the next pop-up:  
+![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart02.png)
+
+Feel free to go through the options if you want to change things, but I would strongly encourage you to leave them at the default settings. This will have no impact on your ability to build your own settlements in the future (or tear them down, or replace the city plans, etc).
+
+Next, you'll get this pop-up:  
+![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart03.png)
+
+Again, up to you, but I'd recommend starting the system. This will give the prebuilt settlements some settlers.
+
+You are free to leave the vault and play as normal from here. You'll have a status bar in the top right corner of your screen detailing how far along the prebuild system is, and another pop-up when it's all done.
+
+Please note: navmesh in settlements is only properly updated after you leave the area so the cells can become completely unloaded. Until you do so, it is likely you'll see settlers just standing in one spot and not really doing anything. This cannot be fixed, it's just how the engine handles these things.
 
 ---
 
