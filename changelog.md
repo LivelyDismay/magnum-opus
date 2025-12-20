@@ -31,7 +31,7 @@ Version 9.1.1
 - Fixed one Hunting Rifle scope (but not the other because I suck).
 - Fixed invisible recon scopes.
 - Downgraded Snappable Clutter and Display. It works now.
-- Updated MCM Upus v9 Preset to include Enhanded Movement settings, and alter Better Locational Damage settings a bit more.
+- Updated MCM Opus v9 Preset to include Enhanded Movement settings, and alter Better Locational Damage settings a bit more.
 
 ---
 
