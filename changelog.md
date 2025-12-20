@@ -16,7 +16,7 @@ Version 9.1.1
 - Omni-Directional Movement
 - RobCo - SCOURGE Excluded Bosses
 
-** REMOVED**
+**REMOVED**
 
 - Hold To Sprint
 
