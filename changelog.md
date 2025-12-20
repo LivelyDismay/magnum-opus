@@ -1,3 +1,40 @@
+WIP
+
+Version 9.1.1
+
+**ADDED**
+
+- Actor Velocity Framework
+- Better Armory Mod (BAM) - Weapon Racks and More
+- Boon Island - Isles Of New England
+- Enhanced Movement
+- The Goodneighbor Guard - A Mini-Faction Outfit Overhaul
+- Handmade Rifle - Recon Scope(Overlay and See Through Scopes(STS))
+- Holstered Laser CHW Combined Arms and Exp Pack by NovaFinch
+- Marine Anti-Materiel Rifle - Barrett M82 50 Cal - Cobra Assault Cannon
+- Marine Anti-Materiel Rifle STS Patch
+- Omni-Directional Movement
+- RobCo - SCOURGE Excluded Bosses
+
+** REMOVED**
+
+- Hold To Sprint
+
+**UPDATED**
+
+- Garden of Eden Papyrus Script Extender
+- Misery Island - Isles Of New England
+
+**NOTES**
+
+- Replaced Combined Arms' Barrett 50 Cal with the Marine Anti-Materiel rifle. CA's version has some issues so it will no longer be obtainable outside of console commands. This is also to ensure I don't bork your save in case you already have one. If you do, I'd recommend just selling it or something, and getting the new one.
+- Fixed one Hunting Rifle scope (but not the other because I suck).
+- Fixed invisible recon scopes.
+- Downgraded Snappable Clutter and Display. It works now.
+- Updated MCM Upus v9 Preset to include Enhanded Movement settings, and alter Better Locational Damage settings a bit more.
+
+---
+
 2025/12/17
 
 Version 9.1.0
