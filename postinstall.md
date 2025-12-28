@@ -91,7 +91,7 @@ Launch ModOrganizer.exe from inside your installation folder (the one you chose 
 - Sometimes the game can scale in odd ways. Please [read the FAQ](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md#when-i-start-magnum-opus-the-game-is-zoomed-in) to resolve this issue, and to help with any other frequently asked questions about the modlist.
 - Your Pipboy flashlight will not work between the time you pick it up and the time you press the button to open the vault door. It genuinely amazes me how many people report this to me. Just press the button, it's right there.
 
-You'll get this pop-up on character creation. Choose whatever options you like. I usually just Enable All and call it a day.
+You'll get this pop-up on character creation. Just Enable All and call it a day.
 
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/fo4faststartoptions.png)
 
