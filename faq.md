@@ -6,6 +6,7 @@
 - [Magnum Opus Frequently Asked Questions](#magnum-opus-frequently-asked-questions)
   - [Table of Contents](#table-of-contents)
   - [Hotkeys?](#hotkeys)
+  - [What version of Fallout 4 does this list use?](#what-version-of-fallout-4-does-this-list-use)
   - [Load order? / What mods are in this list?](#load-order--what-mods-are-in-this-list)
   - [My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!](#my-pipboy-is-inaccessible--invisible--showing-random-stuff-i-dont-want-to-see--something-is-wrong-fix-it)
   - [How do I repair Power Armor?](#how-do-i-repair-power-armor)
@@ -53,9 +54,18 @@
 - **N** - Upgrade SS2 plots with caps
 - **[** - Faster Workshop
 - **Insert** - Extra object selection (Workshop Mode only) - recommend using for scrapping corpses. Don't use this to scrap buildings, roads, etc  
-- **T** - Wait  
+- **T** - Wait
+- **Mouse4** - Dodge (kinda sucks but it's a package deal with the crouch-slide so whatever)
 
 I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use Ctrl+Z personally. This can undo the last action you took in workshop mode, such as accidentally scrapping something you didn't want to scrap.
+
+[[Top]](#table-of-contents)
+
+---
+
+### What version of Fallout 4 does this list use?
+
+1.10.163. Pre-NG.
 
 [[Top]](#table-of-contents)
 
