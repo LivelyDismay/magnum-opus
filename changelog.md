@@ -1,3 +1,20 @@
+2026/01/01
+
+Version 9.1.2
+
+Happy new year.
+
+**UPDATED**
+
+- Who's The General - Minutemen Quest Cleanup
+
+**NOTES**
+
+- This will resolve the crash that can happen when progressing through Taking the Castle for the Minutemen.
+- Added some clarification to the readme to address which game version the list runs on and FPS overlay shenanigans. Here's my advice in a nutshell: turn off the FPS overlays.
+
+---
+
 2025/12/20
 
 Version 9.1.1
