@@ -7,6 +7,7 @@
   - [Table of Contents](#table-of-contents)
   - [Hotkeys?](#hotkeys)
   - [What version of Fallout 4 does this list use?](#what-version-of-fallout-4-does-this-list-use)
+  - [My FPS counter says my framerate is really low. What gives?](#my-fps-counter-says-my-framerate-is-really-low-what-gives)
   - [Load order? / What mods are in this list?](#load-order--what-mods-are-in-this-list)
   - [My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!](#my-pipboy-is-inaccessible--invisible--showing-random-stuff-i-dont-want-to-see--something-is-wrong-fix-it)
   - [How do I repair Power Armor?](#how-do-i-repair-power-armor)
@@ -66,6 +67,14 @@ I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use
 ### What version of Fallout 4 does this list use?
 
 1.10.163. Pre-NG.
+
+[[Top]](#table-of-contents)
+
+---
+
+### My FPS counter says my framerate is really low. What gives?
+
+With Frame Generation, it is common and expected that your FPS overlays will report on your internal framerate. Which is half of your framerate with Framegen active. Stop bitching about this, I'm so sick of it. You want a fix? Turn off the FPS counter. Problem solved.
 
 [[Top]](#table-of-contents)
 
