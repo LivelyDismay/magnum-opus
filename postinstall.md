@@ -62,6 +62,8 @@ Launch ModOrganizer.exe from inside your installation folder (the one you chose 
 
 The Nvidia app also really likes to "optimize" your games. It is terrible at doing so. I would strongly encourage you to disable this alleged feature. Same with AMD Adrenaline.
 
+With Frame Generation, it is common and expected that your FPS overlays will report on your internal framerate. Which is half of your framerate with Framegen active. Stop bitching about this, I'm so sick of it. You want a fix? Turn off the FPS counter. Problem solved.
+
 [[Top]](#table-of-contents)
 
 ---
