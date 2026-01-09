@@ -1,3 +1,12 @@
+WIP
+
+Version 9.1.3
+
+- Fixed some issues with body part data for humans, ghouls, bloatflies, radroaches, stingwings, mutant hounds, and molerats.
+- Fixed some LVLN records to fix BLD and GhoulBlood spawns.
+
+---
+
 2026/01/01
 
 Version 9.1.2
