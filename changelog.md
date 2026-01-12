@@ -4,6 +4,7 @@ Version 9.1.3
 
 - Fixed some issues with body part data for humans, ghouls, bloatflies, radroaches, stingwings, mutant hounds, and molerats.
 - Fixed some LVLN records to fix BLD and GhoulBlood spawns.
+- Fixed a few COBJs from ITO that were pointing to incorrect created objects.
 
 ---
 
