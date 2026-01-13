@@ -1,10 +1,15 @@
-WIP
+2026/01/13
 
 Version 9.1.3
 
 - Fixed some issues with body part data for humans, ghouls, bloatflies, radroaches, stingwings, mutant hounds, and molerats.
 - Fixed some LVLN records to fix BLD and GhoulBlood spawns.
 - Fixed a few COBJs from ITO that were pointing to incorrect created objects.
+- Included the unpacked Scripts and Interface files from Livelier Perks. You still need the .esp file from the Creations storefront to use this profile, but this will alleviate any issues with the ba2 version between game versions. This operates the same way many of Bethesda's Creation Club files do - if you haven't noticed, you have a bunch of cc*.esl plugins in your game folder, even if you don't own any of those CC mods. And if you don't know what that means, it doesn't really matter. Just trust me!
+
+And of course, a disclaimer: Livelier Perks is not required for this modlist. The default profile also has its own customized perk chart, and the modlist is fully playable and patched without Livelier Perks. Livelier Perks is solely a means to help support me, my cats, and my work. 
+
+Thanks for your time.
 
 ---
 
