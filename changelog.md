@@ -32,6 +32,7 @@ Nothing set in stone. All subject to change.
 
 **REMOVED**
 
+- Retextures for Turrets - Seen some shit
 - True Blood
 
 **UPDATED**
