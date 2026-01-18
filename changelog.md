@@ -9,7 +9,6 @@ Nothing set in stone. All subject to change.
 - CompanionControlBooster
 - CompanionStimpak
 - CSEP Presents Commonwealth Killer - Quest Mod
-- CSEP Presents - The Order Of The Third Eye
 - Enhanded Blood Textures
 - Extended Territory Bnouses - Sim Settlements 2 Addon Pack
 - Fast AddItem Menu
