@@ -7,7 +7,6 @@ Nothing set in stone. All subject to change.
 - Al's Canopies
 - AS-12 Heavy Assault Shotgun
 - CompanionControlBooster
-- CompanionStimpak
 - Enhanded Blood Textures
 - Extended Territory Bnouses - Sim Settlements 2 Addon Pack
 - Fast AddItem Menu
