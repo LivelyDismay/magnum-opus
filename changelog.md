@@ -8,7 +8,6 @@ Nothing set in stone. All subject to change.
 - AS-12 Heavy Assault Shotgun
 - CompanionControlBooster
 - CompanionStimpak
-- CSEP Presents Commonwealth Killer - Quest Mod
 - Enhanded Blood Textures
 - Extended Territory Bnouses - Sim Settlements 2 Addon Pack
 - Fast AddItem Menu
