@@ -4,6 +4,9 @@ Nothing set in stone. All subject to change.
 
 **ADDED**
 
+- Al's Canopies
+- AS-12 Heavy Assault Shotgun
+- CompanionControlBooster
 - CompanionStimpak
 - CSEP Presents Commonwealth Killer - Quest Mod
 - CSEP Presents The Experiment - NEW Quest Mod
@@ -38,6 +41,8 @@ Nothing set in stone. All subject to change.
 
 **UPDATED**
 
+- Follower AI Approach Reaction Fix - F4SE
+- Looks Menu Temp Scroll
 - To Fuel The Blaster - An Alien Power Cell Recipe and Quest Mod
 
 **NOTES**
