@@ -10,8 +10,6 @@ Nothing set in stone. All subject to change.
 - CompanionStimpak
 - CSEP Presents Commonwealth Killer - Quest Mod
 - CSEP Presents The Experiment - NEW Quest Mod
-- CSEP Presents Home Sick - Quest Mod
-- CSEP Presents Loaded Bases 2.0 - The Final Chapter - Quest Mod
 - CSEP Presents - The Order Of The Third Eye
 - Enhanded Blood Textures
 - Extended Territory Bnouses - Sim Settlements 2 Addon Pack
