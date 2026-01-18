@@ -1,3 +1,51 @@
+WIP
+
+Nothing set in stone. All subject to change.
+
+**ADDED**
+
+- CompanionStimpak
+- CSEP Presents Commonwealth Killer - Quest Mod
+- CSEP Presents The Experiment - NEW Quest Mod
+- CSEP Presents Home Sick - Quest Mod
+- CSEP Presents Loaded Bases 2.0 - The Final Chapter - Quest Mod
+- CSEP Presents - The Order Of The Third Eye
+- Enhanded Blood Textures
+- Extended Territory Bnouses - Sim Settlements 2 Addon Pack
+- Fast AddItem Menu
+- FO4 PA Mounted Rocket Launcher
+- Integrated Automatron
+- More Diamond City Bounties
+- Quantum Deathclaws - Big Blue Uncut
+- Random Encounter Framework
+- Revolvers of the Wasteland
+- SCOURGE - CSEP The Order Of The Third Eye
+- Sidearms of the Wasteland
+- Story Encounter Booster
+- Strength in Steel - Brotherhood T60 Overhaul
+- Tumbajamba's Combat Armor MK II
+- Tumbajamba's Minutemen Armor Collection
+- Upscaling
+- Wash That Blood Off
+- Wicked Deathclaws and Gatorclaws
+- ZP's Enhanced Blood Textures
+- ZP's Gore Galore 2
+- ZP's Turrets and Spotlights
+
+**REMOVED**
+
+- True Blood
+
+**UPDATED**
+
+- To Fuel The Blaster - An Alien Power Cell Recipe and Quest Mod
+
+**NOTES**
+
+- Set Framegen and Upscaling to disabled by default in the Optional section.
+
+---
+
 2026/01/13
 
 Version 9.1.3
