@@ -16,7 +16,6 @@ Nothing set in stone. All subject to change.
 - Quantum Deathclaws - Big Blue Uncut
 - Random Encounter Framework
 - Revolvers of the Wasteland
-- SCOURGE - CSEP The Order Of The Third Eye
 - Sidearms of the Wasteland
 - Story Encounter Booster
 - Strength in Steel - Brotherhood T60 Overhaul
