@@ -31,6 +31,7 @@ Nothing set in stone. All subject to change.
 **REMOVED**
 
 - Ellen the Cartographer
+- FastPipboy
 - Retextures for Turrets - Seen some shit
 - True Blood
 - Very Zen Dark Caves
