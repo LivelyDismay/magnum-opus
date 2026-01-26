@@ -51,7 +51,6 @@ Nothing set in stone. All subject to change.
 
 - Set Framegen and Upscaling to disabled by default in the Optional section.
 - Ridiculous amount of additional patchwork and BLD adjustments.
-- Condensed about 200 archives down to 30+.
 - New MCM Settings preset.
 
 ---
