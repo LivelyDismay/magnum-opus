@@ -44,6 +44,7 @@ Nothing set in stone. All subject to change.
 
 - David Hunter - A Brotherhood Story
 - Follower AI Approach Reaction Fix - F4SE
+- High FPS Physics Fix
 - Looks Menu Temp Scroll
 - To Fuel The Blaster - An Alien Power Cell Recipe and Quest Mod
 
