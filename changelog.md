@@ -35,6 +35,7 @@ Nothing set in stone. All subject to change.
 - Ellen the Cartographer
 - FastPipboy
 - Jurttu's Mods Shared Assets
+- Lighting Series - All In One
 - Retextures for Turrets - Seen some shit
 - True Blood
 - Vanilla Locations Plus
