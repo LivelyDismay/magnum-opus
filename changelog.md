@@ -21,6 +21,7 @@ Nothing set in stone. All subject to change.
 - Story Encounter Booster
 - Strength in Steel - Brotherhood T60 Overhaul
 - Tumbajamba's Combat Armor MK II
+- Tumbajamba's Leather Armor and Backpack
 - Tumbajamba's Minutemen Armor Collection
 - Upscaling
 - Wash That Blood Off
@@ -41,6 +42,7 @@ Nothing set in stone. All subject to change.
 - True Blood
 - Vanilla Locations Plus
 - Very Zen Dark Caves
+- Who's The General - Minutemen Quest Cleanup
 - ZP's Gore Galore
 
 **UPDATED**
