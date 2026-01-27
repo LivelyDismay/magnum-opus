@@ -1,6 +1,8 @@
-WIP
+2026/01/27
 
-Nothing set in stone. All subject to change.
+Version 9.2.0
+
+New save required.
 
 **ADDED**
 
@@ -58,7 +60,7 @@ Nothing set in stone. All subject to change.
 - Set Framegen and Upscaling to disabled by default in the Optional section.
 - Ridiculous amount of additional patchwork and BLD adjustments.
 - New MCM Settings preset.
-- Some INI edits.
+- Some INI edits to Fallout4.ini, FalloutPrefs.ini, FalloutCustom.ini, High FPS Physics Fix.ini, Buffout.toml.
 
 ---
 
