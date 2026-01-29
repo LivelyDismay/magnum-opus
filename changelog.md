@@ -1,3 +1,21 @@
+WIP
+
+Version 9.2.1
+
+**NOTES**
+
+- Perk tweaks.
+  - Black Widow 2, Lady Killer 2 - +10% penetration against opposite sex.
+  - Black Widow 3, Lady Killer 3 - Fixed math error to provide correct bonus.
+  - Hacker (all ranks), Lockpick (all ranks) - changed text activation prompt, removed `Replace Default` script flag.
+  - Acrobatics 3 - Added condition to check player movement.
+  - Animal Friend 1, Animal Friend 2 - Reverted to vanilla.
+  - Classic Criticals 1 - Removed erroneous entry that activated Bloody Mess when unlocking this perk.
+  - Pest Control 3 - Added extra condition to check against unarmed weapons.
+- Fixed issue that caused the game to freeze when adjusting the muzzle attachment on the PKM weapon.
+
+---
+
 2026/01/27
 
 Version 9.2.0
