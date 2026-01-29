@@ -1,6 +1,10 @@
-WIP
+2026/01/29
 
 Version 9.2.1
+
+Due to the nature of this update, your save will have a long list of missing plugins when you next load your save. This *should not* cause any issues (the records edited are almost all overrides; the ones that aren't are cobjs). If you want to be extra safe, you can start a new game, but it is not likely necessary based on the form types in question.
+
+Details are explained in the notes below. Please read them.
 
 **NOTES**
 
@@ -13,6 +17,8 @@ Version 9.2.1
   - Classic Criticals 1 - Removed erroneous entry that activated Bloody Mess when unlocking this perk.
   - Pest Control 3 - Added extra condition to check against unarmed weapons.
 - Fixed issue that caused the game to freeze when adjusting the muzzle attachment on the PKM weapon.
+- Merged 56 LKRWSW patches into one singular patch.
+  - This will fix the issue of missing decals and blood spatter. For unknown reasons, exceeding 795 esl-flagged plugins will remove decals. Merging all these micro patches reduces the esl count down to 740 or so (total slightly changes based on your profile). I don't know if this is a Creation Engine issue, a Fallout 4 version issue, or a Magnum Opus issue. I've never encountered it or heard of it before, and it took me about three hours to finally figure this out. Now it's 5 am. I am tired.
 
 ---
 
