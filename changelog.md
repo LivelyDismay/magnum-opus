@@ -1,3 +1,11 @@
+2026/01/30
+
+Version 9.2.2
+
+- Moved Long Save Bug Fix to Optional, set to disabled.
+
+---
+
 2026/01/29
 
 Version 9.2.1
