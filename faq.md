@@ -124,12 +124,12 @@ It's a little complicated because I can't really provide direct patches/support 
 - Back in Steam, in your Library tab, right-click on `Fallout 4`.
 - Navigate to `Manage > Browse local files`. This will open a Windows Explorer.
 - Double click the `Data` folder.
-- Scroll down until you find `livckperkoverhaulfinalihope.esp` and `livckperkoverhaulfinalihope - Main.ba2`. Select both of these files.
-- Copy (ctrl+c) or Cut (ctrl+x) these two files.
+- Scroll down until you find `livckperkoverhaulfinalihope.esp` and select it. You do not need the ba2 for Magnum Opus. You can delete it if you wish to keep your game folder clean.
+- Copy (ctrl+c) or Cut (ctrl+x) this file.
 - In Magnum Opus' Mod Organizer 2, change the profile at the top from `Magnum Opus` to `Magnum Opus - Livelier Perks`.
 - Scroll to the bottom of the mods in the left pane, and go to the section labeled `Lively's VC Shenanigans`.
-- Inside that section, you'll see a mod called `[NoDelete] Livelier Perks`. Right-click this mod and select `Open in Explorer`.
-- Paste (ctrl+v) the two files you copied/cut a few moments ago.
+- Inside that section, you'll see a mod called `Livelier Perks`. Right-click this mod and select `Open in Explorer`.
+- Paste (ctrl+v) the file you copied/cut a few moments ago.
 - Back in Mod Organizer 2, press F5 to refresh the program.
 - Scroll down to the bottom of the Plugins list on the right to make sure `LivCKPerkOverhaulFinalIHope.esp` is active.
   - Your Plugins need to be sorted by Priority here. This is the default setting, so no need to do anything. But if you changed it, then change it back to Priority.
