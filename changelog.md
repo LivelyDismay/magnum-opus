@@ -1,3 +1,24 @@
+2026/02/03
+
+Version 9.2.3
+
+**ADDED**
+
+- Sound Condition Fix
+
+**UPDATED**
+
+- CompanionControlBooster
+- Sim Settlements 2 - All Chapters Pack
+- Workshop Framework
+
+**NOTES**
+
+- Potential fix for some gunner outfits others have reported issues with. I have not personally tested this (sorry, been busy with some other stuff).
+- Thanks to **Inire** and **Bella Star** for the feedback and assistance.
+
+---
+
 2026/01/30
 
 Version 9.2.2
