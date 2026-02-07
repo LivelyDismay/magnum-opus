@@ -113,13 +113,17 @@ You'll get this pop-up on character creation. Just Enable All and call it a day.
 
 ### Prebuilt Settlement System
 
+Sim Settlements 2 provides the option to allow many settlements to start with a city plan in place. If you don't know what this means, it is probably best not to initialize this system. This will make it a little more difficult to gain control of many settlements, and will limit your ability to manually build in those settlements until you gain ownership of them.
+
+You can always use the Workshop Framework MCM to claim a settlement while you're standing in it, if you like.
+
 After character creation, you'll start in your cryopod in Vault 111. You'll quickly get this pop-up:  
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart01.png)
 
 This option allows Sim Settlements 2 to start Prebuilding settlements. You can choose either one. If you choose No, settlements will not be prebuilt and you can skip to the MCM Options section further down this page. If you choose Yes, you can carry on as normal until you receive the next pop-up in a few minutes:  
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart02.png)
 
-Feel free to go through the options if you want to change things, but I would strongly encourage you to leave them at the default settings. This will have no impact on your ability to build your own settlements in the future (or tear them down, or replace the city plans, etc).
+Feel free to go through the options if you want to change things. Personally, I like setting a random percentage on some options. If there is a settlement you prefer manually building in, add it to the list of excluded settlements. This will have no impact on your ability to build your own settlements in the future (or tear them down, or replace the city plans, etc).
 
 Next, you'll get this pop-up:  
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart03.png)
