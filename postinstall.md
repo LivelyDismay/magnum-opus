@@ -8,7 +8,7 @@
   - [Table of Contents](#table-of-contents)
   - [BiRaitBec Texture Optimization](#biraitbec-texture-optimization)
   - [Performance Tweaks](#performance-tweaks)
-  - [AMD Users](#amd-users-particularly-people-with-a-9070-gpu-please-do-this-or-you-will-crash-a-lot)
+  - [AMD Users](#amd-users---particularly-people-with-a-9070-gpu---please-do-this-or-you-will-crash-a-lot)
   - [Launching the Game](#launching-the-game)
   - [A Few Quick Notes](#a-few-quick-notes)
   - [Prebuilt Settlement System](#prebuilt-settlement-system)
