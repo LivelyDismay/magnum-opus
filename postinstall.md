@@ -70,12 +70,20 @@ With Frame Generation, it is common and expected that your FPS overlays will rep
 
 ---
 
-### Godrays (AMD users)
+### AMD Users - PARTICULARLY PEOPLE WITH A 9070 GPU - PLEASE DO THIS OR YOU WILL CRASH A LOT
+
+I do not own an AMD card, so you'll have to do this on your own.
+
+Go to [this mod page](https://www.nexusmods.com/fallout4/mods/48053) and follow the instructions given. When prompted, your game path will be the `Stock Game` folder inside of your Magnum Opus installation folder. 
 
 Scroll down in MO2 until you reach the `Optional` section. You'll see these files in here:  
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/amdornvidia.png)
 
 If you are an Nvidia user, you don't have to do anything. If you are an AMD user, tick the AMD version so it is active. It does not matter if you disable the Nvidia one or not.
+
+Note: You **CANNOT** use FrameGen with the Vulkan Renderer fix. Using both will immediately crash your game.
+
+It is also recommended to cap your FPS at 60. This can be done in the High FPS Physics Fix ini file.
 
 ---
 
