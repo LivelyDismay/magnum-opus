@@ -1,3 +1,15 @@
+2026/02/09
+
+Version 9.2.4
+
+**NOTES**
+
+- Excluded Dogmeat from CompanionControlBooster.
+- Changed Automatron PreQuest condition from Integrated Automatron to start in 15 days instead of 30.
+- Changed Automation StartQuest condition from Integrated Automatron to start in 25 days instead of 45.
+
+---
+
 2026/02/03
 
 Version 9.2.3
