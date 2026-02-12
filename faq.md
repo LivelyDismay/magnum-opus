@@ -136,7 +136,7 @@ It's a little complicated because I can't really provide direct patches/support 
 - Back in the left pane of Mod Organizer 2, activate the next mod below Livelier Perks, entitled `Sorter - Livelier Perks Profile`.
 - Enjoy the game.
 
-Your load order, if done correctly, will look like this at the bottom:
+Your load order, if done correctly, will look like this at the bottom:  
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/lploadorderopus.png)
 
 I know it sounds like a lot, but it seriously takes like 30 seconds. I'm just writing this to be as foolproof as possible. And thanks for your support!
