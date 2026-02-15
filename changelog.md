@@ -11,6 +11,7 @@ Version 9.2.5
 **NOTES**
 
 - Fixed an issue where Raider Overhaul allowed you to take the Intimidation perk anytime you wanted, for some reason.
+- Added a NoDelete flag to the Livelier Perks stuff that's already being Included, so maybe you won't need to move your stuff over if you update on that profile. Or maybe you will, I don't know, you tell me. Just keep a copy of the plugin on your desktop and it'll be a non-issue anyway.
 - The Lodgen Resources file was removed from Mega, apparently, and you don't need it anyway, it's only for generating LOD and not for actual gameplay.
 - Framegen and Upscaling were removed because 1. I never use them, 2. they break shit for AMD users, and 3. I keep seeing people activate them before even trying to launch the game and having crashes related to both of them and then getting mad when I say to turn it off and I don't want to deal with it anymore, so they are no longer supported and now fall under the rule-11 umbrella.
 
