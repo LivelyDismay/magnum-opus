@@ -1,3 +1,22 @@
+2026/02/20
+
+Version 9.2.6
+
+**REMOVED**
+
+- 1st to 3rd Person Forced Reload Fix
+
+**NOTES**
+
+- Removed Gunner Spec Ops outfit. Hopefully this fixes the issue some of you have where killing a gunner wearing this outfit crashes your game.
+- Disabled chest in GNN that had all the "cheat" gunner outfits.
+- Changed viewmodel fov to 90 by default. Should make STS look better.
+- Changed STS hold breath settings to Legacy by default.
+- New MCM Settings output.
+- To do: have to fix the Shady Motives holotape spawns. Will be a little complicated but I'm mainly just writing this here so I don't forget later.
+
+---
+
 2026/02/15
 
 Version 9.2.5
