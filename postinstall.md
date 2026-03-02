@@ -79,8 +79,6 @@ Scroll down in MO2 until you reach the `Optional` section. You'll see these file
 
 If you are an Nvidia user, you don't have to do anything. If you are an AMD user, tick the AMD version so it is active. It does not matter if you disable the Nvidia one or not.
 
-Note: You **CANNOT** use FrameGen with the Vulkan Renderer fix. Using both will immediately crash your game.
-
 It is also recommended to cap your FPS at 60. This can be done in the High FPS Physics Fix ini file.
 
 ---
