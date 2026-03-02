@@ -412,7 +412,7 @@ Do note that increasing your FOV also increases the amount of objects being rend
 
 ### But I want to use Cheat Terminal?
 
-That's a shame. It'll break a lot of stuff in this list. Besides, half of what that mod does is already in Opus, like making various outfits and whatnot craftable. Use the console if you want to cheat. Don't blindly add stupid shit to the modlist.
+That's a shame. It'll break a lot of stuff in this list. Besides, half of what that mod does is already in Opus, like making various outfits and whatnot craftable. Use AddItemMenu or the console if you want to cheat. Don't blindly add stupid shit to the modlist.
 
 [[Top]](#table-of-contents)
 
