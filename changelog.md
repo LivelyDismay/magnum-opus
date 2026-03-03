@@ -1,3 +1,11 @@
+WIP
+
+**NOTES**
+
+- Made the 10 round Blackout Magazine no longer craftable for the SPR300.
+
+---
+
 2026/02/20
 
 Version 9.2.6
