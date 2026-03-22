@@ -156,10 +156,14 @@ This is a CBBE issue with some outfits and quite frankly, I can look past it. I'
 
 Nah, I don't use a controller. If someone else wants to set up a controller config, I can add it as an optional file.
 
+<ake sure the Controller option is enabled in your settings (`Escape > Gameplay > Settings`).
+
 If you're playing on a controller, your map probably doesn't work correctly. To fix this, edit your `Fallout4Prefs.ini` in the `MagnumOpus/profiles` folder and edit the following lines under the `[Display]` section to read as follows:
 
 `uPipboyTargetHeight=700`
 `uPipboyTargetWidth=876`
+
+Failing all that, open the MCM Config, go to Baka Fullscreen Pipboy, and disable the main option.
 
 [[Top]](#table-of-contents)
 
