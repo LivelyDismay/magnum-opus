@@ -1,8 +1,129 @@
 WIP
 
+**ADDED**
+
+- Baseline Plots Brotherhood - An SS2 Add-On
+- Combat Shutdown Grenade Fixes - F4SE - Garden of Eden SE
+- Companion Shoots At Player Fix - F4SE
+- Customizable Combat AI Nearby Object Search - F4SE
+- Empty Vendor List Bug Fix - F4SE
+- EquipSettler
+- GavMan's Cloister Gardens - SS2 plot Add-on
+- GavMan's Interior plans - SS2 Plot Add-On
+- Hellcat Power Mesh FIX
+- HFs - Overdue book - 2K
+- Hostile NPC Respawn Fix - F4SE - Garden of Eden SE
+- InvLocker
+- Magic Effect and Spell Engine Fixes - F4SE
+- MS Contraptions - Sim Settlements ASAM Builder
+- Player Face Target Fixes and Optional Improvements - F4SE
+- SS2 and Institute Technology Overhaul Version 2 Integration Patch
+- True Storms - Quieter Thunder
+- Woody's Wasteland Stuff - Navmesh Patch
+
+**REMOVED**
+
+- ADALYN TATTOO
+- BRAELYN TATTOO
+- BRE TATTOO
+- BS Defence - This Settlement Does Not Need Your Help
+- CBBE Reduced (with dismemberment)
+- EDEN TATTOO
+- Full Artillary System Overhaul
+- GTattoo Mass Vol.1 (Skin set) Female CBBE 1.4
+- HARLOWE TATTOO
+- HARLOWE TATTOO WITH VITILIGO
+- HARLOWE VITILIGO
+- JAY TATTOO
+- LAYTON TATTOO
+- LEON ALT
+- LEON SMALLER TATTOO
+- LEON TATTOO
+- MARLOWE TATTOO
+- MARLOWE TATTOO WITH VITILIGO
+- MARLOWE VITILIGO
+- Oldwolfe's Minutemen Re-Done Plus
+- Retro Fashion - Improved Meshes
+- Starlight Hive - Sim Settlements 2 City Plan
+- Sunshine Hive (Sunshine Tidings Co-Op) - Sim Settlements 2 City Plan
+- Take Your Cores
+- Tenpines Hive - Sim Settlements 2 City Plan
+
+**UPDATED**
+
+- 4estGimp - West Tek Tactical Optics Injection
+- Attack of the Lobotomites - Additions and Adjustments Patch
+- Better Fusion Core Management - F4SE
+- Better Locational Damage
+- Better Locational Damage - RobCo Patch
+- BodySlide and Outfit Studio
+- Boston Bandits
+- Boston Riot Armor
+- Bullet Impact Overhaul
+- Caliente's Beautiful Bodies Enhancer -CBBE-
+- Clarity - True Storms
+- Companion Command Animations
+- DirectHit
+- Durable Vertibirds
+- Emirals Tales From The Commonwealth Fixes
+- Extended Weapon Systems
+- Facial Expression and Eyetracking Engine Fixes - F4SE
+- Fallout 4 Ultimate Window Overhaul
+- FallUI - Unread Notes and Holotapes
+- Fast AddItem Menu
+- Favelabulous
+- Floating super mutant chain fix
+- Flutter Flicker Fixer For Foliage
+- Follower AI Approach Reaction Fix - F4SE
+- Fourville
+- Friendly Radstags - RobCo Patcher REDUX
+- Garden of Eden Papyrus Script Extender
+- Grease Rat Garbs
+- Jampads 2 - a Sim Settlements 2 Add-on
+- The Mercenary Pack
+- Merged RootBehavior
+- Motion Vector Fixes
+- No Sneaking in Power Armor
+- Nordhagen Fishery - Sim Settlements 2 City Plan Contest April 2022
+- Plots Extended
+- Ponytail Hairstyles by Azar - BA2
+- Publick Occurrences Expanded
+- Raider Accessories
+- Retro Fashion Overhaul - Suits - Coats - Hats - Uniforms -
+- Rise of the Commonwealth for Sim Settlements 2
+- RobCo Patcher
+- RobCo - Smarter Bastion Penetration
+- Robot Behavior Animation Tweaks
+- The Rooftops - For Jumpers and Snipers
+- Sim Settlements 2 Automatron Mod
+- Sim Settlements 2 - Pra's Random Addon 2
+- Sim Settlements 2 Scrappers
+- Simple Everyone's Best Friend
+- Snappable Clutter and Display
+- SS2 Addon - Bare Essentials
+- SS2 FallUI Icons a CIS Plugin
+- SS2 Settlers UI
+- SS2 - XDI Compatibility Patch
+- Strength in Steel - Brotherhood T60 Overhaul
+- Targeted Textures - Vanilla textures upscaled fixed and sized
+- TG'z Cambridge Interiors
+- TG'z Fens Interiors
+- True Storms - Wasteland Edition
+- Tumbajamba's Leather Armor and Backpack
+- Vault 88 Essentials
+- Vault-Tec Tools - Sim Settlements 2 Addon Pack
+- Vic's Hooded Rags Replacer (CBBE - EVB - Vanilla Male)
+- Vicky's Raider Leathers With T-Shirt
+- Wicked Deathclaws and Gatorclaws
+- Workshop Framework
+- ZP's Vanilla Water Liquid Scum
+
 **NOTES**
 
-- Made the 10 round Blackout Magazine no longer craftable for the SPR300.
+- Made the 10 round Blackout Magazine no longer craftable for the SPR300
+- Removed a lot of the LooksMenu Skin overlays because the few people that bothered trying to use them mostly just complained or didn't understand it.
+- Fixed unique Power Armor set at Recon Theta Bunker so it now can use Power Armor Repair Kits.
+- Cleaned ITMs from Attack of the Lobotomites Settlement Location and City Plan to make it compatible with Attack of the Lobotomites - Additions and Adjustments Patch.
 
 ---
 
