@@ -4,6 +4,7 @@ WIP
 
 - Baseline Plots Brotherhood - An SS2 Add-On
 - Combat Shutdown Grenade Fixes - F4SE - Garden of Eden SE
+- Community Fixes Merged
 - Companion Shoots At Player Fix - F4SE
 - Customizable Combat AI Nearby Object Search - F4SE
 - Empty Vendor List Bug Fix - F4SE
@@ -28,7 +29,9 @@ WIP
 - BRE TATTOO
 - BS Defence - This Settlement Does Not Need Your Help
 - CBBE Reduced (with dismemberment)
+- Duffle Bag Sound Fix (included in CFM*)
 - EDEN TATTOO
+- Floating super mutant chain fix (included in CFM*)
 - Full Artillary System Overhaul
 - GTattoo Mass Vol.1 (Skin set) Female CBBE 1.4
 - HARLOWE TATTOO
@@ -36,18 +39,24 @@ WIP
 - HARLOWE VITILIGO
 - JAY TATTOO
 - LAYTON TATTOO
+- Legendary Radroach Fix (included in CFM*)
 - LEON ALT
 - LEON SMALLER TATTOO
 - LEON TATTOO
 - MARLOWE TATTOO
 - MARLOWE TATTOO WITH VITILIGO
 - MARLOWE VITILIGO
+- MIRV fix (included in CFM*)
+- Modern Replacer - Bottle Caps
+- Nuka World Novatron Assaultron Torso Fix (included in CFM*)
 - Oldwolfe's Minutemen Re-Done Plus
+- Radio Tower Transparency Fix (included in CFM*)
 - Retro Fashion - Improved Meshes
 - Starlight Hive - Sim Settlements 2 City Plan
 - Sunshine Hive (Sunshine Tidings Co-Op) - Sim Settlements 2 City Plan
 - Take Your Cores
 - Tenpines Hive - Sim Settlements 2 City Plan
+- Vault 81 - GOAT Sequence Patch (included in CFM*)
 
 **UPDATED**
 
@@ -72,7 +81,6 @@ WIP
 - FallUI - Unread Notes and Holotapes
 - Fast AddItem Menu
 - Favelabulous
-- Floating super mutant chain fix
 - Flutter Flicker Fixer For Foliage
 - Follower AI Approach Reaction Fix - F4SE
 - Fourville
@@ -120,6 +128,7 @@ WIP
 
 **NOTES**
 
+- *CFM is short for Community Fixes Merged. Any mods flagged with this are merged into that larger mod, so they aren't *removed* but are rather *replaced*. So please don't ask why I deleted a bunch of simple mods that fix things.
 - Made the 10 round Blackout Magazine no longer craftable for the SPR300
 - Removed a lot of the LooksMenu Skin overlays because the few people that bothered trying to use them mostly just complained or didn't understand it.
 - Fixed unique Power Armor set at Recon Theta Bunker so it now can use Power Armor Repair Kits.
