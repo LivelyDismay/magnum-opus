@@ -2,11 +2,17 @@ WIP
 
 **ADDED**
 
+- Addictol
+- Addictol Crash Logger
 - Baseline Plots Brotherhood - An SS2 Add-On
+- Cell Offset Generator
 - Combat Shutdown Grenade Fixes - F4SE - Garden of Eden SE
 - Community Fixes Merged
+- Companion Jump Fall Pose Fix - F4SE - Garden of Eden SE
 - Companion Shoots At Player Fix - F4SE
 - Customizable Combat AI Nearby Object Search - F4SE
+- Dangerous Deathclaws
+- Deadlier Deathclaws
 - Empty Vendor List Bug Fix - F4SE
 - EquipSettler
 - GavMan's Cloister Gardens - SS2 plot Add-on
@@ -18,38 +24,49 @@ WIP
 - Magic Effect and Spell Engine Fixes - F4SE
 - MS Contraptions - Sim Settlements ASAM Builder
 - Player Face Target Fixes and Optional Improvements - F4SE
+- Power Attack AP Cost Fix
 - SS2 and Institute Technology Overhaul Version 2 Integration Patch
 - True Storms - Quieter Thunder
+- Unique Mythic Deathclaws Redux
 - Woody's Wasteland Stuff - Navmesh Patch
 
 **REMOVED**
 
 - ADALYN TATTOO
+- Baka MaxPapyrusOps
 - BRAELYN TATTOO
 - BRE TATTOO
 - BS Defence - This Settlement Does Not Need Your Help
+- Buffout 4
 - CBBE Reduced (with dismemberment)
+- Daytripper 4
+- Disk Cache Enabler
 - Duffle Bag Sound Fix (included in CFM*)
 - EDEN TATTOO
+- Faster Workshop (Workshop Lag Fix)
 - Floating super mutant chain fix (included in CFM*)
 - Full Artillary System Overhaul
 - GTattoo Mass Vol.1 (Skin set) Female CBBE 1.4
 - HARLOWE TATTOO
 - HARLOWE TATTOO WITH VITILIGO
 - HARLOWE VITILIGO
+- Interior NavCut Fix
 - JAY TATTOO
 - LAYTON TATTOO
 - Legendary Radroach Fix (included in CFM*)
 - LEON ALT
 - LEON SMALLER TATTOO
 - LEON TATTOO
+- Long Save Bug Fix
 - MARLOWE TATTOO
 - MARLOWE TATTOO WITH VITILIGO
 - MARLOWE VITILIGO
 - MIRV fix (included in CFM*)
 - Modern Replacer - Bottle Caps
+- NUCLEAR Nude CBBE
 - Nuka World Novatron Assaultron Torso Fix (included in CFM*)
 - Oldwolfe's Minutemen Re-Done Plus
+- Rad-Ban Eyewear Inc
 - Radio Tower Transparency Fix (included in CFM*)
 - Retro Fashion - Improved Meshes
 - Starlight Hive - Sim Settlements 2 City Plan
@@ -60,6 +77,7 @@ WIP
 
 **UPDATED**
 
+- 4estGimp - Raider Overhaul ONE
 - 4estGimp - West Tek Tactical Optics Injection
 - Attack of the Lobotomites - Additions and Adjustments Patch
 - Better Fusion Core Management - F4SE
@@ -93,6 +111,7 @@ WIP
 - Motion Vector Fixes
 - No Sneaking in Power Armor
 - Nordhagen Fishery - Sim Settlements 2 City Plan Contest April 2022
+- Ownership Fixes
 - Plots Extended
 - Ponytail Hairstyles by Azar - BA2
 - Publick Occurrences Expanded
@@ -129,10 +148,11 @@ WIP
 **NOTES**
 
 - *CFM is short for Community Fixes Merged. Any mods flagged with this are merged into that larger mod, so they aren't *removed* but are rather *replaced*. So please don't ask why I deleted a bunch of simple mods that fix things.
-- Made the 10 round Blackout Magazine no longer craftable for the SPR300
+- Made the 10 round Blackout Magazine no longer craftable for the SPR300.
 - Removed a lot of the LooksMenu Skin overlays because the few people that bothered trying to use them mostly just complained or didn't understand it.
 - Fixed unique Power Armor set at Recon Theta Bunker so it now can use Power Armor Repair Kits.
 - Cleaned ITMs from Attack of the Lobotomites Settlement Location and City Plan to make it compatible with Attack of the Lobotomites - Additions and Adjustments Patch.
+- What I would describe as a quite frankly ridiculous amount of custom patching for deathclaws and gatorclaws.
 
 ---
 
