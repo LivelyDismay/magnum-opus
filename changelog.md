@@ -41,10 +41,10 @@ WIP
 - CBBE Reduced (with dismemberment)
 - Daytripper 4
 - Disk Cache Enabler
-- Duffle Bag Sound Fix (included in CFM*)
+- Duffle Bag Sound Fix 
 - EDEN TATTOO
 - Faster Workshop (Workshop Lag Fix)
-- Floating super mutant chain fix (included in CFM*)
+- Floating super mutant chain fix 
 - Full Artillary System Overhaul
 - GTattoo Mass Vol.1 (Skin set) Female CBBE 1.4
 - HARLOWE TATTOO
@@ -53,7 +53,7 @@ WIP
 - Interior NavCut Fix
 - JAY TATTOO
 - LAYTON TATTOO
-- Legendary Radroach Fix (included in CFM*)
+- Legendary Radroach Fix 
 - LEON ALT
 - LEON SMALLER TATTOO
 - LEON TATTOO
@@ -61,19 +61,19 @@ WIP
 - MARLOWE TATTOO
 - MARLOWE TATTOO WITH VITILIGO
 - MARLOWE VITILIGO
-- MIRV fix (included in CFM*)
+- MIRV fix 
 - Modern Replacer - Bottle Caps
 - NUCLEAR Nude CBBE
-- Nuka World Novatron Assaultron Torso Fix (included in CFM*)
+- Nuka World Novatron Assaultron Torso Fix 
 - Oldwolfe's Minutemen Re-Done Plus
 - Rad-Ban Eyewear Inc
-- Radio Tower Transparency Fix (included in CFM*)
+- Radio Tower Transparency Fix 
 - Retro Fashion - Improved Meshes
 - Starlight Hive - Sim Settlements 2 City Plan
 - Sunshine Hive (Sunshine Tidings Co-Op) - Sim Settlements 2 City Plan
 - Take Your Cores
 - Tenpines Hive - Sim Settlements 2 City Plan
-- Vault 81 - GOAT Sequence Patch (included in CFM*)
+- Vault 81 - GOAT Sequence Patch 
 
 **UPDATED**
 
@@ -147,7 +147,6 @@ WIP
 
 **NOTES**
 
-- *CFM is short for Community Fixes Merged. Any mods flagged with this are merged into that larger mod, so they aren't *removed* but are rather *replaced*. So please don't ask why I deleted a bunch of simple mods that fix things.
 - Made the 10 round Blackout Magazine no longer craftable for the SPR300.
 - Removed a lot of the LooksMenu Skin overlays because the few people that bothered trying to use them mostly just complained or didn't understand it.
 - Fixed unique Power Armor set at Recon Theta Bunker so it now can use Power Armor Repair Kits.
