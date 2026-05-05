@@ -45,7 +45,7 @@ WIP
 - EDEN TATTOO
 - Faster Workshop (Workshop Lag Fix)
 - Floating super mutant chain fix 
-- Full Artillary System Overhaul
+- Full Artillery System Overhaul
 - GTattoo Mass Vol.1 (Skin set) Female CBBE 1.4
 - HARLOWE TATTOO
 - HARLOWE TATTOO WITH VITILIGO
