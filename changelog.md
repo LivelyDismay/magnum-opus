@@ -50,6 +50,7 @@ WIP
 - FO4FI HD Project - Architecture
 - Full Artillery System Overhaul
 - GTattoo Mass Vol.1 (Skin set) Female CBBE 1.4
+- Hands Off - Lock Settlement Containers and Doors
 - HARLOWE TATTOO
 - HARLOWE TATTOO WITH VITILIGO
 - HARLOWE VITILIGO
@@ -155,8 +156,13 @@ WIP
 - Removed a lot of the LooksMenu Skin overlays because the few people that bothered trying to use them mostly just complained or didn't understand it.
 - Fixed unique Power Armor set at Recon Theta Bunker so it now can use Power Armor Repair Kits.
 - Cleaned ITMs from Attack of the Lobotomites Settlement Location and City Plan to make it compatible with Attack of the Lobotomites - Additions and Adjustments Patch.
-- What I would describe as a quite frankly ridiculous amount of custom patching for deathclaws and gatorclaws.
+- What I would describe as a quite frankly ridiculous amount of custom patching for deathclaws and gatorclaws and better locational damage. Also gatorclaws aren't invisible anymore. Also they both have cooler textures and over 300 new variants. Also they're harder.
 - Before you say "omg you're removing a ton of useful utilities and bug fix mods," please note the additions of Addictol and Community Fixes Merged, which act as replacements for the dozen or so "important" mods that are in the REMOVED section.
+
+**TO DO** - this is really just here so I don't forget...
+
+- New MCM Preset (with the Workshop Plus rad removal disabled).
+- Go through magnum-opus-suggestions (I have a bunch of tabs open from links you guys posted there, I just haven't downloaded them yet because I suck).
 
 ---
 
