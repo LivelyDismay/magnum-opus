@@ -28,6 +28,7 @@ WIP
 - SS2 and Institute Technology Overhaul Version 2 Integration Patch
 - True Storms - Quieter Thunder
 - Unique Mythic Deathclaws Redux
+- Vault-Tec Enhanced FaceGen System - V.E.F.S
 - Woody's Wasteland Stuff - Navmesh Patch
 
 **REMOVED**
@@ -43,8 +44,10 @@ WIP
 - Disk Cache Enabler
 - Duffle Bag Sound Fix 
 - EDEN TATTOO
+- FaceGen - TOTC
 - Faster Workshop (Workshop Lag Fix)
-- Floating super mutant chain fix 
+- Floating super mutant chain fix
+- FO4FI HD Project - Architecture
 - Full Artillery System Overhaul
 - GTattoo Mass Vol.1 (Skin set) Female CBBE 1.4
 - HARLOWE TATTOO
@@ -66,6 +69,7 @@ WIP
 - NUCLEAR Nude CBBE
 - Nuka World Novatron Assaultron Torso Fix 
 - Oldwolfe's Minutemen Re-Done Plus
+- Persistent Volume Sliders
 - Rad-Ban Eyewear Inc
 - Radio Tower Transparency Fix 
 - Retro Fashion - Improved Meshes
@@ -152,6 +156,7 @@ WIP
 - Fixed unique Power Armor set at Recon Theta Bunker so it now can use Power Armor Repair Kits.
 - Cleaned ITMs from Attack of the Lobotomites Settlement Location and City Plan to make it compatible with Attack of the Lobotomites - Additions and Adjustments Patch.
 - What I would describe as a quite frankly ridiculous amount of custom patching for deathclaws and gatorclaws.
+- Before you say "omg you're removing a ton of useful utilities and bug fix mods," please note the additions of Addictol and Community Fixes Merged, which act as replacements for the dozen or so "important" mods that are in the REMOVED section.
 
 ---
 
