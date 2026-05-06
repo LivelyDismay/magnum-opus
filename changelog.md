@@ -5,6 +5,7 @@ WIP
 - Addictol
 - Addictol Crash Logger
 - Baseline Plots Brotherhood - An SS2 Add-On
+- Boston Riot Armor - Craftable Armor Size Patch
 - Cell Offset Generator
 - Combat Shutdown Grenade Fixes - F4SE - Garden of Eden SE
 - Community Fixes Merged
@@ -20,13 +21,16 @@ WIP
 - Hellcat Power Mesh FIX
 - HFs - Overdue book - 2K
 - Hostile NPC Respawn Fix - F4SE - Garden of Eden SE
+- Hydra
 - InvLocker
 - Magic Effect and Spell Engine Fixes - F4SE
 - MS Contraptions - Sim Settlements ASAM Builder
+- Nuka World - Skip raiding your own settlements
 - Player Face Target Fixes and Optional Improvements - F4SE
 - Power Attack AP Cost Fix
 - SS2 and Institute Technology Overhaul Version 2 Integration Patch
 - True Storms - Quieter Thunder
+- Tumbajamba's Synth Armor Collection
 - Unique Mythic Deathclaws Redux
 - Vault-Tec Enhanced FaceGen System - V.E.F.S
 - Woody's Wasteland Stuff - Navmesh Patch
