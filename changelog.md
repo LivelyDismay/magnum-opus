@@ -18,6 +18,7 @@ WIP
 - EquipSettler
 - GavMan's Cloister Gardens - SS2 plot Add-on
 - GavMan's Interior plans - SS2 Plot Add-On
+- Havok Aware Bullet Counted Reload (HaBCR)
 - Hellcat Power Mesh FIX
 - HFs - Overdue book - 2K
 - Hostile NPC Respawn Fix - F4SE - Garden of Eden SE
@@ -43,6 +44,7 @@ WIP
 - BRE TATTOO
 - BS Defence - This Settlement Does Not Need Your Help
 - Buffout 4
+- Bullet Counted Reload System
 - CBBE Reduced (with dismemberment)
 - Daytripper 4
 - Disk Cache Enabler
@@ -76,7 +78,8 @@ WIP
 - Oldwolfe's Minutemen Re-Done Plus
 - Persistent Volume Sliders
 - Rad-Ban Eyewear Inc
-- Radio Tower Transparency Fix 
+- Radio Tower Transparency Fix
+- Rem92 Lever Action Shotgun
 - Retro Fashion - Improved Meshes
 - Starlight Hive - Sim Settlements 2 City Plan
 - Sunshine Hive (Sunshine Tidings Co-Op) - Sim Settlements 2 City Plan
@@ -162,6 +165,7 @@ WIP
 - Cleaned ITMs from Attack of the Lobotomites Settlement Location and City Plan to make it compatible with Attack of the Lobotomites - Additions and Adjustments Patch.
 - What I would describe as a quite frankly ridiculous amount of custom patching for deathclaws and gatorclaws and better locational damage. Also gatorclaws aren't invisible anymore. Also they both have cooler textures and over 300 new variants. Also they're harder.
 - Before you say "omg you're removing a ton of useful utilities and bug fix mods," please note the additions of Addictol and Community Fixes Merged, which act as replacements for the dozen or so "important" mods that are in the REMOVED section.
+- New precombines and previs.
 
 **TO DO** - this is really just here so I don't forget...
 
