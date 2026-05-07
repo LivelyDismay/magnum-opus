@@ -170,7 +170,6 @@ WIP
 **TO DO** - this is really just here so I don't forget...
 
 - New MCM Preset (with the Workshop Plus rad removal disabled).
-- Go through magnum-opus-suggestions (I have a bunch of tabs open from links you guys posted there, I just haven't downloaded them yet because I suck).
 
 ---
 
