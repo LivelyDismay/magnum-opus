@@ -29,6 +29,7 @@ WIP
 - Mystic Rogue's Super Duper Quest and Add-On Pack
 - Nuka World - Skip raiding your own settlements
 - Player Face Target Fixes and Optional Improvements - F4SE
+- PowerArmor Handling Improvements
 - Power Attack AP Cost Fix
 - SS2 and Institute Technology Overhaul Version 2 Integration Patch
 - True Storms - Quieter Thunder
@@ -78,6 +79,7 @@ WIP
 - Nuka World Novatron Assaultron Torso Fix 
 - Oldwolfe's Minutemen Re-Done Plus
 - Persistent Volume Sliders
+- Power Armor HUD Switcher
 - Rad-Ban Eyewear Inc
 - Radio Tower Transparency Fix
 - Rem92 Lever Action Shotgun
