@@ -26,6 +26,7 @@ WIP
 - InvLocker
 - Magic Effect and Spell Engine Fixes - F4SE
 - MS Contraptions - Sim Settlements ASAM Builder
+- Mystic Rogue's Super Duper Quest and Add-On Pack
 - Nuka World - Skip raiding your own settlements
 - Player Face Target Fixes and Optional Improvements - F4SE
 - Power Attack AP Cost Fix
