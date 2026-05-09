@@ -173,6 +173,7 @@ WIP
 - Removed Prototype Phase Shield from distribution.
 - New MCM Preset.
 - Fixed an issue where the Shady Motives holotape would spawn in Kingsport Lighthouse and be deleted by city plans.
+- Fixed an issue with the unique Mk18 "Punisher" rifle.
 
 ---
 
