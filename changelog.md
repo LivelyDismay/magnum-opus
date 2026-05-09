@@ -169,10 +169,11 @@ WIP
 - What I would describe as a quite frankly ridiculous amount of custom patching for deathclaws and gatorclaws and better locational damage. Also gatorclaws aren't invisible anymore. Also they both have cooler textures and over 300 new variants. Also they're harder.
 - Before you say "omg you're removing a ton of useful utilities and bug fix mods," please note the additions of Addictol and Community Fixes Merged, which act as replacements for the dozen or so "important" mods that are in the REMOVED section.
 - New precombines and previs.
+- New Facegen for every npc in the game.
 
 **TO DO** - this is really just here so I don't forget...
 
-- New MCM Preset (with the Workshop Plus rad removal disabled).
+- New MCM Preset.
 
 ---
 
