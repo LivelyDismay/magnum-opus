@@ -33,6 +33,7 @@ WIP
 - PowerArmor Handling Improvements
 - Power Attack AP Cost Fix
 - SS2 and Institute Technology Overhaul Version 2 Integration Patch
+- Sim Settlements 2 Charity mod Add-ons
 - True Storms - Quieter Thunder
 - Tumbajamba's Synth Armor Collection
 - Unique Mythic Deathclaws Redux
