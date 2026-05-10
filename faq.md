@@ -27,7 +27,7 @@
   - [Are achievements enabled?](#are-achievements-enabled)
   - [Can I turn on the option to see what I'm scrapping?](#can-i-turn-on-the-option-to-see-what-im-scrapping)
   - [My flashlight isn't working!](#my-flashlight-isnt-working)
-  - [Can I add an ENB?](#can-i-add-an-enb-character-presets-cheat-terminal-can-i-update-mods-remove-mods)
+  - [Can I add an ENB? Character Presets? Cheat Terminal? Can I update mods? Remove mods?](#can-i-add-an-enb-character-presets-cheat-terminal-can-i-update-mods-remove-mods)
   - [Does Magnum Opus have Ultrawide Support?](#does-magnum-opus-have-ultrawide-support)
   - [I'm having problems downloading files in Wabbajack, how do I fix it?](#im-having-problems-downloading-files-in-wabbajack-how-do-i-fix-it)
   - [How do I change my FOV?](#how-do-i-change-my-fov)
