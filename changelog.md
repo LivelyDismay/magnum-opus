@@ -24,6 +24,7 @@ WIP
 - Hostile NPC Respawn Fix - F4SE - Garden of Eden SE
 - Hydra
 - InvLocker
+- Leaders of the Commonwealth
 - Magic Effect and Spell Engine Fixes - F4SE
 - MS Contraptions - Sim Settlements ASAM Builder
 - Mystic Rogue's Super Duper Quest and Add-On Pack
