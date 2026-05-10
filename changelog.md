@@ -4,7 +4,9 @@ WIP
 
 - Addictol
 - Addictol Crash Logger
+- ARs of the Wasteland
 - Baseline Plots Brotherhood - An SS2 Add-On
+- Boat To Spectacle Island (Animated)
 - Boston Riot Armor - Craftable Armor Size Patch
 - Cell Offset Generator
 - Combat Shutdown Grenade Fixes - F4SE - Garden of Eden SE
@@ -35,6 +37,7 @@ WIP
 - SS2 and Institute Technology Overhaul Version 2 Integration Patch
 - Sim Settlements 2 Charity mod Add-ons
 - True Storms - Quieter Thunder
+- Tumbajama's RobCo Combat Armor and Battle Suit
 - Tumbajamba's Synth Armor Collection
 - Unique Mythic Deathclaws Redux
 - Vault-Tec Enhanced FaceGen System - V.E.F.S
