@@ -13,7 +13,6 @@
   - [My game crashes when I launch from MO2. Help!](#my-game-crashes-when-i-launch-from-mo2-help)
   - [How do I use the Livelier Perks profile?](#how-do-i-use-the-livelier-perks-profile)
   - [My characters have black/brown/tan/bugged faces. What happened?](#my-characters-have-blackbrowntanbugged-faces-what-happened)
-  - [Some people have weird black spots on their body, why don't you fix it?](#some-people-have-weird-black-spots-on-their-body-why-dont-you-fix-it)
   - [Controller support?!?](#controller-support)
   - [I'm using two Stimpaks instead of one. What gives?](#im-using-two-stimpaks-instead-of-one-what-gives)
   - [I can't build anything / How do I increase settlement size?](#i-cant-build-anything--how-do-i-increase-settlement-size)
@@ -27,17 +26,11 @@
   - [Can I have multiple companions at the same time?](#can-i-have-multiple-companions-at-the-same-time)
   - [Are achievements enabled?](#are-achievements-enabled)
   - [Can I turn on the option to see what I'm scrapping?](#can-i-turn-on-the-option-to-see-what-im-scrapping)
-  - [I don't like the flashlight.](#i-dont-like-the-flashlight)
   - [My flashlight isn't working!](#my-flashlight-isnt-working)
-  - [Can I add an ENB?](#can-i-add-an-enb)
-  - [Can I add character presets?](#can-i-add-character-presets)
-  - [Can I update \<...\> mod?](#can-i-update--mod)
-  - [What if I want to change/add/remove mods? Can you help me?](#what-if-i-want-to-changeaddremove-mods-can-you-help-me)
-  - [I miss VAFS! Can I add it back?](#i-miss-vafs-can-i-add-it-back)
+  - [Can I add an ENB?](#can-i-add-an-enb-character-presets-cheat-terminal-can-i-update-mods-remove-mods)
   - [Does Magnum Opus have Ultrawide Support?](#does-magnum-opus-have-ultrawide-support)
   - [I'm having problems downloading files in Wabbajack, how do I fix it?](#im-having-problems-downloading-files-in-wabbajack-how-do-i-fix-it)
   - [How do I change my FOV?](#how-do-i-change-my-fov)
-  - [But I want to use Cheat Terminal?](#but-i-want-to-use-cheat-terminal)
   - [Hey Lively, is there a reason ... ?](#hey-lively-is-there-a-reason--)
   - [Any support for Linux?](#any-support-for-linux)
   - [Can I buy you a drink?](#can-i-buy-you-a-drink)
@@ -62,7 +55,7 @@ I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use
 
 ### What version of Fallout 4 does this list use?
 
-1.10.163. Pre-NG.
+1.10.163. Pre-NG. Wabbajack handles the downgrade for you, so please remember to keep your Steam version on the latest update. This information is only useful for adding version-dependent mods.
 
 [[Top]](#table-of-contents)
 
@@ -136,14 +129,6 @@ I know it sounds like a lot, but it seriously takes like 30 seconds. I'm just wr
 ### My characters have black/brown/tan/bugged faces. What happened?
 
 First, ensure you do NOT have the High Definition DLC active in Steam. If you don't, then quite frankly, the so-called "Black Face Bug" can happen randomly. Saving and reloading should fix it. You can also use the console to disable then enable the NPC with the bug. Most common cause is fast traveling, which will force the game to load a lot of stuff at once, and NPCs tend to get kinda left behind. But regardless, it's pretty random.
-
-[[Top]](#table-of-contents)
-
----
-
-### Some people have weird black spots on their body, why don't you fix it?
-
-This is a CBBE issue with some outfits and quite frankly, I can look past it. I'm not super adept with bodyslide and outfit studio, so...it is what it is. If you fix it, feel free to pop it on Nexus and I'll add it to the modlist.
 
 [[Top]](#table-of-contents)
 
@@ -289,14 +274,6 @@ Yeah. Open your MCM and head down to FallUI Confirm Boxes. Options are in there.
 
 ---
 
-### I don't like the flashlight.
-
-I don't care. I do.
-
-[[Top]](#table-of-contents)
-
----
-
 ### My flashlight isn't working!
 
 If you're just starting the game and you're still in Vault 111, know that the your Pipboy flashlight will not work between the time you pick it up and the time you press the button to open the vault door. It genuinely amazes me how many people report this to me. Just press the button, it's right there.
@@ -307,43 +284,13 @@ Otherwise, some weapons that have flashlight attachment hijack the Pipboy flashl
 
 ---
 
-### Can I add an ENB?
+### Can I add an ENB? Character presets? Cheat Terminal? Can I update mods? Remove mods?
 
 If you hate yourself, sure. Some people have added ENBs and reported consistent crashes, so your mileage may vary. Don't add an ENB and report bugs to me because I can't/won't help. This will void official support.
 
-[[Top]](#table-of-contents)
-
----
-
-### Can I add character presets?
-
 If you ask about adding presets in my support channel, I'm going to give you the Rule 11 role. Why? Because 1. you're adding stuff, and 2. a lot of presets have other required mods in order to work. It's a slippery slope, and I'm extremely unwilling to deal with it. Plus, frankly, adding presets is the easiest thing in the world, so if you're asking how to do it, you obviously haven't bothered trying to do anything for yourself, and I'm not here to hold your hand.
 
-[[Top]](#table-of-contents)
-
----
-
-### Can I update <...> mod?
-
-You can do whatever you want, but this will void any official support.
-
-[[Top]](#table-of-contents)
-
----
-
-### What if I want to change/add/remove mods? Can you help me?
-
-Sometimes I [write guides on how to do these things](https://github.com/LivelyDismay/Learn-To-Mod/wiki). Please don't ask me "can I add" or "is it safe to add" or "is there a list of mods I can add" or "can I suggest this mod" because I don't want to make YOUR list. I want to make MY list. I'm happy to answer any _technical_ questions you have. This will void official support.
-
-[[Top]](#table-of-contents)
-
----
-
-### I miss VAFS! Can I add it back?
-
-Not easily. It was an optional file for a bit, but due to a number of complaints and a fair amount of confusion, it has since been removed entirely. Adding it back into the modlist would require extensive amounts of manual patching.
-
-Please remember to use the rule-11 channels, as this will void official support.
+You can update and remove whatever you want, but this will void any official support. Sometimes I [write guides on how to do these things](https://github.com/LivelyDismay/Learn-To-Mod/wiki).
 
 [[Top]](#table-of-contents)
 
@@ -367,7 +314,7 @@ The most common files that fail to download through Wabbajack are as follows:
 
 Download these files manually, paste them into your `downloads` folder that you specified for Wabbajack, then rerun the installation.
 
-If you're getting a lot of "unable to download" errors in Wabbajack outside of the base game files and the files mentioned above, then log out of Nexus within Wabbajack, then log back in. Once you've done that, try downloading again.
+If you're getting a lot of "unable to download" errors in Wabbajack outside of the base game files and the files mentioned above, or Wabbajack is saying it failed to find a Nexus login token, then log out of Nexus within Wabbajack, then log back in. Once you've done that, close and reopen Wabbajack, then try downloading the modlist again.
 
 [[Top]](#table-of-contents)
 
@@ -378,14 +325,6 @@ If you're getting a lot of "unable to download" errors in Wabbajack outside of t
 While in game, press Escape, select `Mod Config`, then head down to `Simple FOV Slider`.
 
 Do note that increasing your FOV also increases the amount of objects being rendered on screen at once, which could potentially result in a drop in performance.
-
-[[Top]](#table-of-contents)
-
----
-
-### But I want to use Cheat Terminal?
-
-That's a shame. It'll break a lot of stuff in this list. Besides, half of what that mod does is already in Opus, like making various outfits and whatnot craftable. Use AddItemMenu or the console if you want to cheat. Don't blindly add stupid shit to the modlist.
 
 [[Top]](#table-of-contents)
 
