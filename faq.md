@@ -24,9 +24,6 @@
   - [Why are feral ghouls so hard to kill?](#why-are-feral-ghouls-so-hard-to-kill)
   - [When I start Magnum Opus, the game is zoomed in!](#when-i-start-magnum-opus-the-game-is-zoomed-in)
   - [How do I cap/uncap my FPS?](#how-do-i-capuncap-my-fps)
-  - [How do I edit the volumes for things like radios and voices?](#how-do-i-edit-the-volumes-for-things-like-radios-and-voices)
-  - [I hate the HUD overlays while I'm in Power Armor. Can these be safely disabled?](#i-hate-the-hud-overlays-while-im-in-power-armor-can-these-be-safely-disabled)
-  - [Why is there a crosshair on my Pip-Boy?](#why-is-there-a-crosshair-on-my-pip-boy)
   - [Can I have multiple companions at the same time?](#can-i-have-multiple-companions-at-the-same-time)
   - [Are achievements enabled?](#are-achievements-enabled)
   - [Can I turn on the option to see what I'm scrapping?](#can-i-turn-on-the-option-to-see-what-im-scrapping)
@@ -263,34 +260,6 @@ Note: Wording may not be exact, but should be similar enough.
 ### How do I cap/uncap my FPS?
 
 In Mod Organizer, find the `High FPS Physics Fix` mod. Double click it. In the pop-up window, select the `INI Files` tab, then select the only INI listed. In the right pane, scroll down about halfway until you see `InGameFPS=`. Change the number to your liking (0 = uncapped).
-
-[[Top]](#table-of-contents)
-
----
-
-### How do I edit the volumes for things like radios and voices?
-
-While in game, press Escape, then select `Mod Config`. Scroll down to the section entitled `Persistent Volume Sliders`. Adjust to your liking.
-
-Audio sliders for True Storms are in the vanilla Audio settings.
-
-[[Top]](#table-of-contents)
-
----
-
-### I hate the HUD overlays while I'm in Power Armor. Can these be safely disabled?
-
-You can use the Power Armor HUD Switcher holotape to disable them. Do not disable them while you're in Power Armor. I repeat: DO NOT disable them while you're in Power Armor.
-
-There is also an Optional mod in Mod Organizer 2 to restore the third person Power Armor overlays. You can disable this if you like.
-
-[[Top]](#table-of-contents)
-
----
-
-### Why is there a crosshair on my Pip-Boy?
-
-A small side effect of the Power Armor HUD overlays. You can turn the Power Armor HUD Switcher holotape setting for `Hide Hud in Pipboy` to `Off` in order to hide the crosshair when not in Power Armor, but this also makes the Pip-Boy look pretty terrible when using it inside Power Armor. Your call.
 
 [[Top]](#table-of-contents)
 
