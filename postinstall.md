@@ -20,7 +20,7 @@
 
 ### BiRaitBec Texture Optimization
 
-This step hashes your vanilla files, just like Wabbajack hashes all the downloads and mods. They need to be PERFECTLY CLEAN AND UNALTERED. If you'd like to be sure, just Verify Integrity of Game Files through Steam to make sure your Fallout 4 archives are pristine.
+This specific step is not a hard requirement, but it includes thousands of retextures in a giant mega-merge of mods. Skipping this step will not result in stability issues, but your game will look worse than those that do complete this step.
 
 Go to [BiRaitBec Workbase Improved](https://www.nexusmods.com/fallout4/mods/57782) and download the Main File.  
 Extract this archive into a blank folder, outside of a Windows protected directory (such as `D:/Workbase Improved`).  
@@ -32,6 +32,8 @@ Download the following files:
 * [2c. Main Reapack - Part Three-23556-1-0-1565605113.7z](https://www.nexusmods.com/fallout4/mods/23556?tab=files&file_id=164241)
 * [Fix Vault-Window-Metal-Institute-40534-1-02-1565670781.7z](https://www.nexusmods.com/fallout4/mods/40534?tab=files&file_id=164279)
 * [3. Restyle Pack - Fomod-23556-1-0-1565546849.7z](https://www.nexusmods.com/fallout4/mods/23556?tab=files&file_id=164211)
+
+- Please note: the Restyle Pack is optional. Some people dislike the retexture of the Level Up Menu. I would encourage you to look at the mod page's images to see if you want the Restyle Pack.
 
 **COPY** the `2a. Main Repack - Part One`, `2b. Main Repack - Part Two`, `2c. Main Reapack - Part Three`, `Fix Vault-Window-Metal-Institute`, and `3. Restyle Pack - Fomod` archives into the `D:/Workbase Improved/Repack7z` folder. **DO NOT EXTRACT, UNPACK, OR RENAME ANY OF THESE FILES.**
 
@@ -49,8 +51,6 @@ When the installer is finished, it will automatically close itself.
 Due to how Wabbajack works, you only need to do this step ONCE. The `[NoDelete]` flag will prevent Wabbajack from ever deleting this mod during updates, so you will never have to redo this step unless you delete it yourself. Huzzah!
 
 *Many thanks to Rux616 for the Workbase Improved installer, please do go show him some love and endorse his work.*
-
-If you're still using the old Workbase Improved output, that's totally fine! Your perk chart will look different than mine does in the Youtube videos (as that's from the Restyle pack), but it's still perfectly functional. Dealer's choice!
 
 [[Top]](#table-of-contents)
 
@@ -111,9 +111,11 @@ You'll get this pop-up on character creation. Just Enable All and call it a day.
 
 ### Prebuilt Settlement System
 
+**If this is your first time playing Sim Settlements 2, I do not recommend enabling this option.**
+
 Sim Settlements 2 provides the option to allow many settlements to start with a city plan in place. If you don't know what this means, it is probably best not to initialize this system. This will make it a little more difficult to gain control of many settlements, and will limit your ability to manually build in those settlements until you gain ownership of them.
 
-You can always use the Workshop Framework MCM to claim a settlement while you're standing in it, if you like.
+**You can always approach any workbench and select the Manage option to claim any workshops in the game, if you so choose.**
 
 After character creation, you'll start in your cryopod in Vault 111. You'll quickly get this pop-up:  
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart01.png)
@@ -121,7 +123,7 @@ After character creation, you'll start in your cryopod in Vault 111. You'll quic
 This option allows Sim Settlements 2 to start Prebuilding settlements. You can choose either one. If you choose No, settlements will not be prebuilt and you can skip to the MCM Options section further down this page. If you choose Yes, you can carry on as normal until you receive the next pop-up in a few minutes:  
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart02.png)
 
-Feel free to go through the options if you want to change things. Personally, I like setting a random percentage on some options. If there is a settlement you prefer manually building in, add it to the list of excluded settlements. This will have no impact on your ability to build your own settlements in the future (or tear them down, or replace the city plans, etc).
+Feel free to go through the options if you want to change things. Personally, I like setting a random percentage on some options. **If there is a settlement you prefer manually building in, add it to the list of excluded settlements. We generally recommend adding Starlight Drive-In as a start settlement, and thus to exclude it from the prebuilt system.** This will have no impact on your ability to build your own settlements in the future (or tear them down, or replace the city plans, etc).
 
 Next, you'll get this pop-up:  
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart03.png)
@@ -143,7 +145,7 @@ After leaving Vault 111, you'll get a friendly little pop-up. Please follow thes
 Apply the `Opus v9` Preset.  
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/applypreset.png)
 
-Please read the Terminal outside of Vault 111, and take the Holotape with you.
+**Please read the Terminal outside of Vault 111, and take the Holotape with you.** This serves as an in-game FAQ and will help you understand some of the new systems in Magnum Opus.
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/v8term.png)
 
 That's it! Have fun!  
