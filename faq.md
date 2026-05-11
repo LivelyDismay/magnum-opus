@@ -39,15 +39,21 @@
 
 ### Hotkeys?
 
-- **V** - Toggle first/third person  
+- **V** - VATS
+- **Q** - Left lean (only when aiming down sights)
+- **E** - Right lean (only when aiming down sights)
 - **B** - Toggle West Tek optics (if equipped)  
 - **N** - Upgrade SS2 plots with caps
 - **[** - Faster Workshop
+- **F** - Favorites
+- **LeftAlt** - Power attack/bash/grenade
+- **.** - Toggle flight in Workshop Mode (please see [this issue]((#i-randomly-have-god-mode--i-take-no-damage-or-rads--my-stamina-doesnt-drain-anymore-what-happened)) below when toggling flight)
 - **Insert** - Extra object selection (Workshop Mode only) - recommend using for scrapping corpses. Don't use this to scrap buildings, roads, etc  
 - **T** - Wait
+- **Mouse3** - Toggle POV
 - **Mouse4** - Dodge (kinda sucks but it's a package deal with the crouch-slide so whatever)
 
-I would also recommend setting up an Undo hotkey in the Workshop Plus MCM. I use Ctrl+Z personally. This can undo the last action you took in workshop mode, such as accidentally scrapping something you didn't want to scrap.
+There are more keybinds listed in the MCM, in the very bottom option. I would encourage you to take note of them.
 
 [[Top]](#table-of-contents)
 
