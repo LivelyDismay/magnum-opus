@@ -173,14 +173,15 @@ WIP
 - Cleaned ITMs from Attack of the Lobotomites Settlement Location and City Plan to make it compatible with Attack of the Lobotomites - Additions and Adjustments Patch.
 - What I would describe as a quite frankly ridiculous amount of custom patching for deathclaws and gatorclaws and better locational damage. Also gatorclaws aren't invisible anymore. Also they both have cooler textures and over 300 new variants. Also they're harder.
 - Before you say "omg you're removing a ton of useful utilities and bug fix mods," please note the additions of Addictol and Community Fixes Merged, which act as replacements for the dozen or so "important" mods that are in the REMOVED section.
-- New precombines and previs.
-- New Facegen for every npc in the game.
+- New precombines and previs. Only for edited cells - no need to redo all of vanilla's precombines.
+- New Facegen for every npc in the game. Hopefully this completely eliminates all issues of the Black Face Bug.
 - Removed Prototype Phase Shield from distribution.
 - New MCM Preset.
 - Fixed an issue where the Shady Motives holotape would spawn in Kingsport Lighthouse and be deleted by city plans.
 - Fixed an issue with the unique Mk18 "Punisher" rifle.
-- Blink Grenade quest will no longer start automatically upon exiting Vault 111.
+- Blink Grenade quest will no longer start automatically upon exiting Vault 111. This has been replaced by a custom trigger box and a small quest edit.
 - Better Locational Damage will no longer force a pop-up on game start.
+- Implemented F4SE's ControlMapCustom functionality to remap VATS (and a few other keybinds). This file is located in the `F4SE Scripts` mod. A list of scan codes can be found [here](http://www.kbdedit.com/manual/low_level_vk_list.html). This is largely a note-to-self so I don't have to find this stuff again later.
 
 ---
 
