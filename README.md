@@ -71,7 +71,7 @@ These steps are only needed if you install this Modlist for the first time. If y
 
 #### Installing Microsoft Visual C++ Redistributable Packages
 
-These packages are required for MO2 and for the BiRaitBec Texture Optimization step respectively, and you can download them from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
+These packages are required for MO2 and for the BiRaitBec Texture Optimization step respectively, and you can download them from [Microsoft](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
 
 ##### Visual Studio 2015, 2017, 2019, and 2022
 
