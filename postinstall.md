@@ -125,7 +125,7 @@ After character creation, you'll start in your cryopod in Vault 111. You'll quic
 This option allows Sim Settlements 2 to start Prebuilding settlements. You can choose either one. If you choose No, settlements will not be prebuilt and you can skip to the MCM Options section further down this page. If you choose Yes, you can carry on as normal until you receive the next pop-up in a few minutes:  
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart02.png)
 
-Feel free to go through the options if you want to change things. Personally, I like setting a random percentage on some options. **If there is a settlement you prefer manually building in, add it to the list of excluded settlements. We generally recommend adding Starlight Drive-In as a start settlement, and thus to exclude it from the prebuilt system.** This will have no impact on your ability to build your own settlements in the future (or tear them down, or replace the city plans, etc).
+Feel free to go through the options if you want to change things. Personally, I like setting a random percentage on some options. **If there is a settlement you prefer manually building in, add it to the list of excluded settlements. We generally recommend using Starlight Drive-In as a starter settlement, and thus to exclude it from the prebuilt system.** This will have no impact on your ability to build your own settlements in the future (or tear them down, or replace the city plans, etc).
 
 Next, you'll get this pop-up:  
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart03.png)
