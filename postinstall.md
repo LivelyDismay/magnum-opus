@@ -20,7 +20,9 @@
 
 ### BiRaitBec Texture Optimization
 
-This specific step is not a hard requirement, but it includes thousands of retextures in a giant mega-merge of mods. Skipping this step will not result in stability issues, but your game will look worse than those that do complete this step. It is my understanding that this step is problematic for Linux users, so if that's you, just skip down to [Performance Tweaks](#performance-tweaks).
+This specific step is not a hard requirement, but it includes thousands of retextures in a giant mega-merge of mods. Skipping this step will not result in stability issues, but your game will look worse than those that do complete this step.
+
+- It is my understanding that this step is problematic for Linux users, so if that's you, just skip down to [Performance Tweaks](#performance-tweaks).
 
 Go to [BiRaitBec Workbase Improved](https://www.nexusmods.com/fallout4/mods/57782) and download the Main File.  
 Extract this archive into a blank folder, outside of a Windows protected directory (such as `D:/Workbase Improved`).  
