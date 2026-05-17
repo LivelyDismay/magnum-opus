@@ -1,4 +1,12 @@
-2023/05/16
+2026/05/16
+
+Version 9.3.3
+
+- Recompiled so wabbajack hopefully stops using CK files because for some reason it just loves using CK files instead of files from mod archives and it's a really great system.
+
+---
+
+2026/05/16
 
 Version 9.3.2
 
