@@ -1,5 +1,19 @@
-2026/05/11
+2023/05/16
 
+Version 9.3.2
+
+**UPDATED**
+
+- Better Console - F4SE
+
+**NOTES**
+
+- Fixed sorting prefix tags for some objects (purified water, dirty water, lemonade, etc).
+- Fixed facegen for Nick Valentine.
+
+---
+
+2026/05/11
 
 Version 9.3.1
 
