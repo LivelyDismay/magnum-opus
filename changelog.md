@@ -1,3 +1,18 @@
+2026/05/19
+
+Version 9.3.4
+
+**UPDATED**
+
+- ARs of the Wasteland
+
+**NOTES**
+
+- Inlined Cell Offset Cache. Should help streamline first-time launches.
+- Fixed item tags in Livelier Perks profile.
+
+---
+
 2026/05/16
 
 Version 9.3.3
