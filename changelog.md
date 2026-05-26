@@ -1,3 +1,16 @@
+WIP - Prep for the coming update.
+
+**UPDATED**
+
+- ARs of the Wasteland
+- Survival Mode Overhaul
+
+**NOTES**
+
+- Recompiled for the newest version of Fallout 4.
+
+---
+
 2026/05/19
 
 Version 9.3.4
