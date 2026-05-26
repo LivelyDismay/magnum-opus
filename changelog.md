@@ -27,6 +27,7 @@ Version 9.3.5
 - Edited some leveled list stuff, mainly in regards to BLD stuff.
 - Removed crafting recipes for some BLD stuff we don't use.
 - New MCM Preset.
+- Enabled Cell Offset Cache in Livelier Perks profile because I forgot to do it last time.
 
 ---
 
