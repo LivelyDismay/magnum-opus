@@ -8,6 +8,9 @@ WIP - Prep for the coming update.
 **NOTES**
 
 - Recompiled for the newest version of Fallout 4.
+- Wasteland Sniper outfit changes: Armor Rating changed from 112 to 60, Energy Resist changed from 90 to 25.
+- B90 outfit changes: Armor Rating increased from 75 to 115. Added equip slots 41, 42, 43, 44, 45 (all armor slots).
+- Fixed an issue with B90 Attach Point keywords that may have potentially caused a crash later.
 
 ---
 
