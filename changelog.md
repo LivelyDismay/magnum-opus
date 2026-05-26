@@ -1,4 +1,12 @@
-WIP - Prep for the coming update.
+WIP
+Prep for the coming update.
+Will be released on:
+
+2026/05/27
+
+Version 9.3.5
+
+- This is a save safe update. However, I would strongly encourage you to rerun the Opus v9 MCM Preset. The changes here are primarily to address reports of containers (such as duffel bags). These changes will **not** be applied to any containers already loaded into your game, but they will be applied to all future containers (and old containers after a cell reset, which happens anywhere from 7-30 days, based on the location and your lack of visitation to the area).
 
 **UPDATED**
 
@@ -11,6 +19,9 @@ WIP - Prep for the coming update.
 - Wasteland Sniper outfit changes: Armor Rating changed from 112 to 60, Energy Resist changed from 90 to 25.
 - B90 outfit changes: Armor Rating increased from 75 to 115. Added equip slots 41, 42, 43, 44, 45 (all armor slots).
 - Fixed an issue with B90 Attach Point keywords that may have potentially caused a crash later.
+- Edited some leveled list stuff, mainly in regards to BLD stuff.
+- Removed crafting recipes for some BLD stuff we don't use.
+- New MCM Preset.
 
 ---
 
