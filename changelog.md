@@ -2,7 +2,7 @@
 
 Version 9.3.5
 
-- This is a save safe update. However, I would strongly encourage you to rerun the Opus v9 MCM Preset. The changes here are primarily to address reports of containers (such as duffel bags). These changes will **not** be applied to any containers already loaded into your game, but they will be applied to all future containers (and old containers after a cell reset, which happens anywhere from 7-30 days, based on the location and your lack of visitation to the area).
+- This is a save safe update. However, I would strongly encourage you to rerun the Opus v9 MCM Preset. The changes here are primarily to address reports of containers (such as duffel bags) having no loot most of the time. These changes will **not** be applied to any containers already loaded into your game, but they will be applied to all future containers (and old containers after a cell reset, which happens anywhere from 7-30 days, based on the location and your lack of visitation to the area).
 
 **ADDED**
 
