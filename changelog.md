@@ -1,7 +1,3 @@
-WIP
-Prep for the coming update.
-Will be released on:
-
 2026/05/27
 
 Version 9.3.5
