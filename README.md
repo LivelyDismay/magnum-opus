@@ -169,6 +169,8 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 If you wish for Wabbajack to ignore any additional mods you've installed, rename them to say `[NoDelete]` at the beginning of the name.
 
+If you deleted your downloads to save on some storage space and still want to update, Wabbajack should only need to download any files that have changed. It should not have to download all mod archives again. The [Changelog](https://github.com/LivelyDismay/magnum-opus/blob/main/changelog.md) will give you a good idea of how many mods Wabbajack will need to download and install for each update.
+
 [[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
 
 ---
