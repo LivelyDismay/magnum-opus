@@ -1,3 +1,14 @@
+WIP
+
+Version 9.3.6
+
+**NOTES**
+
+- Fixed an issue with `Survivalist Outfit Flannel W/ Hoodie` outfit not properly applying Agility buff.
+- Changed Enclave Here's radio name from `Enclave Radio` to `Old Enclave Radio`, so people stop thinking that CC content or whatever is included.
+
+---
+
 2026/05/27
 
 Version 9.3.5
