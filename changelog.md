@@ -2,6 +2,10 @@ WIP
 
 Version 9.3.6
 
+**REMOVED**
+
+- Rusty Face Fix
+
 **NOTES**
 
 - Fixed an issue with `Survivalist Outfit Flannel W/ Hoodie` outfit not properly applying Agility buff.
