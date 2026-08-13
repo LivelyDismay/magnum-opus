@@ -1,15 +1,98 @@
 WIP
 
-Version 9.3.6
+Nothing set in stone. All subject to change. No ETA. Unknown if save-safe until finalized.
+
+**ADDED**
+
+- Acoustic Occlusion - F4SE
+- Adaptive Combat Tactics
+- Adaptive NPC Aim - F4SE
+- Addiction Overhaul
+- Bovine Intervention - Brahmin Overhaul
+- Claustrophobia
+- Commonwealth Ballistics - Penetration System - F4SE
+- Commonwealth Camera - F4SE
+- Commonwealth Conditioning - adaptive stat boosts
+- Crafting Menu Stuttering Fix - F4SE
+- Deathclaw Behavior Fixes
+- Exotic Workshop Creatures
+- Explosion VFX Pack
+- Fireflies
+- First Person FOV Overhaul - Armor Clipping and Weapon Repositioning
+- Heather Casdin - Animated Icon Addon
+- Holstered Weapon Light Fix
+- ILD - Improved Legendary Drops
+- In The Flesh - A Horror Quest Mod
+- Infested Ferals
+- Jetpack Water Physics Fix - F4SE
+- Light Gobo Fix - F4SE
+- Machine Gun Emplacement
+- Manual Reload - F4SE
+- Mechanist Omega - An Antagonist Quest Mod
+- Med-X Matters - Stimpak Overhaul - F4SE
+- Minutemen Captives
+- Modding for Charity - Double Feature - with Wes Johnson and Friends
+- Molotov Collision Fix
+- NPC's Run and Walk at Your Pace
+- Pip-Boy Light Detection Fix - F4SE
+- Power Armor Permissions F4SE
+- Practical Effects for West Tek Tactical Optics
+- Proximity Shotgun Damage - Dynamic Range Scaling
+- Quantum Creatures - Far Harbor Creatures Can Be Caught In Exotic Cages
+- Rain Bug Fix - F4SE
+- Refreshing Checkpoints
+- Reinforcements and Retribution
+- Safe Travels
+- Scroll Zoom
+- Show Dialogue Affinity
+- Smooth Cell Loading - F4SE
+- Stuck LOD Fix - F4SE
+- TG'z East Boston Interiors
+- TG'z North End Interiors
+- Unlimited Survival Mode - F4SE
+- VATS Freeze Fix - F4SE
+- Weapon Subgraph Accelerator - F4SE
+- Wicked Bloatflies
+- Workshop Repair Cost Fix - F4SE
+- ZP's Better Skeleton Meshes
+- ZP's Human Bones and Skeletons
+- ZP's Pebbles and Rubble Overhaul
+- ZP's Synths Valentine DiMA
 
 **REMOVED**
 
+- Integrated Automatron
+- Jetpack Animations
 - Rusty Face Fix
+
+**UPDATED**
+
+- Gun Mover
+- Havok Aware Bullet Counted Reload (HaBCR)
+- RobCo Patcher
+- Sim Settlements 2 - All Chapters Pack
+- Uneducated Shooter - QE Leaning and Gun Inertia
+- Workshop Framework
 
 **NOTES**
 
 - Fixed an issue with `Survivalist Outfit Flannel W/ Hoodie` outfit not properly applying Agility buff.
 - Changed Enclave Here's radio name from `Enclave Radio` to `Old Enclave Radio`, so people stop thinking that CC content or whatever is included.
+- Fixed issue with Gumshoe perk not accounting for the player wearing rings (thanks Paws).
+- Added more logic to Legendary drops to better account for Super Mutants and Behemoths.
+- Moved Survival Mode Overhaul to the Optional section and set it to disabled by default.
+- Removed Survival Mode Overhaul dependency from Complex Sorter Output and split it into a separate optional mod.
+- Disabled VEFS loose textures.
+- Removed multiple duplicate SS2 archives.
+
+*TO DO LIST*
+
+- Rebuild previs.
+- Rebuild facegen.
+- Rerun item sorter.
+- Decompile scripts from ITO to see if it's adding a bunch of ammo to scrounger lists via injection.
+- Edit the Safe Travels mod to add in custom/mod-added workshop locations.
+- test test test
 
 ---
 
