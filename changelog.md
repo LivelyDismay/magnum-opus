@@ -84,6 +84,7 @@ Nothing set in stone. All subject to change. No ETA. Unknown if save-safe until 
 - Removed Survival Mode Overhaul dependency from Complex Sorter Output and split it into a separate optional mod.
 - Disabled VEFS loose textures.
 - Removed multiple duplicate SS2 archives.
+- Changed InvLocker settings. Equipped/favorited items can now freely be moved to and from containers, ammunition is ignored, but there is still a lock on scrapping equipped/favorited items.
 
 *TO DO LIST*
 
@@ -91,7 +92,8 @@ Nothing set in stone. All subject to change. No ETA. Unknown if save-safe until 
 - Rebuild facegen.
 - Rerun item sorter.
 - Decompile scripts from ITO to see if it's adding a bunch of ammo to scrounger lists via injection.
-- Edit the Safe Travels mod to add in custom/mod-added workshop locations.
+- Update Terminal.
+- MCM Settings update.
 - test test test
 
 ---
