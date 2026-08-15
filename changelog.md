@@ -9,7 +9,6 @@ Nothing set in stone. All subject to change. No ETA. Unknown if save-safe until 
 - Adaptive NPC Aim - F4SE
 - Addiction Overhaul
 - Bovine Intervention - Brahmin Overhaul
-- Claustrophobia
 - Commonwealth Ballistics - Penetration System - F4SE
 - Commonwealth Camera - F4SE
 - Commonwealth Conditioning - adaptive stat boosts
@@ -22,16 +21,13 @@ Nothing set in stone. All subject to change. No ETA. Unknown if save-safe until 
 - Heather Casdin - Animated Icon Addon
 - Holstered Weapon Light Fix
 - ILD - Improved Legendary Drops
-- In The Flesh - A Horror Quest Mod
 - Infested Ferals
 - Jetpack Water Physics Fix - F4SE
 - Light Gobo Fix - F4SE
 - Machine Gun Emplacement
 - Manual Reload - F4SE
-- Mechanist Omega - An Antagonist Quest Mod
 - Med-X Matters - Stimpak Overhaul - F4SE
 - Minutemen Captives
-- Modding for Charity - Double Feature - with Wes Johnson and Friends
 - Molotov Collision Fix
 - NPC's Run and Walk at Your Pace
 - Pip-Boy Light Detection Fix - F4SE
@@ -44,6 +40,7 @@ Nothing set in stone. All subject to change. No ETA. Unknown if save-safe until 
 - Reinforcements and Retribution
 - Safe Travels
 - Scroll Zoom
+- Shadow Boost FO4
 - Show Dialogue Affinity
 - Smooth Cell Loading - F4SE
 - Stuck LOD Fix - F4SE
