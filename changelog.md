@@ -1,6 +1,6 @@
 WIP
 
-Nothing set in stone. All subject to change. No ETA. Unknown if save-safe until finalized.
+Nothing set in stone. All subject to change. No ETA. Will require a new save.
 
 **ADDED**
 
@@ -58,12 +58,17 @@ Nothing set in stone. All subject to change. No ETA. Unknown if save-safe until 
 
 **REMOVED**
 
+- Companion Shoots At Player Fix - F4SE
 - Integrated Automatron
 - Jetpack Animations
+- MGEF Condition Bug Fix
 - Rusty Face Fix
 
 **UPDATED**
 
+- Addictol
+- Addictol Crash Logger
+- Fix Radio Subtitle
 - Gun Mover
 - Havok Aware Bullet Counted Reload (HaBCR)
 - Modding for Charity - Shady Motives - with Wes Johnson
@@ -72,6 +77,8 @@ Nothing set in stone. All subject to change. No ETA. Unknown if save-safe until 
 - RobCo Patcher
 - Sim Settlements 2 - All Chapters Pack
 - Uneducated Shooter - QE Leaning and Gun Inertia
+- Weapon Debris Crash Fix
+- Woody's Wasteland Stuff - Navmesh Patch
 - Workshop Framework
 
 **NOTES**
@@ -85,6 +92,11 @@ Nothing set in stone. All subject to change. No ETA. Unknown if save-safe until 
 - Disabled VEFS loose textures.
 - Removed multiple duplicate SS2 archives.
 - Changed InvLocker settings. Equipped/favorited items can now freely be moved to and from containers, ammunition is ignored, but there is still a lock on scrapping equipped/favorited items.
+- Reduced chance of finding Pre-War Binoculars in safes by 99%. Increased caps from safes.
+- Increased chance of finding meds in bathroom mirrors. Removed chance to find stimpaks in bathroom mirrors.
+- Changed Godray quality to Medium.
+- Some new Addictol settings. First boot may take a little bit longer, subsequent boots should be much faster.
+- Reduced Vit-o-matic's weight from 8 to 4.
 
 *TO DO LIST*
 
