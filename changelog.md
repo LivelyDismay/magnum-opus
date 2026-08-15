@@ -66,6 +66,9 @@ Nothing set in stone. All subject to change. No ETA. Unknown if save-safe until 
 
 - Gun Mover
 - Havok Aware Bullet Counted Reload (HaBCR)
+- Modding for Charity - Shady Motives - with Wes Johnson
+- Modding for Charity - Transmission Zeta - with Wes Johnson
+- Modding for Charity - Trunk's Malfunction
 - RobCo Patcher
 - Sim Settlements 2 - All Chapters Pack
 - Uneducated Shooter - QE Leaning and Gun Inertia
