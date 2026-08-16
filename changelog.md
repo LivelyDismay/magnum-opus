@@ -9,13 +9,16 @@ Nothing set in stone. All subject to change. No ETA. Will require a new save.
 - Adaptive NPC Aim - F4SE
 - Addiction Overhaul
 - Bovine Intervention - Brahmin Overhaul
+- CBBE Vault 111 Suit With Pants(Gloves Optional)
 - Commonwealth Ballistics - Penetration System - F4SE
 - Commonwealth Camera - F4SE
 - Commonwealth Conditioning - adaptive stat boosts
 - Crafting Menu Stuttering Fix - F4SE
 - Deathclaw Behavior Fixes
+- Deliverer Clean PPK Texture
 - Exotic Workshop Creatures
 - Explosion VFX Pack
+- Female Eyelash Retex
 - Fireflies
 - First Person FOV Overhaul - Armor Clipping and Weapon Repositioning
 - Heather Casdin - Animated Icon Addon
@@ -30,6 +33,7 @@ Nothing set in stone. All subject to change. No ETA. Will require a new save.
 - Minutemen Captives
 - Molotov Collision Fix
 - NPC's Run and Walk at Your Pace
+- Nuanced Eye Reflection
 - Pip-Boy Light Detection Fix - F4SE
 - Power Armor Permissions F4SE
 - Practical Effects for West Tek Tactical Optics
@@ -46,6 +50,10 @@ Nothing set in stone. All subject to change. No ETA. Will require a new save.
 - Stuck LOD Fix - F4SE
 - TG'z East Boston Interiors
 - TG'z North End Interiors
+- Tumbajamba Armors CBBE Conversions
+- Tumbajamba's Combat Armor MK II - CBBE
+- Tumbajamba's Minutemen Armor Collection - CBBE
+- Tumbajamba's Synth Armor Collection - CBBE
 - Unlimited Survival Mode - F4SE
 - VATS Freeze Fix - F4SE
 - Weapon Subgraph Accelerator - F4SE
