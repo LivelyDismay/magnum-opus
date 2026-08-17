@@ -1,6 +1,8 @@
-WIP
+2026/08/18
 
-Nothing set in stone. All subject to change. No ETA. Will require a new save.
+Version 9.4.0
+
+New save required. Happy birthday to me.
 
 **ADDED**
 
@@ -114,7 +116,6 @@ Nothing set in stone. All subject to change. No ETA. Will require a new save.
 
 - Decompile scripts from ITO to see if it's adding a bunch of ammo to scrounger lists via injection.
 - MCM Settings update.
-- test test test
 
 ---
 
