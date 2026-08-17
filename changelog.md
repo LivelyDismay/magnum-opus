@@ -9,6 +9,7 @@ Nothing set in stone. All subject to change. No ETA. Will require a new save.
 - Adaptive NPC Aim - F4SE
 - Addiction Overhaul
 - Bovine Intervention - Brahmin Overhaul
+- CBBE Ida Body Texture
 - CBBE Vault 111 Suit With Pants(Gloves Optional)
 - Commonwealth Ballistics - Penetration System - F4SE
 - Commonwealth Camera - F4SE
@@ -29,6 +30,7 @@ Nothing set in stone. All subject to change. No ETA. Will require a new save.
 - Light Gobo Fix - F4SE
 - Machine Gun Emplacement
 - Manual Reload - F4SE
+- Map Marker Added Shows Name
 - Med-X Matters - Stimpak Overhaul - F4SE
 - Minutemen Captives
 - Molotov Collision Fix
@@ -44,7 +46,6 @@ Nothing set in stone. All subject to change. No ETA. Will require a new save.
 - Reinforcements and Retribution
 - Safe Travels
 - Scroll Zoom
-- Shadow Boost FO4
 - Show Dialogue Affinity
 - Smooth Cell Loading - F4SE
 - Stuck LOD Fix - F4SE
@@ -70,6 +71,7 @@ Nothing set in stone. All subject to change. No ETA. Will require a new save.
 - Integrated Automatron
 - Jetpack Animations
 - MGEF Condition Bug Fix
+- Nuclear Nude Body Textures
 - Rusty Face Fix
 
 **UPDATED**
@@ -84,6 +86,7 @@ Nothing set in stone. All subject to change. No ETA. Will require a new save.
 - Modding for Charity - Trunk's Malfunction
 - RobCo Patcher
 - Sim Settlements 2 - All Chapters Pack
+- Survival Mode Overhaul
 - Uneducated Shooter - QE Leaning and Gun Inertia
 - Weapon Debris Crash Fix
 - Woody's Wasteland Stuff - Navmesh Patch
@@ -105,14 +108,11 @@ Nothing set in stone. All subject to change. No ETA. Will require a new save.
 - Changed Godray quality to Medium.
 - Some new Addictol settings. First boot may take a little bit longer, subsequent boots should be much faster.
 - Reduced Vit-o-matic's weight from 8 to 4.
+- Removed Brahmin testicles from the new Brahmin Overhaul. Why are mod authors like this.
 
 *TO DO LIST*
 
-- Rebuild previs.
-- Rebuild facegen.
-- Rerun item sorter.
 - Decompile scripts from ITO to see if it's adding a bunch of ammo to scrounger lists via injection.
-- Update Terminal.
 - MCM Settings update.
 - test test test
 
