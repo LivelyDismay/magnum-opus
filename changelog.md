@@ -10,9 +10,16 @@ New save required. Happy birthday to me.
 - Adaptive Combat Tactics
 - Adaptive NPC Aim - F4SE
 - Addiction Overhaul
+- Agency Arms Benelli M2 - Shotgun - AMD Fix
+- AKs of the Wasteland
+- Aks of the Wasteland AMD Patch
+- Bolt Actions of the Wasteland (Fo3 NV Hunting Rifle - Varmint Rifle - Winchester Model 70 - M24 - Kar 98 - M1903 - Mosin Nagant)
 - Bovine Intervention - Brahmin Overhaul
+- BT SPR - AMD Fix
 - CBBE Ida Body Texture
 - CBBE Vault 111 Suit With Pants(Gloves Optional)
+- Combined Arms - AMD PATCH
+- Combined Arms Expansion Pack - AMD Patch
 - Commonwealth Ballistics - Penetration System - F4SE
 - Commonwealth Camera - F4SE
 - Commonwealth Conditioning - adaptive stat boosts
@@ -24,31 +31,43 @@ New save required. Happy birthday to me.
 - Female Eyelash Retex
 - Fireflies
 - First Person FOV Overhaul - Armor Clipping and Weapon Repositioning
+- FN 502 Tactical
 - Heather Casdin - Animated Icon Addon
 - Holstered Weapon Light Fix
 - ILD - Improved Legendary Drops
 - Infested Ferals
 - Jetpack Water Physics Fix - F4SE
+- Lever Actions of the Wasteland
 - Light Gobo Fix - F4SE
+- M203 - AMD Fix
 - Machine Gun Emplacement
 - Manual Reload - F4SE
 - Map Marker Added Shows Name
 - Med-X Matters - Stimpak Overhaul - F4SE
 - Minutemen Captives
+- MK18 CQBR Lens Fix
 - Molotov Collision Fix
+- MP5 AMD Scope Fix
+- MP7 loose file -w- AMD Fix
 - NPC's Run and Walk at Your Pace
 - Nuanced Eye Reflection
 - Pip-Boy Light Detection Fix - F4SE
+- PKM Machine Gun - AMD PATCH
 - Power Armor Permissions F4SE
 - Practical Effects for West Tek Tactical Optics
 - Proximity Shotgun Damage - Dynamic Range Scaling
+- Pump Actions of the Wasteland (Hunting Shotgun (Rem 870) - SPAS 12 - Mossberg 500 - Maverick 88 - Ithaca 37)
 - Quantum Creatures - Far Harbor Creatures Can Be Caught In Exotic Cages
 - Rain Bug Fix - F4SE
 - Refreshing Checkpoints
 - Reinforcements and Retribution
+- Revolvers of the Wasteland AMD Patch
+- RPD AMD Patch
+- RU556 Scope Mesh Fix
 - Safe Travels
 - Scroll Zoom
 - Show Dialogue Affinity
+- SIG MCX - AMD Fix
 - Smooth Cell Loading - F4SE
 - Stuck LOD Fix - F4SE
 - TG'z East Boston Interiors
@@ -57,6 +76,7 @@ New save required. Happy birthday to me.
 - Tumbajamba's Combat Armor MK II - CBBE
 - Tumbajamba's Minutemen Armor Collection - CBBE
 - Tumbajamba's Synth Armor Collection - CBBE
+- UMP Scope Meshes
 - Unlimited Survival Mode - F4SE
 - VATS Freeze Fix - F4SE
 - Weapon Subgraph Accelerator - F4SE
@@ -69,11 +89,19 @@ New save required. Happy birthday to me.
 
 **REMOVED**
 
+- AK400 - Assault Rifle
+- AK74M - Assault Rifle
+- Beretta M9A3
 - Companion Shoots At Player Fix - F4SE
+- FN 502 Tactical
 - Integrated Automatron
 - Jetpack Animations
+- The M14 Standalone Rifle
 - MGEF Condition Bug Fix
+- Mossberg 500 Pump-Action Shotgun
+- HK MP7A2
 - Nuclear Nude Body Textures
+- Remington Model 870 Shotgun
 - Rusty Face Fix
 
 **UPDATED**
@@ -87,6 +115,7 @@ New save required. Happy birthday to me.
 - Modding for Charity - Transmission Zeta - with Wes Johnson
 - Modding for Charity - Trunk's Malfunction
 - RobCo Patcher
+- Select Assault Rifle
 - Sim Settlements 2 - All Chapters Pack
 - Survival Mode Overhaul
 - Uneducated Shooter - QE Leaning and Gun Inertia
@@ -111,6 +140,7 @@ New save required. Happy birthday to me.
 - Some new Addictol settings. First boot may take a little bit longer, subsequent boots should be much faster.
 - Reduced Vit-o-matic's weight from 8 to 4.
 - Removed Brahmin testicles from the new Brahmin Overhaul. Why are mod authors like this.
+- Removed the AKM, SPAS-12, and M9A1 from Combined Arms. Just like with a majority of the weapons in the REMOVED section above, there's a lot of overlap and duplicate weapons between the weapon packs. This is now being streamlined.
 
 *TO DO LIST*
 
