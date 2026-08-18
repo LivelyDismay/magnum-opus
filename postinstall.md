@@ -81,6 +81,9 @@ Scroll down in MO2 until you reach the `Optional` section. You'll see these file
 
 If you are an Nvidia user, you don't have to do anything. If you are an AMD user, tick the AMD version so it is active. It does not matter if you disable the Nvidia one or not.
 
+Scroll down towards the bottom of Mod Organizer 2. There is a section of mods under a separator named AMD Lens Fix. Expand this separator and enable all of these files.  
+![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/amdlensfix.png)
+
 It is also recommended to cap your FPS at 60. This can be done in the High FPS Physics Fix ini file.
 
 ---
