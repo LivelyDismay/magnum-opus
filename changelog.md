@@ -77,6 +77,7 @@ New save required. Happy birthday to me.
 - Tumbajamba's Minutemen Armor Collection - CBBE
 - Tumbajamba's Synth Armor Collection - CBBE
 - UMP Scope Meshes
+- Uniques Of The Wasteland
 - Unlimited Survival Mode - F4SE
 - VATS Freeze Fix - F4SE
 - Weapon Subgraph Accelerator - F4SE
