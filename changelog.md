@@ -1,5 +1,16 @@
 2026/08/18
 
+Version 9.4.2
+
+Still doin' this.
+
+- Fix for AMD Len section.
+- Fix for potential CK file being patched erroneously.
+
+---
+
+2026/08/18
+
 Version 9.4.1
 
 Exciting, I know.
