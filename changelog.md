@@ -142,11 +142,7 @@ New save required. Happy birthday to me.
 - Reduced Vit-o-matic's weight from 8 to 4.
 - Removed Brahmin testicles from the new Brahmin Overhaul. Why are mod authors like this.
 - Removed the AKM, SPAS-12, and M9A1 from Combined Arms. Just like with a majority of the weapons in the REMOVED section above, there's a lot of overlap and duplicate weapons between the weapon packs. This is now being streamlined.
-
-*TO DO LIST*
-
-- Decompile scripts from ITO to see if it's adding a bunch of ammo to scrounger lists via injection.
-- MCM Settings update.
+- Updated Beginner's Guide Terminal with more/new/expanded information.
 
 ---
 
