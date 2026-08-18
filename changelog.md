@@ -1,5 +1,15 @@
 2026/08/18
 
+Version 9.4.1
+
+Exciting, I know.
+
+- Fixed Bodyslide Output archive. Probably. Let me know.
+
+---
+
+2026/08/18
+
 Version 9.4.0
 
 New save required. Happy birthday to me.
