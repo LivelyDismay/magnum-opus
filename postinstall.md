@@ -89,6 +89,8 @@ At this point, I'd recommend restarting your PC. It's been through a lot! Give i
 
 Launch ModOrganizer.exe from inside your installation folder (the one you chose for the modlist when you first installed it via the Wabbajack app). There's a big bar on the right side that says `F4SE`. This is how you will launch the game from now on. **You need to launch the game in this exact way every time in order to play with the installed mods.**
 
+The first launch may take a few minutes. A lot of data is being opened, parsed, and cached. Future launches should be a bit quicker. Please be patient.
+
 [[Top]](#table-of-contents)
 
 ---
