@@ -1,8 +1,27 @@
+2026/08/20
+
+Version 9.4.3
+
+**REMOVED**
+
+- Godrays Performance Fix Redux
+- Hydra
+
+**NOTES**
+
+- This will allow Legendary items to drop again.
+- Unfortunately, this will make the game's visuals a little bit worse, but I think it's a small price to pay for a mod I've wanted for a long time.
+- Thanks to ChurchOfKenny for quickly finding the root.
+
+---
+
 2026/08/18
 
 Version 9.4.2
 
 Still doin' this.
+
+**NOTES**
 
 - Fix for AMD Len section.
 - Fix for potential CK file being patched erroneously.
@@ -14,6 +33,8 @@ Still doin' this.
 Version 9.4.1
 
 Exciting, I know.
+
+**NOTES**
 
 - Fixed Bodyslide Output archive. Probably. Let me know.
 
