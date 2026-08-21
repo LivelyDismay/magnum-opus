@@ -10,7 +10,7 @@ Version 9.4.3
 **NOTES**
 
 - This will allow Legendary items to drop again.
-- Unfortunately, this will make the game's visuals a little bit worse, but I think it's a small price to pay for a mod I've wanted for a long time.
+- Unfortunately, this will make the game's visuals a little bit worse, but I think it's a small price to pay for a mod I've wanted for a long time. I'll try to get something that allows us to have both, but I am not a Script Extender person and I don't know C++.
 - Thanks to ChurchOfKenny for quickly finding the root.
 
 ---
