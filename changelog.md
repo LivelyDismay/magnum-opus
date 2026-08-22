@@ -1,3 +1,21 @@
+2026/08/22
+
+Version 9.4.4
+
+**REMOVED**
+
+- Hit Those Explosives
+- Hit Those Objects
+- Terminals Lock Up
+- A random patch I made.
+
+**NOTES**
+
+- You'll get a missing masters warning when loading your save. Just click ok, it's perfectly fine and expected.
+- Hopefully this stuff will get added back in soon. Contacted the authors, thought I'd hear back sooner. C'est la vie.
+
+---
+
 2026/08/20
 
 Version 9.4.3
