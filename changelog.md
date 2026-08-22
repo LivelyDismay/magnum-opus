@@ -135,7 +135,6 @@ New save required. Happy birthday to me.
 - AK74M - Assault Rifle
 - Beretta M9A3
 - Companion Shoots At Player Fix - F4SE
-- FN 502 Tactical
 - Integrated Automatron
 - Jetpack Animations
 - The M14 Standalone Rifle
