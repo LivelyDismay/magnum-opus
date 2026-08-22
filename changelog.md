@@ -73,7 +73,6 @@ New save required. Happy birthday to me.
 - Female Eyelash Retex
 - Fireflies
 - First Person FOV Overhaul - Armor Clipping and Weapon Repositioning
-- FN 502 Tactical
 - Heather Casdin - Animated Icon Addon
 - Holstered Weapon Light Fix
 - ILD - Improved Legendary Drops
