@@ -1,3 +1,18 @@
+2026/08/23
+
+Version 9.4.5
+
+**REMOVED**
+
+- Companion Take All - Keep Equipped Items
+- Weapon Subgraph Accelerator F4SE.
+
+**NOTES**
+
+- One doesn't work, the other is down on Nexus. Might come back. Who knows. Not me.
+
+---
+
 2026/08/22
 
 Version 9.4.4
