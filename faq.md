@@ -141,7 +141,7 @@ First, ensure you do NOT have the High Definition DLC active in Steam. If you do
 
 Nah, I don't use a controller. If someone else wants to set up a controller config, I can add it as an optional file.
 
-<ake sure the Controller option is enabled in your settings (`Escape > Gameplay > Settings`).
+Make sure the Controller option is enabled in your settings (`Escape > Gameplay > Settings`).
 
 If you're playing on a controller, your map probably doesn't work correctly. To fix this, edit your `Fallout4Prefs.ini` in the `MagnumOpus/profiles` folder and edit the following lines under the `[Display]` section to read as follows:
 
