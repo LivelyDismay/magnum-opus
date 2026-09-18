@@ -60,7 +60,7 @@ Due to how Wabbajack works, you only need to do this step ONCE. The `[NoDelete]`
 
 ### Performance Tweaks
 
-Launch ModOrganizer.exe from inside your installation folder (the one you chose for the modlist when you first installed it via the Wabbajack app). There's a big bar on the right side that says `F4SE`. Click this to reveal the dropdown menu and select `Fallout 4 Launcher`. Click `Run`. On the launcher, click `Options`. Under the `Detail` tab, click `Medium` or `High`. Do not click `Ultra`. I don't care how good your computer is; this game is old and doesn't care about your hardware. I would also recommend checking the `Windowed Mode` and `Borderless` boxes. When finished, press `OK`. You may now Exit the launcher.
+Launch ModOrganizer.exe from inside your installation folder (the one you chose for the modlist when you first installed it via the Wabbajack app). There's a big bar on the right side that says `F4SE`. Click this to reveal the dropdown menu and select `Fallout Launcher`. Click `Run`. On the launcher, click `Options`. Under the `Detail` tab, click `Medium` or `High`. Do not click `Ultra`. I don't care how good your computer is; this game is old and doesn't care about your hardware. I would also recommend checking the `Windowed Mode` and `Borderless` boxes. When finished, press `OK`. You may now Exit the launcher.
 
 The Nvidia app also really likes to "optimize" your games. It is terrible at doing so. I would strongly encourage you to disable this alleged feature. Same with AMD Adrenaline.
 
