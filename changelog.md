@@ -1,3 +1,56 @@
+WIP
+
+Version 9.5.0
+
+New save required.
+
+**ADDED**
+
+- Classy Glass
+- Colorful Bottle Lanterns
+- Dynamic Grass
+- Inclusive Power Armor
+- Institute Robots - Automatron addon
+- Lighting Fixes
+- Moon Motion Fix
+- Quantum Storms for Nuka-World
+- Runtime Database
+- Settlement Radio Loudspeakers
+- SKK Corpse Looting 76
+- Sprint Stuttering Fix
+- Visible Favorites - F4SE
+
+**UPDATED**
+
+- Adaptive Combat Tactics
+- Address Library for F4SE Plugins
+- DirectHit
+- High FPS Physics Fix
+- Holstered Weapon Light Fix
+- Lever Actions of the Wasteland
+- Looks Menu Temp Scroll
+- Power Armor Permissions F4SE
+- Smooth Cell Loading - F4SE
+- Stuck LOD Fix - F4SE
+- Weapon Debris Crash Fix
+
+**REMOVED**
+
+- Classic Holstered Weapons System
+- Safe Travels
+- Survival Mode Overhaul
+- Survival Mode Overhaul - Heather Casdin Patch
+- Survival Mode Patchwork
+- Unlimited Survival Mode - F4SE
+
+**NOTES**
+
+- Fixed some errors in cell FensGunStore (xx009184, TG'z Fens Interiors)
+- Removed master requirement for Safe Travels from Liv_LKRWSW.
+- Support for Survival Mode will be non-existent. I do not like it. I do not play it. If you choose to do so, I'm not at all interested in bug reports about it. You are officially on your own. If you must play Survival, please play a different list.
+
+---
+
 2026/08/23
 
 Version 9.4.5
