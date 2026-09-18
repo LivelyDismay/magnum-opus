@@ -6,37 +6,58 @@ New save required.
 
 **ADDED**
 
+- Armor Penetration Bug Fix - F4SE
 - Classy Glass
 - Colorful Bottle Lanterns
+- Companion Shoots At Player Fix - F4SE
 - Dynamic Grass
 - Inclusive Power Armor
 - Institute Robots - Automatron addon
 - Lighting Fixes
 - Moon Motion Fix
 - Quantum Storms for Nuka-World
+- Random Encounter Cell Reset Fix
+- Rename Anything - RD
 - Runtime Database
 - Settlement Radio Loudspeakers
 - SKK Corpse Looting 76
 - Sprint Stuttering Fix
+- Unique Holotapes
 - Visible Favorites - F4SE
 
 **UPDATED**
 
+- Acoustic Occlusion - F4SE
 - Adaptive Combat Tactics
 - Address Library for F4SE Plugins
+- Better Fusion Core Management - F4SE
+- Commonwealth Ballistics - Penetration System - F4SE
+- Commonwealth Camera - F4SE
+- Customizable Combat AI Nearby Object Search - F4SE
 - DirectHit
+- Empty Vendor List Bug Fix - F4SE
+- Facial Expression and Eyetracking Engine Fixes - F4SE
+- Follower AI Approach Reaction Fix - F4SE
 - High FPS Physics Fix
 - Holstered Weapon Light Fix
 - Lever Actions of the Wasteland
+- Light Gobo Fix - F4SE
 - Looks Menu Temp Scroll
+- Magic Effect and Spell Engine Fixes - F4SE
+- Med-X Matters - Stimpak Overhaul - F4SE
+- Pistol Bash Recoil Animation Fix
+- Player Face Target Fixes and Optional Improvements - F4SE
 - Power Armor Permissions F4SE
+- Rain Bug Fix - F4SE
 - Smooth Cell Loading - F4SE
 - Stuck LOD Fix - F4SE
 - Weapon Debris Crash Fix
+- Workshop Repair Cost Fix - F4SE
 
 **REMOVED**
 
 - Classic Holstered Weapons System
+- Rename Anything
 - Safe Travels
 - Survival Mode Overhaul
 - Survival Mode Overhaul - Heather Casdin Patch
