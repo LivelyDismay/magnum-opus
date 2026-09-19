@@ -6,22 +6,17 @@ New save required.
 
 **ADDED**
 
-- Armor Penetration Bug Fix - F4SE
 - Classy Glass
 - Colorful Bottle Lanterns
-- Companion Shoots At Player Fix - F4SE
 - Dynamic Grass
 - Inclusive Power Armor
 - Institute Robots - Automatron addon
 - Lighting Fixes
-- Moon Motion Fix
 - Quantum Storms for Nuka-World
 - Random Encounter Cell Reset Fix
 - Rename Anything - RD
 - Runtime Database
 - Settlement Radio Loudspeakers
-- SKK Corpse Looting 76
-- Sprint Stuttering Fix
 - Unique Holotapes
 - Visible Favorites - F4SE
 
@@ -29,6 +24,7 @@ New save required.
 
 - Acoustic Occlusion - F4SE
 - Adaptive Combat Tactics
+- Addictol
 - Address Library for F4SE Plugins
 - Better Fusion Core Management - F4SE
 - Commonwealth Ballistics - Penetration System - F4SE
@@ -57,6 +53,10 @@ New save required.
 **REMOVED**
 
 - Classic Holstered Weapons System
+- Jetpack Water Physics Fix - F4SE
+- Less Shiny Chemistry Station Glasses
+- Mentats - F4SE
+- No More Glowing Water Coolers
 - Rename Anything
 - Safe Travels
 - Survival Mode Overhaul
@@ -69,6 +69,12 @@ New save required.
 - Fixed some errors in cell FensGunStore (xx009184, TG'z Fens Interiors)
 - Removed master requirement for Safe Travels from Liv_LKRWSW.
 - Support for Survival Mode will be non-existent. I do not like it. I do not play it. If you choose to do so, I'm not at all interested in bug reports about it. You are officially on your own. If you must play Survival, please play a different list.
+- Updated Mod Organizer 2 to v2.5.2 for Linux users.
+- Edits to some PC Level Mult values for some unique Nuka World NPCs.
+- Minor edits to some COBJs for the Clothing workbench.
+- Reorganized some categories and whatnot in the left pane of MO2.
+- Many of the F4SE fixes being removed have been rolled into the latest update to Addictol. Please don't ask why I'm removing them. They're not actually being removed.
+- Removed Steel Cuirass from Skinny Malone's outfit. It looked stupid.
 
 ---
 
