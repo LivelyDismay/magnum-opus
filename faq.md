@@ -126,7 +126,9 @@ It's a little complicated because I can't really provide direct patches/support 
 I know it sounds like a lot, but it seriously takes like 30 seconds. I'm just writing this to be as foolproof as possible. And thanks for your support!
 
 The bottom of your Plugins pane should look like this:  
-![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/lppluginorder.png)
+![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/lppluginorder.png)  
+
+It's okay if the perk overhaul is higher up, as long as it remains above the ones in the screenshot.
 
 [[Top]](#table-of-contents)
 
