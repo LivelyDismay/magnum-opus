@@ -1,4 +1,4 @@
-WIP
+2026/09/20
 
 Version 9.5.0
 
@@ -68,14 +68,16 @@ New save required.
 
 - Fixed some errors in cell FensGunStore (xx009184, TG'z Fens Interiors)
 - Removed master requirement for Safe Travels from Liv_LKRWSW.
-- Support for Survival Mode will be non-existent. I do not like it. I do not play it. If you choose to do so, I'm not at all interested in bug reports about it. You are officially on your own. If you must play Survival, please play a different list.
+- Support for Survival Mode will be non-existent. I do not like it. I do not play it. If you choose to do so, I'm not at all interested in bug reports about it. You are officially on your own. If you must play Survival, please play a different list. The introduction to the ReadMe as been updated accordingly.
 - Updated Mod Organizer 2 to v2.5.2 for Linux users.
 - Edits to some PC Level Mult values for some unique Nuka World NPCs.
 - Minor edits to some COBJs for the Clothing workbench.
 - Reorganized some categories and whatnot in the left pane of MO2.
 - Many of the F4SE fixes being removed have been rolled into the latest update to Addictol. Please don't ask why I'm removing them. They're not actually being removed.
 - Removed Steel Cuirass from Skinny Malone's outfit. It looked stupid.
+- Removed two outdated patches that weren't doing anything.
 - New Sorter outputs.
+- I also took an hour or two testing various armor sets while standing in the middle of a group of enemies to see how long it took me to die, and I was unable to replicate any issues involving being one-shot by anyone. With no armor, no special stats, no level ups, and just a vault suit, I died in 4-5 shots on average. Putting on armors only made me survive even longer...which is the expected behavior.
 
 ---
 
