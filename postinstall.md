@@ -87,7 +87,7 @@ It is also recommended to cap your FPS at 60. This can be done in the High FPS P
 
 At this point, I'd recommend restarting your PC. It's been through a lot! Give it a little reboot.
 
-Launch ModOrganizer.exe from inside your installation folder (the one you chose for the modlist when you first installed it via the Wabbajack app). There's a big bar on the right side that says `F4SE`. This is how you will launch the game from now on. **You need to launch the game in this exact way every time in order to play with the installed mods.**
+Launch ModOrganizer.exe from inside your installation folder (the one you chose for the modlist when you first installed it via the Wabbajack app). There's a big bar on the right side that says `F4SE`. Next to it is a big button that says `RUN`. This is how you will launch the game from now on. **You need to launch the game in this exact way every time in order to play with the installed mods.**
 
 The first launch may take a few minutes. A lot of data is being opened, parsed, and cached. Future launches should be a bit quicker. Please be patient.
 
@@ -144,7 +144,7 @@ After leaving Vault 111, you'll get a friendly little pop-up. Please follow thes
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/presetpopup.png)
 
 **MCM Settings Manager**  
-Apply the `Opus v9` Preset.  
+Press `Esc` on your keyboard to open the menu and find the MCM Config option. Apply the `Opus v9` Preset.  
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/applypreset.png)
 
 **Please read the Terminal outside of Vault 111, and take the Holotape with you.** This serves as an in-game FAQ and will help you understand some of the new systems in Magnum Opus.
