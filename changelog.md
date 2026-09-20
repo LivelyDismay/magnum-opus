@@ -75,6 +75,7 @@ New save required.
 - Reorganized some categories and whatnot in the left pane of MO2.
 - Many of the F4SE fixes being removed have been rolled into the latest update to Addictol. Please don't ask why I'm removing them. They're not actually being removed.
 - Removed Steel Cuirass from Skinny Malone's outfit. It looked stupid.
+- New Sorter outputs.
 
 ---
 
