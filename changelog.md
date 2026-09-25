@@ -1,3 +1,20 @@
+2026/09/25
+
+Version 9.5.1
+
+**REMOVED**
+
+- Scroll Zoom
+
+**NOTES**
+
+- Removed bandages and morphine injectors from being craftable.
+- Changed Visible Favorites to only show Equipped Favorites instead of all favorites. I think. Hard to say if it'll transfer over with the Wabbajack install. If you want to edit this, LeftShift + RightControl opens the configuration menu for it.
+- Changed MCM preset to turn on the option to fly in Workshop Mode.
+- Edits to the Beginner's Guide terminal.
+
+---
+
 2026/09/20
 
 Version 9.5.0
