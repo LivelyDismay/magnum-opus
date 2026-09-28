@@ -234,7 +234,9 @@ Step 3:
 
 I'm always available on [my own personal Discord Server](https://discord.gg/livelymods).
 
-I stream most days [on Twitch](https://www.twitch.tv/livelymods) at 3:30 PM EST. Feel free to hang out, ask modding questions, or whatever. I like talking about modding stuff.
+If you are joining the Discord for support, please make sure to read the rules of the server. Don't break Rule 11. If you ask questions that are already answered in the ReadMe, I will ignore you. If it's an actual issue, I will literally drop everything to go fix it as soon as I possibly can.
+
+[[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
 
 ---
 
