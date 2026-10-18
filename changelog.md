@@ -1,3 +1,19 @@
+WIP
+
+Version 9.6.0
+
+New save required.
+
+**REMOVED**
+
+- Minutemen Captives
+
+**NOTES**
+
+- Edits to bloatflies. Reduced spawn chance from 100% down to 25%/35% (varies based on enemy type). Eliminated larvae and maggot spawns. Reduced damage from 5 to 2. 
+
+---
+
 2026/09/25
 
 Version 9.5.1
