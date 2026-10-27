@@ -4,9 +4,28 @@ Version 9.6.0
 
 New save required.
 
+Changelog not final, all subject to change based on testing.
+
+**ADDED**
+
+- Assured Defense
+- Commonwealth Encounter Director - F4SE
+- CSEP Presents - Detour - New Town and Quest Mod
+- Dynamic Cubemap F4
+- Keep Actors Animated in the Background - F4SE
+- Smart Selection - Better Object Interaction - F4SE
+- TG'z Fens Interiors (Revisited)
+- VATS Unchained - F4SE
+- Weapon Switch Stuttering Fix - F4SE
+- Workshop and Settlement Fixes
+- ZP's Interior Texture Pack
+
 **REMOVED**
 
+- ITO Institute Technology Overhaul Full v2
 - Minutemen Captives
+- SS2 and Institute Technology Overhaul Version 2 Integration Patch
+- TG'z Fens Interiors
 
 **NOTES**
 
