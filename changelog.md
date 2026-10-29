@@ -26,11 +26,13 @@ Changelog not final, all subject to change based on testing.
 - Minutemen Captives
 - SS2 and Institute Technology Overhaul Version 2 Integration Patch
 - TG'z Fens Interiors
+- Unique Raider Gangs And Patrols 2 - Nightmare Edition
+- Unique Raider Gang Patrols - No Features Items or Deliverer
 
 **NOTES**
 
 - Edits to bloatflies. Reduced spawn chance from 100% down to 25%/35% (varies based on enemy type). Eliminated larvae and maggot spawns. Reduced damage from 5 to 2. 
-- Hand-placed 23 different unique weapons into some mod-added interiors to encourage more exploration. This also means mod pages will occasionally be less accurate if you're trying to look up where to find unique variants of things.
+- Hand-placed 23 more unique weapons into some mod-added interiors to encourage more exploration. This also means mod pages will occasionally be less accurate if you're trying to look up where to find unique variants of things.
 
 ---
 
