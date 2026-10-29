@@ -22,12 +22,18 @@ Changelog not final, all subject to change based on testing.
 
 **REMOVED**
 
+- Fireflies
 - ITO Institute Technology Overhaul Full v2
 - Minutemen Captives
+- Proximity Shotgun Damage - Dynamic Range Scaling
 - SS2 and Institute Technology Overhaul Version 2 Integration Patch
 - TG'z Fens Interiors
 - Unique Raider Gangs And Patrols 2 - Nightmare Edition
 - Unique Raider Gang Patrols - No Features Items or Deliverer
+
+**UPDATED**
+
+- Sim Settlements 2 - All Chapters Pack
 
 **NOTES**
 
