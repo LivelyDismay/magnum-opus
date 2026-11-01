@@ -14,6 +14,7 @@ Changelog not final, all subject to change based on testing.
 - Dynamic Cubemap F4
 - Keep Actors Animated in the Background - F4SE
 - Smart Selection - Better Object Interaction - F4SE
+- TG'z Cambridge Interiors
 - TG'z Fens Interiors (Revisited)
 - VATS Unchained - F4SE
 - Weapon Switch Stuttering Fix - F4SE
@@ -27,6 +28,7 @@ Changelog not final, all subject to change based on testing.
 - Minutemen Captives
 - Proximity Shotgun Damage - Dynamic Range Scaling
 - SS2 and Institute Technology Overhaul Version 2 Integration Patch
+- TG'z Cambridge Interiors
 - TG'z Fens Interiors
 - Unique Raider Gangs And Patrols 2 - Nightmare Edition
 - Unique Raider Gang Patrols - No Features Items or Deliverer
@@ -34,11 +36,14 @@ Changelog not final, all subject to change based on testing.
 **UPDATED**
 
 - Sim Settlements 2 - All Chapters Pack
+- Workshop Framework
 
 **NOTES**
 
 - Edits to bloatflies. Reduced spawn chance from 100% down to 25%/35% (varies based on enemy type). Eliminated larvae and maggot spawns. Reduced damage from 5 to 2. 
 - Hand-placed 23 more unique weapons into some mod-added interiors to encourage more exploration. This also means mod pages will occasionally be less accurate if you're trying to look up where to find unique variants of things.
+- Yes I know TG'z Cambridge Interiors is in both Added and Removed but the author deleted the original mod and uploaded a new one so...yeah.
+- Generated all new previs and precombines.
 
 ---
 
