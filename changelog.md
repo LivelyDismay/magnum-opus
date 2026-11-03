@@ -9,13 +9,20 @@ Changelog not final, all subject to change based on testing.
 **ADDED**
 
 - Assured Defense
+- BNS Trees Only
 - Commonwealth Encounter Director - F4SE
 - CSEP Presents - Detour - New Town and Quest Mod
-- Dynamic Cubemap F4
+- Dear Modding UI
+- Dialogue NPCs Can Have Eye and Lip Movements While Lying in Bed - F4SE
+- Draw Calls Reducer - FPS Boost
+- Fallout 4 Community Shaders
 - Keep Actors Animated in the Background - F4SE
+- Modern Weapon Behavior
 - Smart Selection - Better Object Interaction - F4SE
+- Spring in the Commonwealth - A Performance Friendly Grass Mod
 - TG'z Cambridge Interiors
 - TG'z Fens Interiors (Revisited)
+- T.H.C. - Tree Hugger Commonwealth
 - VATS Unchained - F4SE
 - Weapon Switch Stuttering Fix - F4SE
 - Workshop and Settlement Fixes
@@ -23,15 +30,22 @@ Changelog not final, all subject to change based on testing.
 
 **REMOVED**
 
+- Another Pine Forest Mod
+- Autumnal Grass Overhaul
 - Fireflies
 - ITO Institute Technology Overhaul Full v2
+- Manual Reload - F4SE
 - Minutemen Captives
+- Motion Vector Fixes
+- No Grass Enforcer - A universal weedwhacker for grass mods
+- Pine Trees Redone
 - Proximity Shotgun Damage - Dynamic Range Scaling
 - SS2 and Institute Technology Overhaul Version 2 Integration Patch
 - TG'z Cambridge Interiors
 - TG'z Fens Interiors
 - Unique Raider Gangs And Patrols 2 - Nightmare Edition
 - Unique Raider Gang Patrols - No Features Items or Deliverer
+- Wildergrowth - Grasses and Groundcovers
 
 **UPDATED**
 
@@ -45,6 +59,7 @@ Changelog not final, all subject to change based on testing.
 - Hand-placed 23 more unique weapons into some mod-added interiors to encourage more exploration. This also means mod pages will occasionally be less accurate if you're trying to look up where to find unique variants of things.
 - Yes I know TG'z Cambridge Interiors is in both Added and Removed but the author deleted the original mod and uploaded a new one so...yeah.
 - Generated all new previs and precombines.
+- Tree, grass, and shader mods mentioned in this changelog are still in early testing/patching, so they're *especially* unconfirmed. Don't be mad if they never make it into the release.
 
 ---
 
