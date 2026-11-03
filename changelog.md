@@ -35,6 +35,7 @@ Changelog not final, all subject to change based on testing.
 
 **UPDATED**
 
+- Dynamic Grass
 - Sim Settlements 2 - All Chapters Pack
 - Workshop Framework
 
