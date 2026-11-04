@@ -16,8 +16,11 @@ Changelog not final, all subject to change based on testing.
 - Dialogue NPCs Can Have Eye and Lip Movements While Lying in Bed - F4SE
 - Draw Calls Reducer - FPS Boost
 - Fallout 4 Community Shaders
+- Grass Cache and Grass UGrid Breaker
 - Keep Actors Animated in the Background - F4SE
 - Modern Weapon Behavior
+- NXGEN - Nice Bush
+- OpTicTrukZ's Plants and Herbs Revamped
 - Smart Selection - Better Object Interaction - F4SE
 - Spring in the Commonwealth - A Performance Friendly Grass Mod
 - TG'z Cambridge Interiors
@@ -26,6 +29,7 @@ Changelog not final, all subject to change based on testing.
 - VATS Unchained - F4SE
 - Weapon Switch Stuttering Fix - F4SE
 - Workshop and Settlement Fixes
+- ZP's Flora - Vanilla Grass
 - ZP's Interior Texture Pack
 
 **REMOVED**
@@ -46,6 +50,7 @@ Changelog not final, all subject to change based on testing.
 - Unique Raider Gangs And Patrols 2 - Nightmare Edition
 - Unique Raider Gang Patrols - No Features Items or Deliverer
 - Wildergrowth - Grasses and Groundcovers
+- ZP's Flora - Green Worlds
 
 **UPDATED**
 
@@ -59,6 +64,8 @@ Changelog not final, all subject to change based on testing.
 - Hand-placed 23 more unique weapons into some mod-added interiors to encourage more exploration. This also means mod pages will occasionally be less accurate if you're trying to look up where to find unique variants of things.
 - Yes I know TG'z Cambridge Interiors is in both Added and Removed but the author deleted the original mod and uploaded a new one so...yeah.
 - Generated all new previs and precombines.
+- Full grass cache.
+- Full shader cache.
 - Tree, grass, and shader mods mentioned in this changelog are still in early testing/patching, so they're *especially* unconfirmed. Don't be mad if they never make it into the release.
 
 ---
