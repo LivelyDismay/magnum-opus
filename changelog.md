@@ -55,6 +55,7 @@ Changelog not final, all subject to change based on testing.
 **UPDATED**
 
 - Dynamic Grass
+- Garden of Eden Papyrus Script Extender
 - Sim Settlements 2 - All Chapters Pack
 - Workshop Framework
 
