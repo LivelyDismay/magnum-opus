@@ -39,11 +39,13 @@ Changelog not final, all subject to change based on testing.
 - Fireflies
 - ITO Institute Technology Overhaul Full v2
 - Manual Reload - F4SE
+- Merged RootBehavior
 - Minutemen Captives
 - Motion Vector Fixes
 - No Grass Enforcer - A universal weedwhacker for grass mods
 - Pine Trees Redone
 - Proximity Shotgun Damage - Dynamic Range Scaling
+- Sprint Reload and Cancel
 - SS2 and Institute Technology Overhaul Version 2 Integration Patch
 - TG'z Cambridge Interiors
 - TG'z Fens Interiors
@@ -68,6 +70,7 @@ Changelog not final, all subject to change based on testing.
 - Full grass cache.
 - Full shader cache.
 - Tree, grass, and shader mods mentioned in this changelog are still in early testing/patching, so they're *especially* unconfirmed. Don't be mad if they never make it into the release.
+- Flagged GunBehavior.hkx as hidden from Extended Weapon Systems to allow Modern Weapon Behavior to take over.
 
 ---
 
