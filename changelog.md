@@ -14,6 +14,7 @@ Changelog not final, all subject to change based on testing.
 - CSEP Presents - Detour - New Town and Quest Mod
 - Dear Modding UI
 - Dialogue NPCs Can Have Eye and Lip Movements While Lying in Bed - F4SE
+- Disable Companion Collision AE (F4SE)
 - Draw Calls Reducer - FPS Boost
 - Fallout 4 Community Shaders
 - Grass Cache and Grass UGrid Breaker
@@ -21,11 +22,14 @@ Changelog not final, all subject to change based on testing.
 - Modern Weapon Behavior
 - NXGEN - Nice Bush
 - OpTicTrukZ's Plants and Herbs Revamped
+- Remember Lockpick Angle NG (and AE)
 - Smart Selection - Better Object Interaction - F4SE
 - Spring in the Commonwealth - A Performance Friendly Grass Mod
+- Sprint Jump AP Fix AE (F4SE)
 - TG'z Cambridge Interiors
 - TG'z Fens Interiors (Revisited)
 - T.H.C. - Tree Hugger Commonwealth
+- ToggleEquip AE (F4SE)
 - VATS Unchained - F4SE
 - Weapon Switch Stuttering Fix - F4SE
 - Workshop and Settlement Fixes
@@ -34,31 +38,91 @@ Changelog not final, all subject to change based on testing.
 
 **REMOVED**
 
+- Active Effects on HUD
 - Another Pine Forest Mod
 - Autumnal Grass Overhaul
+- Better Notes
+- CCCleaner
+- Clarity - A Visual Overhaul
+- Disable Companion Collision
+- F4SE ChangeHeadPart Fix
 - Fireflies
+- FO4 Photo Mode
 - ITO Institute Technology Overhaul Full v2
 - Manual Reload - F4SE
+- MCM Booster
 - Merged RootBehavior
 - Minutemen Captives
 - Motion Vector Fixes
 - No Grass Enforcer - A universal weedwhacker for grass mods
 - Pine Trees Redone
 - Proximity Shotgun Damage - Dynamic Range Scaling
+- Publick Occurrences Expanded
+- Remember Lockpick Angle - Updated
+- Sprint Jump AP Fix
 - Sprint Reload and Cancel
 - SS2 and Institute Technology Overhaul Version 2 Integration Patch
 - TG'z Cambridge Interiors
 - TG'z Fens Interiors
+- ToggleEquip
 - Unique Raider Gangs And Patrols 2 - Nightmare Edition
 - Unique Raider Gang Patrols - No Features Items or Deliverer
+- Vertibird Jump
 - Wildergrowth - Grasses and Groundcovers
 - ZP's Flora - Green Worlds
 
 **UPDATED**
 
+- 3rd Person Behavior Fixes
+- Acoustic Occlusion - F4SE
+- Actor Velocity Framework
+- Adaptive NPC Aim - F4SE
+- Addictol
+- Addictol Crash Logger
+- Auto Beam - True Laser Sights Framework
+- Baka Framework
+- Baka Fullscreen Pip-Boy and Quick-Boy
+- Baka Wait Anywhere
+- Base Object Swapper
+- Bastion - A Power Armor Overhaul
+- Blocking Overhaul
+- Cell Offset Generator
+- Commonwealth Ballistics - Penetration System - F4SE
+- Commonwealth Camera - F4SE
+- Crafting Highlight Fix
+- Deadeye
+- DirectHit
 - Dynamic Grass
+- Extended Dialogue Interface
+- Fallout 4 - First person IdleStop fix
+- FallUI Companion Carryweight Fix
+- Fast AddItem Menu
+- Fix Radio Subtitle
 - Garden of Eden Papyrus Script Extender
+- Havok Aware Bullet Counted Reload (HaBCR)
+- High FPS Physics Fix
+- Holstered Weapon Light Fix
+- LooksMenu
+- Magazine Perks Tab
+- Mod Configuration Menu
+- PerkPointsPerLevel
+- Pip-Boy Light Detection Fix - F4SE
+- PipboyTabs
+- Place Everywhere
+- Remove Ammo from Dropped Guns
+- RobCo Patcher
+- Shield Framework
+- Show Dialogue Affinity
 - Sim Settlements 2 - All Chapters Pack
+- Sound Condition Fix
+- Spell Perk Item Distributor
+- SS2 Settlers UI
+- SUP F4SE - Script Utilities Plus
+- VATS Freeze Fix - F4SE
+- VATS Unchained - F4SE
+- Visible Favorites - F4SE
+- Wash That Blood Off
+- Weapon Debris Crash Fix
 - Workshop Framework
 
 **NOTES**
@@ -69,8 +133,10 @@ Changelog not final, all subject to change based on testing.
 - Generated all new previs and precombines.
 - Full grass cache.
 - Full shader cache.
-- Tree, grass, and shader mods mentioned in this changelog are still in early testing/patching, so they're *especially* unconfirmed. Don't be mad if they never make it into the release.
 - Flagged GunBehavior.hkx as hidden from Extended Weapon Systems to allow Modern Weapon Behavior to take over.
+- Reinstalled CompanionControlBooster, EquipSettler, InvLocker to apply AE compatibility.
+- Magnum Opus now runs on Fallout 4 v1.11.240 (AE).
+- A few neato things are being lost to the fact that we're potentially updating to the latest version of Fallout 4, and some script extender plugins don't exist for that version. So if you're asking "Lively, why are you removing Photo Mode, I like that mod," you can safely assume the answer is because it doesn't work on AE. Just writing this here to hopefully save us both some time.
 
 ---
 
