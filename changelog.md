@@ -139,6 +139,7 @@ Changelog not final, all subject to change based on testing.
 - Reinstalled CompanionControlBooster, EquipSettler, InvLocker to apply AE compatibility.
 - Magnum Opus now runs on Fallout 4 v1.11.240 (AE).
 - A few neato things are being lost to the fact that we're potentially updating to the latest version of Fallout 4, and some script extender plugins don't exist for that version. So if you're asking "Lively, why are you removing Photo Mode, I like that mod," you can safely assume the answer is because it doesn't work on AE. Just writing this here to hopefully save us both some time.
+- Changed the map marker icon for Breakheart Banks because it always bothered me that it has an icon typically reserved for settlements and I never remembered to do anything about it until today.
 
 ---
 
