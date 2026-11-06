@@ -49,6 +49,7 @@ Changelog not final, all subject to change based on testing.
 - Fireflies
 - FO4 Photo Mode
 - ITO Institute Technology Overhaul Full v2
+- LooksMenu Temp Scroll
 - Manual Reload - F4SE
 - MCM Booster
 - Merged RootBehavior
