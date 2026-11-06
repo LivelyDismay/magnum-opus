@@ -120,6 +120,7 @@ Changelog not final, all subject to change based on testing.
 - Spell Perk Item Distributor
 - SS2 Settlers UI
 - SUP F4SE - Script Utilities Plus
+- Unofficial Fallout 4 Patch
 - VATS Freeze Fix - F4SE
 - VATS Unchained - F4SE
 - Visible Favorites - F4SE
