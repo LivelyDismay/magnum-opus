@@ -48,6 +48,7 @@ Changelog not final, all subject to change based on testing.
 - F4SE ChangeHeadPart Fix
 - Fireflies
 - FO4 Photo Mode
+- Godrays Performance Fix Redux
 - ITO Institute Technology Overhaul Full v2
 - LooksMenu Temp Scroll
 - Manual Reload - F4SE
