@@ -16,10 +16,17 @@ Changelog not final, all subject to change based on testing.
 - Dialogue NPCs Can Have Eye and Lip Movements While Lying in Bed - F4SE
 - Disable Companion Collision AE (F4SE)
 - Draw Calls Reducer - FPS Boost
+- Extended Fake Interior
 - Fallout 4 Community Shaders
+- Gore Galore
 - Grass Cache and Grass UGrid Breaker
+- Interior Rain Sounds
 - Keep Actors Animated in the Background - F4SE
+- Lightweight Lighting - Exterior Only
+- Lightweight Lighting Extended (LLE)
 - Modern Weapon Behavior
+- More Water Mist
+- No Combat Lockout - F4SE
 - NXGEN - Nice Bush
 - OpTicTrukZ's Plants and Herbs Revamped
 - Remember Lockpick Angle NG (and AE)
@@ -30,9 +37,11 @@ Changelog not final, all subject to change based on testing.
 - TG'z Fens Interiors (Revisited)
 - T.H.C. - Tree Hugger Commonwealth
 - ToggleEquip AE (F4SE)
+- Traffic Cones to BOS
 - VATS Unchained - F4SE
 - Weapon Switch Stuttering Fix - F4SE
 - Workshop and Settlement Fixes
+- ZP's Birds Overhaul
 - ZP's Flora - Vanilla Grass
 - ZP's Interior Texture Pack
 
