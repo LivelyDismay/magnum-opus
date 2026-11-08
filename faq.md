@@ -1,6 +1,4 @@
-<h1 align="center">Magnum Opus Frequently Asked Questions</h1>
-
----
+<h1 align="center">Frequently Asked Questions</h1>
 
 <h3 align="center">Table of Contents</h3>
 
