@@ -1,6 +1,5 @@
 <h1 align="center">Frequently Asked Questions</h1>
 
-<h3 align="center">Table of Contents</h3>
 
 #### ⌨️ Controls & Keybinds
 - [Hotkeys?](#hotkeys)
