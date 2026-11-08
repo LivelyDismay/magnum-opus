@@ -1,8 +1,8 @@
-## Frequently Asked Questions
+<h1 align="center">Magnum Opus Frequently Asked Questions</h1>
 
 ---
 
-### 📋 Table of Contents
+<h3 align="center">Table of Contents</h3>
 
 #### ⌨️ Controls & Keybinds
 - [Hotkeys?](#hotkeys)
@@ -47,9 +47,19 @@
 
 ---
 
-### ⌨️ Controls & Keybinds
+<br>
+<p align="center">◆ ═════════ ⌨️ ═════════ ◆</p>
+<br>
 
-#### Hotkeys?
+<h3 align="center">Controls & Keybinds</h3>
+
+<br>
+<p align="center">◆ ═════════ ⌨️ ═════════ ◆</p>
+<br>
+
+---
+
+### Hotkeys?
 
 - **V** - VATS
 - **Q** - Left lean (only when aiming down sights)
@@ -71,7 +81,7 @@ There are more keybinds listed in the MCM, in the very bottom option. I would en
 
 ---
 
-#### Controller support?!?
+### Controller support?!?
 
 Nah, I don't use a controller. If someone else wants to set up a controller config, I can add it as an optional file.
 
@@ -88,7 +98,17 @@ Failing all that, open the MCM Config, go to Baka Fullscreen Pipboy, and disable
 
 ---
 
-### ⚙️ Modlist & Versioning Info
+<br>
+<p align="center">◆ ═════════ ⚙️ ═════════ ◆</p>
+<br>
+
+<h3 align="center">Modlist & Versioning Info</h3>
+
+<br>
+<p align="center">◆ ═════════ ⚙️ ═════════ ◆</p>
+<br>
+
+---
 
 #### What version of Fallout 4 does this list use?
 
@@ -118,7 +138,17 @@ You can update and remove whatever you want, but this will void any official sup
 
 ---
 
-### 🛠️ In-Game Configuration & Mechanics
+<br>
+<p align="center">◆ ═════════ 🛠️ ═════════ ◆</p>
+<br>
+
+<h3 align="center">In-Game Configuration & Mechanics</h3>
+
+<br>
+<p align="center">◆ ═════════ 🛠️ ═════════ ◆</p>
+<br>
+
+---
 
 #### My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!
 
@@ -224,7 +254,17 @@ Otherwise, some weapons that have flashlight attachment hijack the Pipboy flashl
 
 ---
 
-### 🤠 Gameplay & Balance
+<br>
+<p align="center">◆ ═════════ 🤠 ═════════ ◆</p>
+<br>
+
+<h3 align="center">Gameplay & Balance</h3>
+
+<br>
+<p align="center">◆ ═════════ 🤠 ═════════ ◆</p>
+<br>
+
+---
 
 #### Can I have multiple companions at the same time?
 
@@ -283,9 +323,17 @@ They're basically zombies. Go for the head. Other body parts have a pretty high 
 [[Top]](#table-of-contents)
 
 ---
+<br>
+<p align="center">◆ ═════════ 🚨 ═════════ ◆</p>
+<br>
 
-### 🚨 Technical Troubleshooting & Bugs
+<h3 align="center">Technical Troubleshooting & Bugs</h3>
 
+<br>
+<p align="center">◆ ═════════ 🚨 ═════════ ◆</p>
+<br>
+
+---
 #### My game crashes when I launch from MO2. Help!
 
 Make sure you disable any overlays - most notably, Medal.TV seems to cause this crash frequently for those with that program.
@@ -358,7 +406,17 @@ No. I'm told you have to disable MCM Booster. Other than that, there is a linux-
 
 ---
 
-### 💬 Miscellaneous
+<br>
+<p align="center">◆ ═════════ 💬 ═════════ ◆</p>
+<br>
+
+<h3 align="center">Miscellaneous</h3>
+
+<br>
+<p align="center">◆ ═════════ 💬 ═════════ ◆</p>
+<br>
+
+---
 
 #### Are achievements enabled?
 
