@@ -110,7 +110,7 @@ Failing all that, open the MCM Config, go to Baka Fullscreen Pipboy, and disable
 
 ---
 
-#### What version of Fallout 4 does this list use?
+### What version of Fallout 4 does this list use?
 
 1.10.163. Pre-NG. Wabbajack handles the downgrade for you, so please remember to keep your Steam version on the latest update. This information is only useful for adding version-dependent mods.
 
@@ -118,7 +118,7 @@ Failing all that, open the MCM Config, go to Baka Fullscreen Pipboy, and disable
 
 ---
 
-#### Load order? / What mods are in this list?
+### Load order? / What mods are in this list?
 
 [Have a look.](https://loadorderlibrary.com/lists/magnum-opus)
 
@@ -126,7 +126,7 @@ Failing all that, open the MCM Config, go to Baka Fullscreen Pipboy, and disable
 
 ---
 
-#### Can I add an ENB? Character presets? Cheat Terminal? Can I update mods? Remove mods?
+### Can I add an ENB? Character presets? Cheat Terminal? Can I update mods? Remove mods?
 
 If you hate yourself, sure. Some people have added ENBs and reported consistent crashes, so your mileage may vary. Don't add an ENB and report bugs to me because I can't/won't help. This will void official support.
 
@@ -150,7 +150,7 @@ You can update and remove whatever you want, but this will void any official sup
 
 ---
 
-#### My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!
+### My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!
 
 Open your MCM Configs, select the Baka Fullscreen Pipboy entry, and deactivate it.
 
@@ -158,7 +158,7 @@ Open your MCM Configs, select the Baka Fullscreen Pipboy entry, and deactivate i
 
 ---
 
-#### How do I repair Power Armor?
+### How do I repair Power Armor?
 
 Craft Power Armor Repair Kits at the Engineering Workbench, or purchase them from applicable vendors (such as the Atom Cats or Brotherhood of Steel). [More information available here.](https://youtu.be/OX2jOp9wrKs)
 
@@ -166,7 +166,7 @@ Craft Power Armor Repair Kits at the Engineering Workbench, or purchase them fro
 
 ---
 
-#### How do I use the Livelier Perks profile?
+### How do I use the Livelier Perks profile?
 
 It's a little complicated because I can't really provide direct patches/support for this mod in a Wabbajack list, but let's go through it step by step.
 - Launch Fallout 4 through Steam.
@@ -199,7 +199,7 @@ It's okay if the perk overhaul is higher up, as long as it remains above the one
 
 ---
 
-#### How do I change my FOV?
+### How do I change my FOV?
 
 While in game, press Escape, select `Mod Config`, then head down to `Simple FOV Slider`.
 
@@ -209,7 +209,7 @@ Do note that increasing your FOV also increases the amount of objects being rend
 
 ---
 
-#### How do I cap/uncap my FPS?
+### How do I cap/uncap my FPS?
 
 In Mod Organizer, find the `High FPS Physics Fix` mod. Double click it. In the pop-up window, select the `INI Files` tab, then select the only INI listed. In the right pane, scroll down about halfway until you see `InGameFPS=`. Change the number to your liking (0 = uncapped).
 
@@ -217,7 +217,7 @@ In Mod Organizer, find the `High FPS Physics Fix` mod. Double click it. In the p
 
 ---
 
-#### When I start Magnum Opus, the game is zoomed in!
+### When I start Magnum Opus, the game is zoomed in!
 
 Windows Scaling is messing with the game. To fix this:
 
@@ -236,7 +236,7 @@ Note: Wording may not be exact, but should be similar enough.
 
 ---
 
-#### Can I turn on the option to see what I'm scrapping?
+### Can I turn on the option to see what I'm scrapping?
 
 Yeah. Open your MCM and head down to FallUI Confirm Boxes. Options are in there.
 
@@ -244,7 +244,7 @@ Yeah. Open your MCM and head down to FallUI Confirm Boxes. Options are in there.
 
 ---
 
-#### My flashlight isn't working!
+### My flashlight isn't working!
 
 If you're just starting the game and you're still in Vault 111, know that the your Pipboy flashlight will not work between the time you pick it up and the time you press the button to open the vault door. It genuinely amazes me how many people report this to me. Just press the button, it's right there.
 
@@ -266,7 +266,7 @@ Otherwise, some weapons that have flashlight attachment hijack the Pipboy flashl
 
 ---
 
-#### Can I have multiple companions at the same time?
+### Can I have multiple companions at the same time?
 
 [Heather Casdin](https://www.nexusmods.com/fallout4/mods/23273) doesn't occupy a "follower" slot, so you can have Heather + another companion. You can also have Dogmeat alongside a companion.
 
@@ -274,7 +274,7 @@ Otherwise, some weapons that have flashlight attachment hijack the Pipboy flashl
 
 ---
 
-#### I'm using two Stimpaks instead of one. What gives?
+### I'm using two Stimpaks instead of one. What gives?
 
 Sporadic issue that happens to a few users. Don't know why. There is a mod in the Optional section of Mod Organizer 2 entitled `Double Stimpak Bug Fix - Remove Stimpak Animation on Use` which will negate the issue, but will also remove the Stimpak animation on use (obviously). Enable it to fix this bug (and remove the animation...obviously).
 
@@ -282,7 +282,7 @@ Sporadic issue that happens to a few users. Don't know why. There is a mod in th
 
 ---
 
-#### I can't build anything / How do I increase settlement size?
+### I can't build anything / How do I increase settlement size?
 
 If you can't build anything in Workshop mode, odds are you're at the Build Limit (that bar in the top right). To increase your build limit, approach a workshop and press Space, then Configure Build Limit.
 
@@ -292,7 +292,7 @@ Increasing this too much can harm performance. Use at your own risk.
 
 ---
 
-#### I broke Workshop Plus and now I can't fly. What happened?
+### I broke Workshop Plus and now I can't fly. What happened?
 
 DO NOT enter Workshop Mode with a jet pack equipped. This will permanently break that jet pack's functionality.
 
@@ -300,7 +300,7 @@ DO NOT enter Workshop Mode with a jet pack equipped. This will permanently break
 
 ---
 
-#### I randomly have god mode / I take no damage or rads / my stamina doesn't drain anymore. What happened?
+### I randomly have god mode / I take no damage or rads / my stamina doesn't drain anymore. What happened?
 
 Workshop Plus didn't uninitialize, apparently. Enter workshop mode, sit tight for a few seconds, then exit workshop mode. That should fix it. Try not to open your Pipboy for a few seconds after exiting workshop mode.
 
@@ -308,7 +308,7 @@ Workshop Plus didn't uninitialize, apparently. Enter workshop mode, sit tight fo
 
 ---
 
-#### I can't seem to hurt enemies that are in power armor!
+### I can't seem to hurt enemies that are in power armor!
 
 This modlist uses a really cool mod called [Bastion](https://www.nexusmods.com/fallout4/mods/75184) that makes power armor actually prevent damage taken on a body part until the piece of armor covering that part is destroyed. This works for both you _and_ enemies. Some weapons also have built in armor penetration, mostly based on caliber (think .50 cal and 2mm EC for example).
 
@@ -316,7 +316,7 @@ This modlist uses a really cool mod called [Bastion](https://www.nexusmods.com/f
 
 ---
 
-#### Why are feral ghouls so hard to kill?
+### Why are feral ghouls so hard to kill?
 
 They're basically zombies. Go for the head. Other body parts have a pretty high damage resistance.
 
@@ -334,7 +334,7 @@ They're basically zombies. Go for the head. Other body parts have a pretty high 
 <br>
 
 ---
-#### My game crashes when I launch from MO2. Help!
+### My game crashes when I launch from MO2. Help!
 
 Make sure you disable any overlays - most notably, Medal.TV seems to cause this crash frequently for those with that program.
 
@@ -344,7 +344,7 @@ The other most common cause is an Antivirus (not Windows Defender; a third party
 
 ---
 
-#### My characters have black/brown/tan/bugged faces. What happened?
+### My characters have black/brown/tan/bugged faces. What happened?
 
 First, ensure you do NOT have the High Definition DLC active in Steam. If you don't, then quite frankly, the so-called "Black Face Bug" can happen randomly. Saving and reloading should fix it. You can also use the console to disable then enable the NPC with the bug. Most common cause is fast traveling, which will force the game to load a lot of stuff at once, and NPCs tend to get kinda left behind. But regardless, it's pretty random.
 
@@ -352,7 +352,7 @@ First, ensure you do NOT have the High Definition DLC active in Steam. If you do
 
 ---
 
-#### I am having random crashes. What do I do?
+### I am having random crashes. What do I do?
 
 First, please make sure the crashes are repeatable. There is very little I can do for one-off crashes. Chalk those up to "shit happens."
 
@@ -374,7 +374,7 @@ If you've been unable to diagnose your issue after all that, feel free to upload
 
 ---
 
-#### Does Magnum Opus have Ultrawide Support?
+### Does Magnum Opus have Ultrawide Support?
 
 No. I don't own an Ultrawide monitor. Some of the other people playing this list do, and one of them [wrote this guide](https://docs.google.com/document/d/1EbZ_DpyhctsrpBlylDYc2TXtm1NAOjkcYjRCNZsC958/edit) for their own Ultrawide setup. I make no guarantees on how accurate or up-to-date this information is, and I cannot help you troubleshoot any issues that arise from using an Ultrawide. This will not void official support, but I do expect you to learn how to utilize your own hardware. I can't do it for you.
 
@@ -382,7 +382,7 @@ No. I don't own an Ultrawide monitor. Some of the other people playing this list
 
 ---
 
-#### I'm having problems downloading files in Wabbajack, how do I fix it?
+### I'm having problems downloading files in Wabbajack, how do I fix it?
 
 If the files that Wabbajack is getting stuck on are base game files, you should make sure to follow **all** the [Pre-Installation instructions in the README](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#pre-installation).
 
@@ -398,7 +398,7 @@ If you're getting a lot of "unable to download" errors in Wabbajack outside of t
 
 ---
 
-#### Any support for Linux?
+### Any support for Linux?
 
 No. I'm told you have to disable MCM Booster. Other than that, there is a linux-support channel in the [Wabbajack Discord](https://discord.gg/wabbajack). I'd recommend heading there. Omni really knows his stuff.
 
@@ -418,7 +418,7 @@ No. I'm told you have to disable MCM Booster. Other than that, there is a linux-
 
 ---
 
-#### Are achievements enabled?
+### Are achievements enabled?
 
 Yes.
 
@@ -426,7 +426,7 @@ Yes.
 
 ---
 
-#### Hey Lively, is there a reason ... ?
+### Hey Lively, is there a reason ... ?
 
 No matter how this question ends, the answer is the same: Because I want to, or because I didn't want to.
 
@@ -434,7 +434,7 @@ No matter how this question ends, the answer is the same: Because I want to, or 
 
 ---
 
-#### Can I buy you a drink?
+### Can I buy you a drink?
 
 [Yep.](https://www.patreon.com/nicholasjae)
 
