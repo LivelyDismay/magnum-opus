@@ -151,6 +151,7 @@ Changelog not final, all subject to change based on testing.
 - Magnum Opus now runs on Fallout 4 v1.11.240 (AE).
 - A few neato things are being lost to the fact that we're potentially updating to the latest version of Fallout 4, and some script extender plugins don't exist for that version. So if you're asking "Lively, why are you removing Photo Mode, I like that mod," you can safely assume the answer is because it doesn't work on AE. Just writing this here to hopefully save us both some time.
 - Changed the map marker icon for Breakheart Banks because it always bothered me that it has an icon typically reserved for settlements and I never remembered to do anything about it until today.
+- It's getting more and more difficult to avoid AI slop bullshit mods. I don't mind people using AI as long as they understand the output without blindly trusting it, but man, it's getting hard to know who those people are. To that end, some of the mods here are flagged as AI Generated, but they come from people I know can read the code. I will continue my refusal to support anything that's purely blind slop. A potentially soon-to-be-outdated view, sure, but one I stand by. AI has its uses, but it shouldn't be a substitute for the creative process. If you don't agree, you can play...literally any other FO4 list out there, everything else I've seen has a ton of slop in it.
 
 ---
 
