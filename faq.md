@@ -5,15 +5,16 @@
 - [Hotkeys?](#hotkeys)
 - [Controller support?!?](#controller-support)
 
-#### ⚙️ Modlist & Versioning Info
+#### ⚙️ Editing the List
 - [What version of Fallout 4 does this list use?](#what-version-of-fallout-4-does-this-list-use)
 - [Load order? / What mods are in this list?](#load-order--what-mods-are-in-this-list)
 - [Can I add an ENB? Character presets? Cheat Terminal? Can I update mods? Remove mods?](#can-i-add-an-enb-character-presets-cheat-terminal-can-i-update-mods-remove-mods)
+- [Can I adjust Community Shaders' settings?](#can-i-adjust-community-shaders-settings)
+- [Does Magnum Opus have Upscaling and/or FrameGen?](#does-magnum-opus-have-upscaling-andor-framegen)
 
 #### 🛠️ In-Game Configuration & Mechanics
-- [My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!](#my-pipboy-is-inaccessible--invisible--showing-random-stuff-i-dont-want-to-see--something-is-wrong-fix-it)
 - [How do I repair Power Armor?](#how-do-i-repair-power-armor)
-- [How do I use the Livelier Perks profile?](#how-do-i-use-the-livelier-perks-profile)
+- [What is the Livelier Perks profile? How do I use it?](#what-is-the-livelier-perks-profile-how-do-i-use-it)
 - [How do I change my FOV?](#how-do-i-change-my-fov)
 - [How do I cap/uncap my FPS?](#how-do-i-capuncap-my-fps)
 - [When I start Magnum Opus, the game is zoomed in!](#when-i-start-magnum-opus-the-game-is-zoomed-in)
@@ -30,6 +31,8 @@
 - [Why are feral ghouls so hard to kill?](#why-are-feral-ghouls-so-hard-to-kill)
 
 #### 🚨 Technical Troubleshooting & Bugs
+- [Do I have to follow safe saving practices?](#do-i-have-to-follow-safe-saving-practices)
+- [My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!](#my-pipboy-is-inaccessible--invisible--showing-random-stuff-i-dont-want-to-see--something-is-wrong-fix-it)
 - [My game crashes when I launch from MO2. Help!](#my-game-crashes-when-i-launch-from-mo2-help)
 - [My characters have black/brown/tan/bugged faces. What happened?](#my-characters-have-blackbrowntanbugged-faces-what-happened)
 - [I am having random crashes. What do I do?](#i-am-having-random-crashes-what-do-i-do)
@@ -38,7 +41,10 @@
 - [Any support for Linux?](#any-support-for-linux)
 
 #### 💬 Miscellaneous
+- [How is Magnum Opus different from this other modlist I saw?](#how-is-magnum-opus-different-from-this-other-modlist-i-saw)
 - [Are achievements enabled?](#are-achievements-enabled)
+- [There are so many mods, where do I even get started?](#there-are-so-many-mods-where-do-i-even-get-started)
+- [Why are you so rude? I hear so many negative things about you.](#why-are-you-so-rude-i-hear-so-many-negative-things-about-you)
 - [Hey Lively, is there a reason ... ?](#hey-lively-is-there-a-reason--)
 - [Can I buy you a drink?](#can-i-buy-you-a-drink)
 
@@ -72,7 +78,9 @@
 - **Mouse3** - Toggle POV
 - **Mouse4** - Dodge (kinda sucks but it's a package deal with the crouch-slide so whatever)
 
-There are more keybinds listed in the MCM, in the very bottom option. I would encourage you to take note of them.
+There are more keybinds listed in the MCM, in the very bottom option. I would encourage you to take note of them. This also tells you which keybinds are from which mods, so you can change them if you so desire.
+
+Please be wary when changing keybinds. If a key is set to two functions, it will not do either thing. You'll have to resolve these issues on your own if you encounter them.
 
 [[Top]](#table-of-contents)
 
@@ -99,7 +107,7 @@ Failing all that, open the MCM Config, go to Baka Fullscreen Pipboy, and disable
 <p align="center">◆ ═════════ ⚙️ ═════════ ◆</p>
 <br>
 
-<h3 align="center">Modlist & Versioning Info</h3>
+<h3 align="center">Editing the List</h3>
 
 <br>
 <p align="center">◆ ═════════ ⚙️ ═════════ ◆</p>
@@ -109,7 +117,7 @@ Failing all that, open the MCM Config, go to Baka Fullscreen Pipboy, and disable
 
 ### What version of Fallout 4 does this list use?
 
-1.10.163. Pre-NG. Wabbajack handles the downgrade for you, so please remember to keep your Steam version on the latest update. This information is only useful for adding version-dependent mods.
+1.11.240. This is the latest version at the time of this writing. This information is only useful for adding version-dependent mods. If you are adding mods, please remember to use the Rule-11 channels in Discord if seeking support.
 
 [[Top]](#table-of-contents)
 
@@ -125,11 +133,31 @@ Failing all that, open the MCM Config, go to Baka Fullscreen Pipboy, and disable
 
 ### Can I add an ENB? Character presets? Cheat Terminal? Can I update mods? Remove mods?
 
-If you hate yourself, sure. Some people have added ENBs and reported consistent crashes, so your mileage may vary. Don't add an ENB and report bugs to me because I can't/won't help. This will void official support.
+Magnum Opus now comes with Community Shaders as of version 9.6.0. ENBs will not work, and adding one will force Community Shaders to disable itself. Do not add an ENB.
 
 If you ask about adding presets in my support channel, I'm going to give you the Rule 11 role. Why? Because 1. you're adding stuff, and 2. a lot of presets have other required mods in order to work. It's a slippery slope, and I'm extremely unwilling to deal with it. Plus, frankly, adding presets is the easiest thing in the world, so if you're asking how to do it, you obviously haven't bothered trying to do anything for yourself, and I'm not here to hold your hand.
 
 You can update and remove whatever you want, but this will void any official support. Sometimes I [write guides on how to do these things](https://github.com/LivelyDismay/Learn-To-Mod/wiki).
+
+[[Top]](#table-of-contents)
+
+---
+
+### Can I adjust Community Shaders' settings?
+
+Yes. Press `End` to open Dear Modding UI and select the Community Shaders option. The `Home` section is for enabling/disabling specific features. Advanced is primarily for information. Each subsection has various settings you can adjust or toggle.
+
+The only potentially problematic setting I've come across is for Screen Space Reflections under Dynamic Cubemaps. If your water is flickering or looking like it has stripes, disable this setting. I've left it on for now as the issues with water seem to be mostly resolved with the latest version of CS, though there are times when I can see how others may still be bothered by it.
+
+Toggling any settings in the `Home` section requires you to restart the game before any changes take effect.
+
+[[Top]](#table-of-contents)
+
+---
+
+### Does Magnum Opus have Upscaling and/or FrameGen?
+
+Yes. Both are features of Community Shaders, which I've left enabled by default, against my better judgment. Like above, these can be adjusted in the Dear Modding UI (`End`) menu.
 
 [[Top]](#table-of-contents)
 
@@ -145,15 +173,7 @@ You can update and remove whatever you want, but this will void any official sup
 <p align="center">◆ ═════════ 🛠️ ═════════ ◆</p>
 <br>
 
----
 
-### My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!
-
-Open your MCM Configs, select the Baka Fullscreen Pipboy entry, and deactivate it.
-
-[[Top]](#table-of-contents)
-
----
 
 ### How do I repair Power Armor?
 
@@ -163,34 +183,31 @@ Craft Power Armor Repair Kits at the Engineering Workbench, or purchase them fro
 
 ---
 
-### How do I use the Livelier Perks profile?
+### What is the Livelier Perks profile? How do I use it?
 
-It's a little complicated because I can't really provide direct patches/support for this mod in a Wabbajack list, but let's go through it step by step.
-- Launch Fallout 4 through Steam.
-- Open the Creations storefront.
-- Download Livelier Perks.
-- Close Fallout 4.
-- Back in Steam, in your Library tab, right-click on `Fallout 4`.
-- Navigate to `Manage > Browse local files`. This will open a Windows Explorer.
-- Double click the `Data` folder.
-- Scroll down until you find `livckperkoverhaulfinalihope.esp` and select it. You do not need the ba2 for Magnum Opus. You can delete it if you wish to keep your game folder clean.
-- Copy (ctrl+c) or Cut (ctrl+x) this file.
-- In Magnum Opus' Mod Organizer 2, change the profile at the top from `Magnum Opus` to `Magnum Opus - Livelier Perks`.
-- Scroll to the bottom of the mods in the left pane, and go to the section labeled `Lively's VC Shenanigans`.
-- Inside that section, you'll see a mod called `Livelier Perks`. Right-click this mod and select `Open in Explorer`.
-- Paste (ctrl+v) the file you copied/cut a few moments ago.
-- Back in Mod Organizer 2, press F5 to refresh the program.
-- Scroll down to the bottom of the Plugins list on the right to make sure `LivCKPerkOverhaulFinalIHope.esp` is active.
-  - Your Plugins need to be sorted by Priority here. This is the default setting, so no need to do anything. But if you changed it, then change it back to Priority.
-- Back in the left pane of Mod Organizer 2, activate the next mod below Livelier Perks, entitled `Sorter - Livelier Perks Profile`.
-- Enjoy the game.
+I'm a part of Bethesda's Verified Creator program. This means I can release mods on their storefront.
 
-I know it sounds like a lot, but it seriously takes like 30 seconds. I'm just writing this to be as foolproof as possible. And thanks for your support!
+[Livelier Perks](https://creations.bethesda.net/en/fallout4/details/3b19ee36-06b9-45cb-985c-fd1720636d99/Livelier_Perks) is a mod I made for that program. Magnum Opus has a secondary profile to support this mod if you choose to purchase it. If you try to use this profile without Livelier Perks, the game will just crash, so please stick to the regular profile until you decide to purchase this.
 
-The bottom of your Plugins pane should look like this:  
-![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/lppluginorder.png)  
+If you choose to do this, launch Magnum Opus as you normally would and select the Creation Club menu option. Find Livelier Perks, buy it, and download it, then exit the game.
 
-It's okay if the perk overhaul is higher up, as long as it remains above the ones in the screenshot.
+Back in Mod Organizer 2, make sure the left pane is sorted by "Priority." In the left pane, scroll all the way down until you see `Overwrite`. Right click on `Overwrite` and select `Open in Explorer`. Select the files named `LivCKPerkOverhaulFinalIHope` (there will be an .esp and a .ba2 file), then press Control+X to Cut them.
+
+Back in MO2, just above the `Overwrite` section from earlier, there is a mod called `[NoDelete] Livelier Perks`. Right click this and open in explorer, then press Control+V to paste the files into here.
+
+Back in MO2, click on `Profile` at the top and change it to `Magnum Opus - Livelier Perks`.
+
+I know it sounds like a lot, but it seriously takes like 30 seconds. I'm just writing this to be as foolproof as possible.
+
+Enjoy the game, and thank you for your support.
+
+[[Top]](#table-of-contents)
+
+---
+
+### Can I swap profiles mid-save?
+
+Probably not. Sorry. That would be quite problematic. You *might* be able to get away with it via using Livelier Perks to reset your perk chart, but I have not tested this and wouldn't recommend it.
 
 [[Top]](#table-of-contents)
 
@@ -200,7 +217,7 @@ It's okay if the perk overhaul is higher up, as long as it remains above the one
 
 While in game, press Escape, select `Mod Config`, then head down to `Simple FOV Slider`.
 
-Do note that increasing your FOV also increases the amount of objects being rendered on screen at once, which could potentially result in a drop in performance.
+Do note that increasing your FOV also increases the amount of objects being rendered on screen at once, which could potentially result in a drop in performance. Changing your FOV may also result in buggy See-Through-Scopes. Consider yourself warned.
 
 [[Top]](#table-of-contents)
 
@@ -208,7 +225,7 @@ Do note that increasing your FOV also increases the amount of objects being rend
 
 ### How do I cap/uncap my FPS?
 
-In Mod Organizer, find the `High FPS Physics Fix` mod. Double click it. In the pop-up window, select the `INI Files` tab, then select the only INI listed. In the right pane, scroll down about halfway until you see `InGameFPS=`. Change the number to your liking (0 = uncapped).
+In Mod Organizer, find the `High FPS Physics Fix` mod. If you can't find it, look at the box that says `Filter` in the bottom of the Mod Organizer 2 window and start typing the name of the mod. Once you find it, double click it. In the pop-up window, select the `INI Files` tab, then select the only INI listed. In the right pane, scroll down about halfway until you see `InGameFPS=`. Change the number to your liking (0 = uncapped).
 
 [[Top]](#table-of-contents)
 
@@ -235,7 +252,7 @@ Note: Wording may not be exact, but should be similar enough.
 
 ### Can I turn on the option to see what I'm scrapping?
 
-Yeah. Open your MCM and head down to FallUI Confirm Boxes. Options are in there.
+Yes. Open your MCM and head down to `FallUI - Confirm Boxes`, then the Workshop tab. Options are in there. You're looking for the `Skip dialog` setting under the `Scrap entity` header.
 
 [[Top]](#table-of-contents)
 
@@ -315,7 +332,7 @@ This modlist uses a really cool mod called [Bastion](https://www.nexusmods.com/f
 
 ### Why are feral ghouls so hard to kill?
 
-They're basically zombies. Go for the head. Other body parts have a pretty high damage resistance.
+They're basically zombies. Go for the head. Other body parts have a pretty high damage resistance. Explosions also work well.
 
 [[Top]](#table-of-contents)
 
@@ -331,11 +348,29 @@ They're basically zombies. Go for the head. Other body parts have a pretty high 
 <br>
 
 ---
+
+### Do I have to follow safe saving practices?
+
+Oh boy. [Here we go again.](https://github.com/LivelyDismay/magnum-opus/blob/main/safesaving.md)
+
+[[Top]](#table-of-contents)
+
+---
+
+### My Pipboy is inaccessible / invisible / showing random stuff I don't want to see / something is wrong. Fix it!
+
+Open your MCM Configs, select the Baka Fullscreen Pipboy entry, and deactivate it.
+
+[[Top]](#table-of-contents)
+
+---
 ### My game crashes when I launch from MO2. Help!
 
 Make sure you disable any overlays - most notably, Medal.TV seems to cause this crash frequently for those with that program.
 
 The other most common cause is an Antivirus (not Windows Defender; a third party antivirus like AVG, BitDefender, Kapersky, Webroot, etc). Disable those or exclude MO2/scriptextender/etc.
+
+If you swapped to the Livelier Perks profile and you don't own Livelier Perks, then the game will instantly crash.
 
 [[Top]](#table-of-contents)
 
@@ -381,7 +416,10 @@ No. I don't own an Ultrawide monitor. Some of the other people playing this list
 
 ### I'm having problems downloading files in Wabbajack, how do I fix it?
 
+
 If the files that Wabbajack is getting stuck on are base game files, you should make sure to follow **all** the [Pre-Installation instructions in the README](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#pre-installation).
+
+If you're getting a lot of "unable to download" errors in Wabbajack outside of the base game files and the files mentioned above, or Wabbajack is saying it failed to find a Nexus login token, then log out of Nexus within Wabbajack, then log back in. Once you've done that, close and reopen Wabbajack, then try downloading the modlist again.
 
 The most common files that fail to download through Wabbajack are as follows:
 - [More Hairstyles - Beards](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
@@ -389,15 +427,13 @@ The most common files that fail to download through Wabbajack are as follows:
 
 Download these files manually, paste them into your `downloads` folder that you specified for Wabbajack, then rerun the installation.
 
-If you're getting a lot of "unable to download" errors in Wabbajack outside of the base game files and the files mentioned above, or Wabbajack is saying it failed to find a Nexus login token, then log out of Nexus within Wabbajack, then log back in. Once you've done that, close and reopen Wabbajack, then try downloading the modlist again.
-
 [[Top]](#table-of-contents)
 
 ---
 
 ### Any support for Linux?
 
-No. I'm told you have to disable MCM Booster. Other than that, there is a linux-support channel in the [Wabbajack Discord](https://discord.gg/wabbajack). I'd recommend heading there. Omni really knows his stuff.
+No. There is a linux-support channel in the [Wabbajack Discord](https://discord.gg/wabbajack). I'd recommend heading there. Omni really knows his stuff.
 
 [[Top]](#table-of-contents)
 
@@ -415,6 +451,24 @@ No. I'm told you have to disable MCM Booster. Other than that, there is a linux-
 
 ---
 
+### How is Magnum Opus different from this other modlist I saw?
+
+Well, the short answer is, I don't really know. I have very little idea of what goes on with other lists. I prefer to stay in my own little corner and mind my own business.
+
+I do catch wind of things on occasion though, so I guess the long answer is more fragmented:
+
+- I avoid AI slop bullshit whenever possible. Magnum Opus will never have vibe coded plugins from people I don't trust can read and troubleshoot the code. So any of those magic-sounding mods that people like Asciimov make are out of the question.
+- I patch and test extensively. This is a passion project. It's not a door into anything else. It's not something I aim to monetize. It's not a portfolio piece. I've been working on this list since 2020 with no breaks. Even if the list isn't being actively updated, I still do support every single day. Every. Single. Day. Because I genuinely just want you to have a good time. But most importantly, I want me to have a good time. And for me to have a good time, the list needs to be the best it can be. This means I have to check every record, every cell, every door, every tree, every line of dialogue...just everything. It also means I don't abandon my modlist then only come back to it when it's convenient for me to do so.
+- I don't steal shit from other people or scam users out of money. There has never been a single instance of me taking credit for someone else's work, or spamming so many micro-patches on Nexus and scamming them for so many Donation Points that the owners had to revamp the entire system. I've never tried to use my "position" to scam people for money. There was a time I relied heavily on donations, and I'm grateful I was able to do so, but even then, I've always said to take care of yourselves first. 
+
+If you're ever mildly curious about some behind-the-curtains type of look into this list, pop open the `Lively's Patches` folder and see what's in there. That's years of work in one folder, none of which is on Nexus. If they were, I'd probably make thousands of dollars more from Donation Points, but it just doesn't seem like the right thing to do, so here it stays, a Magnum Opus exclusive.
+
+And if you're reading this and think I'm talking about you, you're probably right. If not, then enjoy the list. It's the best one there is by a long shot.
+
+[[Top]](#table-of-contents)
+
+---
+
 ### Are achievements enabled?
 
 Yes.
@@ -423,9 +477,29 @@ Yes.
 
 ---
 
+### There are so many mods, where do I even get started?
+
+Once you exit the Vault, you will be prompted to apply the MCM Preset. Please do this. You'll also have a quest enabled by default with a marker that's like five feet away from you. This leads you to the Beginners Guide Terminal, which I keep updated with tips on what to do and where to go in the early game.
+
+Other than that, I try to make the modlist as cohesive as possible. I don't like when things stand out and are very obviously "modded content," so I would simply encourage you to explore naturally and let things happen as they may. Play like you've never seen this world before; you're sure to find lots of new things. 
+
+[[Top]](#table-of-contents)
+
+---
+
 ### Hey Lively, is there a reason ... ?
 
 No matter how this question ends, the answer is the same: Because I want to, or because I didn't want to.
+
+[[Top]](#table-of-contents)
+
+---
+
+### Why are you so rude? I hear so many negative things about you.
+
+I've been making this modlist for about six years now. I've done free support that whole time. I've met a countless number of people from all walks of life. I've learned most people are rude, selfish, and treat me like an IT employee, despite the fact that this is entirely a volunteer project from me.
+
+As such, I have learned to be as straight to the point with my responses as I can be until I get a better grasp of what type of person you are. You'll warm up to me, I'm sure of it. Eventually.
 
 [[Top]](#table-of-contents)
 
