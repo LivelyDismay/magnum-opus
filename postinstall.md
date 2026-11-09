@@ -89,7 +89,7 @@ At this point, I'd recommend restarting your PC. It's been through a lot! Give i
 
 Launch ModOrganizer.exe from inside your installation folder (the one you chose for the modlist when you first installed it via the Wabbajack app). There's a big bar on the right side that says `F4SE`. Next to it is a big button that says `RUN`. This is how you will launch the game from now on. **You need to launch the game in this exact way every time in order to play with the installed mods.**
 
-The first launch may take a few minutes. A lot of data is being opened, parsed, and cached. Future launches should be a bit quicker. Please be patient.
+The first launch may take a few minutes, especially after the 9.6 update. The first launch has to compile shaders, cell offset cache, and some stuff for grass. Please just be patient. Subsequent launches will not be such a hassle.
 
 [[Top]](#table-of-contents)
 
@@ -97,7 +97,7 @@ The first launch may take a few minutes. A lot of data is being opened, parsed, 
 
 ### A Few Quick Notes
 
-- If you want to use the optional profile with my VC mods, please [reference this section of the FAQ](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md#how-do-i-use-the-livelier-perks-profile) for details on how to do that.
+- If you want to use the optional profile with [Livelier Perks](https://creations.bethesda.net/en/fallout4/details/3b19ee36-06b9-45cb-985c-fd1720636d99/Livelier_Perks) mods, please [reference this section of the FAQ](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md#what-is-the-livelier-perks-profile-how-do-i-use-it) for details on how to do that.
 - Papa Lively has a lot of cats. Your support would be immensely appreciated. I have a [Patreon](https://www.patreon.com/c/nicholasjae) and a [Ko-fi](https://ko-fi.com/livelymods) if you'd like to leave a buck or two.
 - It is recommended that you leave Vault 111 prior to reporting any issues to me. Please.
 - Sometimes the game can scale in odd ways. Please [read the FAQ](https://github.com/LivelyDismay/magnum-opus/blob/main/faq.md#when-i-start-magnum-opus-the-game-is-zoomed-in) to resolve this issue, and to help with any other frequently asked questions about the modlist.
@@ -114,6 +114,8 @@ You'll get this pop-up on character creation. Just Enable All and call it a day.
 ### Prebuilt Settlement System
 
 **If this is your first time playing Sim Settlements 2, I do not recommend enabling this option.**
+
+**This option can also be very heavy on performance in settlements, depending on which City Plans are randomly chosen.**
 
 Sim Settlements 2 provides the option to allow many settlements to start with a city plan in place. If you don't know what this means, it is probably best not to initialize this system. This will make it a little more difficult to gain control of many settlements, and will limit your ability to manually build in those settlements until you gain ownership of them.
 
@@ -169,6 +171,8 @@ If you are joining the Discord for support, please make sure to read the rules o
 ### Donate
 
 I accept donations via [Patreon](https://www.patreon.com/nicholasjae), [Ko-fi](https://ko-fi.com/livelymods), and Venmo (@Nicholas-Jae). Your generosity is appreciated immensely.
+
+You can also support me by purchasing [Livelier Perks](https://creations.bethesda.net/en/fallout4/details/3b19ee36-06b9-45cb-985c-fd1720636d99/Livelier_Perks). There's even an alternate profile for Magnum Opus to use this Creation.
 
 I also accept [nice comments](https://discord.gg/livelymods). They help get me through the day...
 
