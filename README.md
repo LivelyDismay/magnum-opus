@@ -32,7 +32,7 @@
 
 Magnum Opus is one of the oldest premade modlists available for any game, which means there have been thousands of hours of work put into this. It is extremely stable, extremely fun, and packed with loads of new content for you to enjoy.
 
-Magnum Opus runs on a downgraded version of Fallout 4. The downgrade is handled for you by Wabbajack; you do not have to do anything. This also means Magnum Opus does **not** use the Next-Gen update, and will not contain any Creation Club mods whatsoever. This includes the Anniversary Edition content and the Creation Content bundle - they won't be included any time soon, if ever.
+Magnum Opus runs on the latest version of Fallout 4, but does not include, require, or support the $20 Anniversary Edition DLC bundle. It is unlikely that it ever will. This bundle isn't great, and honestly it's like 90% paint swaps anyway. You're not missing much.
 
 **I do not play Survival Mode.** This list is not meant for Survival Mode. I will not help you with Survival Mode. You will almost certainly encounter issues if you ignore this warning and play in Survival Mode. **I will not help you with those issues.** If you want to play Survival Mode, I urge you to play a different list.
 
@@ -55,17 +55,6 @@ Is Magnum Opus for you? I don't know, but [this video might help you decide](htt
 ### Pre-Installation
 
 You need a legal copy of the latest version of Fallout 4 through **Steam** (not GOG, not Epic), with all DLCs as listed in Steam **EXCEPT** the High Definition DLC. The High Definition DLC is garbage and should not be used in any case ever. **You also do NOT need to own the Creation bundle that was released alongside Anniversary Edition.**
-
-Here's how that works:
-<details>
-You update Fallout 4 in Steam to the latest version.
-Wabbajack looks for Fallout 4 and finds it based on your registry (which is why you launch the game once prior to installing) and the file hashes (unique identifiers that tell Wabbajack which versions of the files you have).
-
-Since Wabbajack is looking for one specific version, it will only work with the latest update.
-Wabbajack then reads the files in my Stock Game folder (which are the previous Fallout 4 version), identifies those hashes, compares them to the hashes of the files it found in Steam, and "patches" the Steam files into the Stock Game files.
-
-So what does this mean, in a nutshell? It means you need the latest version of Fallout 4 to install Magnum Opus. It also means Magnum Opus does not yet use the content from the update. This likely will not happen for several months (if ever), due to the nature of how these updates work.
-</details>
 
 These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#updating).
 
@@ -116,7 +105,7 @@ Launch Wabbajack. The exe will download the rest of the program from Github and 
 
 Set the `Installation Location` to a blank folder at the root of a drive, such as `D:\Magnum Opus`. The `Download Location` will update automatically. Again, please avoid using Windows Protected Directories. **You may have the Installation and Download locations on separate drives if you prefer, but your Installation folder should be on an SSD or NVME.** If you have the Installation on an HDD, you will experience stuttering and poor performance.
 
-You may delete the Downloads folder after the installation is completed successfully, if you want to save space.
+You may delete the Downloads folder after the installation is completed successfully, if you want to save space. When updating the list, Wabbajack will scan your installed files and should only download what's needed for an update, so you should not have to redownload every file again later.
 
 It's always a good idea to make sure you're logged in to Nexus via Wabbajack's settings. Might even want to log out then log back in, just to be sure it didn't expire.
 
@@ -243,5 +232,7 @@ If you are joining the Discord for support, please make sure to read the rules o
 ## Donate
 
 Donations can be made via [Patreon](https://www.patreon.com/nicholasjae), [Ko-fi](https://ko-fi.com/livelymods), or Venmo (@Nicholas-Jae). Even $1/month makes a world of difference if enough people do it.
+
+You can also support me by purchasing [Livelier Perks](https://creations.bethesda.net/en/fallout4/details/3b19ee36-06b9-45cb-985c-fd1720636d99/Livelier_Perks). There's even an alternate profile for Magnum Opus to use this Creation.
 
 [[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
