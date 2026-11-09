@@ -12,6 +12,7 @@ Changelog not final, all subject to change based on testing.
 - BNS Trees Only
 - Commonwealth Encounter Director - F4SE
 - CSEP Presents - Detour - New Town and Quest Mod
+- CSEP Presents - Under The STARS - Dungeon and Quest Mod
 - Dear Modding UI
 - Dialogue NPCs Can Have Eye and Lip Movements While Lying in Bed - F4SE
 - Disable Companion Collision AE (F4SE)
