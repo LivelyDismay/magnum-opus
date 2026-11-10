@@ -101,6 +101,7 @@ Changelog not final, all subject to change based on testing.
 - Cell Offset Generator
 - Commonwealth Ballistics - Penetration System - F4SE
 - Commonwealth Camera - F4SE
+- Community Fixes Merged
 - Crafting Highlight Fix
 - Deadeye
 - DirectHit
