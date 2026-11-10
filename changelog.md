@@ -82,6 +82,7 @@ Changelog not final, all subject to change based on testing.
 - Unique Raider Gangs And Patrols 2 - Nightmare Edition
 - Unique Raider Gang Patrols - No Features Items or Deliverer
 - Vertibird Jump
+- Visible Favorites - F4SE
 - Wildergrowth - Grasses and Groundcovers
 - ZP's Flora - Green Worlds
 
