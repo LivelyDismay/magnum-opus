@@ -54,6 +54,7 @@ Changelog not final, all subject to change based on testing.
 - Better Notes
 - CCCleaner
 - Clarity - A Visual Overhaul
+- CompanionControlBooster
 - Custom Camera
 - Custom Camera - FOV Slider compatibility patch
 - Disable Companion Collision
