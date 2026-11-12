@@ -1,3 +1,17 @@
+2026/11/12
+
+Version 9.6.1
+
+**REMOVED**
+
+- No More Perk Popups - Silent Perks
+
+**NOTES**
+
+- Resolves an issue with per icon pop-ups.
+
+---
+
 2026/11/11
 
 Version 9.6.0
