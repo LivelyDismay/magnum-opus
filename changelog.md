@@ -162,6 +162,7 @@ Changelog not final, all subject to change based on testing.
 - Fixed a countless number of grammatical issues from both Detour and Under the Stars.
 - Fixed minigun positioning that was causing misalignment with muzzle flash.
 - New Bodyslide output.
+- Prebuilt settlements are no longer available via pop-up during the intro.
 
 ---
 
