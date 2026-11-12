@@ -91,6 +91,8 @@ Launch ModOrganizer.exe from inside your installation folder (the one you chose 
 
 The first launch may take a few minutes, especially after the 9.6 update. The first launch has to compile shaders, cell offset cache, and some stuff for grass. Please just be patient. Subsequent launches will not be such a hassle.
 
+It's possible you'll get the "Three cheers for the wanderers!" pop-up again. If Fallout 4 downloads more content, it will be deposited into the `Overwrite` folder in Mod Organizer 2. **Delete everything it downloads.** Everything we need has already been pulled from your Steam install by Wabbajack.
+
 [[Top]](#table-of-contents)
 
 ---
