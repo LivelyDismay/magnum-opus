@@ -1,10 +1,8 @@
-WIP
+2026/11/11
 
 Version 9.6.0
 
 New save required.
-
-Changelog not final, all subject to change based on testing.
 
 **ADDED**
 
