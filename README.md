@@ -82,7 +82,11 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 #### Clean Fallout 4
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Fallout 4` folder in `Documents/My Games/`. **Make sure you run the game once** to establish your registry path - otherwise, Wabbajack will be unable to locate the game directory, and thus cannot install the modlist.
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Fallout 4` folder in `Documents/My Games/`. 
+
+#### Launch the Game from Steam
+
+**Make sure you run the game once** to establish your registry path - otherwise, Wabbajack will be unable to locate the game directory, and thus cannot install the modlist. You'll get some pop-ups on the main menu ("Three cheers for the wanderers!", etc) which will prompt the game to auto-download some content from Bethesda. Allow it to do so. Do not alt-tab out of the game during this process. Once the downloads are finished, close the game.
 
 [[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
 
