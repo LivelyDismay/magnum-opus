@@ -4,12 +4,12 @@
 #### ⌨️ Controls & Keybinds
 - [Hotkeys?](#hotkeys)
 - [Controller support?!?](#controller-support)
+- [Can I adjust Community Shaders' settings?](#can-i-adjust-community-shaders-settings)
 
 #### ⚙️ Editing the List
 - [What version of Fallout 4 does this list use?](#what-version-of-fallout-4-does-this-list-use)
 - [Load order? / What mods are in this list?](#load-order--what-mods-are-in-this-list)
 - [Can I add an ENB? Character presets? Cheat Terminal? Can I update mods? Remove mods?](#can-i-add-an-enb-character-presets-cheat-terminal-can-i-update-mods-remove-mods)
-- [Can I adjust Community Shaders' settings?](#can-i-adjust-community-shaders-settings)
 - [Does Magnum Opus have Upscaling and/or FrameGen?](#does-magnum-opus-have-upscaling-andor-framegen)
 
 #### 🛠️ In-Game Configuration & Mechanics
@@ -103,6 +103,18 @@ Failing all that, open the MCM Config, go to Baka Fullscreen Pipboy, and disable
 
 ---
 
+### Can I adjust Community Shaders' settings?
+
+Yes. Press `End` to open Dear Modding UI and select the Community Shaders option. The `Home` section is for enabling/disabling specific features. Advanced is primarily for information. Each subsection has various settings you can adjust or toggle.
+
+The only potentially problematic setting I've come across is for Screen Space Reflections under Dynamic Cubemaps. If your water is flickering or looking like it has stripes, disable this setting. I've left it on for now as the issues with water seem to be mostly resolved with the latest version of CS, though there are times when I can see how others may still be bothered by it.
+
+Toggling any settings in the `Home` section requires you to restart the game before any changes take effect.
+
+[[Top]](#table-of-contents)
+
+---
+
 <br>
 <p align="center">◆ ═════════ ⚙️ ═════════ ◆</p>
 <br>
@@ -117,7 +129,7 @@ Failing all that, open the MCM Config, go to Baka Fullscreen Pipboy, and disable
 
 ### What version of Fallout 4 does this list use?
 
-1.11.240. This is the latest version at the time of this writing. This information is only useful for adding version-dependent mods. If you are adding mods, please remember to use the Rule-11 channels in Discord if seeking support.
+1.11.240. This is the latest version at the time of this writing. This information is only useful for adding version-dependent mods. If you are adding mods, please remember to use the Rule-11 channels in [Discord](https://discord.gg/livelymods) if seeking support.
 
 [[Top]](#table-of-contents)
 
@@ -138,18 +150,6 @@ Magnum Opus now comes with Community Shaders as of version 9.6.0. ENBs will not 
 If you ask about adding presets in my support channel, I'm going to give you the Rule 11 role. Why? Because 1. you're adding stuff, and 2. a lot of presets have other required mods in order to work. It's a slippery slope, and I'm extremely unwilling to deal with it. Plus, frankly, adding presets is the easiest thing in the world, so if you're asking how to do it, you obviously haven't bothered trying to do anything for yourself, and I'm not here to hold your hand.
 
 You can update and remove whatever you want, but this will void any official support. Sometimes I [write guides on how to do these things](https://github.com/LivelyDismay/Learn-To-Mod/wiki).
-
-[[Top]](#table-of-contents)
-
----
-
-### Can I adjust Community Shaders' settings?
-
-Yes. Press `End` to open Dear Modding UI and select the Community Shaders option. The `Home` section is for enabling/disabling specific features. Advanced is primarily for information. Each subsection has various settings you can adjust or toggle.
-
-The only potentially problematic setting I've come across is for Screen Space Reflections under Dynamic Cubemaps. If your water is flickering or looking like it has stripes, disable this setting. I've left it on for now as the issues with water seem to be mostly resolved with the latest version of CS, though there are times when I can see how others may still be bothered by it.
-
-Toggling any settings in the `Home` section requires you to restart the game before any changes take effect.
 
 [[Top]](#table-of-contents)
 
