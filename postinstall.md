@@ -11,7 +11,6 @@
   - [AMD Users](#amd-users---particularly-people-with-a-9070-gpu---please-do-this-or-you-will-crash-a-lot)
   - [Launching the Game](#launching-the-game)
   - [A Few Quick Notes](#a-few-quick-notes)
-  - [Prebuilt Settlement System](#prebuilt-settlement-system)
   - [In-Game MCM Options](#in-game-mcm-options)
   - [Contact](#contact)
   - [Donate](#donate)
@@ -110,35 +109,6 @@ You'll get this pop-up on character creation. Just Enable All and call it a day.
 ![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/fo4faststartoptions.png)
 
 [[Top]](#table-of-contents)
-
----
-
-### Prebuilt Settlement System
-
-**If this is your first time playing Sim Settlements 2, I do not recommend enabling this option.**
-
-**This option can also be very heavy on performance in settlements, depending on which City Plans are randomly chosen.**
-
-Sim Settlements 2 provides the option to allow many settlements to start with a city plan in place. If you don't know what this means, it is probably best not to initialize this system. This will make it a little more difficult to gain control of many settlements, and will limit your ability to manually build in those settlements until you gain ownership of them.
-
-**You can always approach any workbench and select the Manage option to claim any workshops in the game, if you so choose.**
-
-After character creation, you'll start in your cryopod in Vault 111. You'll quickly get this pop-up:  
-![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart01.png)
-
-This option allows Sim Settlements 2 to start Prebuilding settlements. You can choose either one. If you choose No, settlements will not be prebuilt and you can skip to the MCM Options section further down this page. If you choose Yes, you can carry on as normal until you receive the next pop-up in a few minutes:  
-![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart02.png)
-
-Feel free to go through the options if you want to change things. Personally, I like setting a random percentage on some options. **If there is a settlement you prefer manually building in, add it to the list of excluded settlements. We generally recommend using Starlight Drive-In as a starter settlement, and thus to exclude it from the prebuilt system.** This will have no impact on your ability to build your own settlements in the future (or tear them down, or replace the city plans, etc).
-
-Next, you'll get this pop-up:  
-![alt text](https://github.com/LivelyDismay/magnum-opus/blob/main/images/ss2prebuiltstart03.png)
-
-Again, up to you, but I'd recommend starting the system. This will give the prebuilt settlements some settlers.
-
-You are free to leave the vault and play as normal from here. You'll have a status bar in the top right corner of your screen detailing how far along the prebuild system is, and another pop-up when it's all done.
-
-Please note: navmesh in settlements is only properly updated after you leave the area so the cells can become completely unloaded. Until you do so, it is likely you'll see settlers just standing in one spot and not really doing anything. This cannot be fixed, it's just how the engine handles these things.
 
 ---
 
