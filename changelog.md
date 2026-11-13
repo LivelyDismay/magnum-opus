@@ -8,7 +8,7 @@ Version 9.6.1
 
 **NOTES**
 
-- Resolves an issue with per icon pop-ups.
+- Resolves an issue with perk icon pop-ups.
 
 ---
 
