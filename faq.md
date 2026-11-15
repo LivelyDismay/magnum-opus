@@ -215,9 +215,9 @@ Probably not. Sorry. That would be quite problematic. You *might* be able to get
 
 ### How do I change my FOV?
 
-While in game, press Escape, select `Mod Config`, then head down to `Simple FOV Slider`.
+You shouldn't. Changing FOV can potentially break See-Through-Scopes, and cause performance issues (wider field of view = more stuff to render = fewer frames).
 
-Do note that increasing your FOV also increases the amount of objects being rendered on screen at once, which could potentially result in a drop in performance. Changing your FOV may also result in buggy See-Through-Scopes. Consider yourself warned.
+If you insist: while in game, press Escape, select `Mod Config`, then head down to `Simple FOV Slider`.
 
 [[Top]](#table-of-contents)
 
