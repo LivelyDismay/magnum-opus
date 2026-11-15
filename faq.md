@@ -5,6 +5,7 @@
 - [Hotkeys?](#hotkeys)
 - [Controller support?!?](#controller-support)
 - [Can I adjust Community Shaders' settings?](#can-i-adjust-community-shaders-settings)
+- [This injury system is bullshit. Can I turn it off?](#this-injury-system-is-bullshit-can-i-turn-it-off)
 
 #### ⚙️ Editing the List
 - [What version of Fallout 4 does this list use?](#what-version-of-fallout-4-does-this-list-use)
@@ -36,6 +37,8 @@
 - [My game crashes when I launch from MO2. Help!](#my-game-crashes-when-i-launch-from-mo2-help)
 - [My characters have black/brown/tan/bugged faces. What happened?](#my-characters-have-blackbrowntanbugged-faces-what-happened)
 - [I am having random crashes. What do I do?](#i-am-having-random-crashes-what-do-i-do)
+- [I'm having random freezes. What can I do?](#im-having-random-freezes-what-can-i-do)
+- [AI told me to do this to fix my issue. Should I do it?](#ai-told-me-to-do-this-to-fix-my-issue-should-i-do-it)
 - [Does Magnum Opus have Ultrawide Support?](#does-magnum-opus-have-ultrawide-support)
 - [I'm having problems downloading files in Wabbajack, how do I fix it?](#im-having-problems-downloading-files-in-wabbajack-how-do-i-fix-it)
 - [Any support for Linux?](#any-support-for-linux)
@@ -43,6 +46,7 @@
 #### 💬 Miscellaneous
 - [How is Magnum Opus different from this other modlist I saw?](#how-is-magnum-opus-different-from-this-other-modlist-i-saw)
 - [Are achievements enabled?](#are-achievements-enabled)
+- [Everything is too dark or too bright or I don't like this or that or whatever. Help me change it.](#everything-is-too-dark-or-too-bright-or-i-dont-like-this-or-that-or-whatever-help-me-change-it)
 - [There are so many mods, where do I even get started?](#there-are-so-many-mods-where-do-i-even-get-started)
 - [Why are you so rude? I hear so many negative things about you.](#why-are-you-so-rude-i-hear-so-many-negative-things-about-you)
 - [Hey Lively, is there a reason ... ?](#hey-lively-is-there-a-reason--)
@@ -115,6 +119,14 @@ Toggling any settings in the `Home` section requires you to restart the game bef
 
 ---
 
+### This injury system is bullshit. Can I turn it off?
+
+It's turned off when you apply the MCM preset. Please apply the MCM preset.
+
+[[Top]](#table-of-contents)
+
+---
+
 <br>
 <p align="center">◆ ═════════ ⚙️ ═════════ ◆</p>
 <br>
@@ -129,7 +141,7 @@ Toggling any settings in the `Home` section requires you to restart the game bef
 
 ### What version of Fallout 4 does this list use?
 
-1.11.240. This is the latest version at the time of this writing. This information is only useful for adding version-dependent mods. If you are adding mods, please remember to use the Rule-11 channels in [Discord](https://discord.gg/livelymods) if seeking support.
+1.11.240. This is the latest version at the time of this writing (November 2026). This information is only useful for adding version-dependent mods. If you are adding mods, please remember to use the Rule-11 channels in [Discord](https://discord.gg/livelymods) if seeking support.
 
 [[Top]](#table-of-contents)
 
@@ -148,6 +160,8 @@ Toggling any settings in the `Home` section requires you to restart the game bef
 Magnum Opus now comes with Community Shaders as of version 9.6.0. ENBs will not work, and adding one will force Community Shaders to disable itself. Do not add an ENB.
 
 If you ask about adding presets in my support channel, I'm going to give you the Rule 11 role. Why? Because 1. you're adding stuff, and 2. a lot of presets have other required mods in order to work. It's a slippery slope, and I'm extremely unwilling to deal with it. Plus, frankly, adding presets is the easiest thing in the world, so if you're asking how to do it, you obviously haven't bothered trying to do anything for yourself, and I'm not here to hold your hand.
+
+Cheat terminal will break some precombines, and besides, half (or more) of what that mod does is already implemented in the list. Adding Cheat Terminal is a stupid thing to do.
 
 You can update and remove whatever you want, but this will void any official support. Sometimes I [write guides on how to do these things](https://github.com/LivelyDismay/Learn-To-Mod/wiki).
 
@@ -406,6 +420,22 @@ If you've been unable to diagnose your issue after all that, feel free to upload
 
 ---
 
+### I'm having random freezes. What can I do?
+
+I can't really do anything with that. You'll have to identify a pattern as to when/why your game freezes so I can replicate the problem. Without that, there's nothing I can possibly troubleshoot or fix.
+
+[[Top]](#table-of-contents)
+
+---
+
+### AI told me to do this to fix my issue. Should I do it?
+
+No, and I won't respond to any support queries that include such a statement. God knows what else you've already done. Rerun the installer to reset your installation, replicate the issue, then ask for help.
+
+[[Top]](#table-of-contents)
+
+---
+
 ### Does Magnum Opus have Ultrawide Support?
 
 No. I don't own an Ultrawide monitor. Some of the other people playing this list do, and one of them [wrote this guide](https://docs.google.com/document/d/1EbZ_DpyhctsrpBlylDYc2TXtm1NAOjkcYjRCNZsC958/edit) for their own Ultrawide setup. I make no guarantees on how accurate or up-to-date this information is, and I cannot help you troubleshoot any issues that arise from using an Ultrawide. This will not void official support, but I do expect you to learn how to utilize your own hardware. I can't do it for you.
@@ -472,6 +502,14 @@ And if you're reading this and think I'm talking about you, you're probably righ
 ### Are achievements enabled?
 
 Yes.
+
+[[Top]](#table-of-contents)
+
+---
+
+### Everything is too dark or too bright or I don't like this or that or whatever. Help me change it.
+
+No.
 
 [[Top]](#table-of-contents)
 
