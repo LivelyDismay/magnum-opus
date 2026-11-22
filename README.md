@@ -125,7 +125,16 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 - **I'm having problems downloading a few files**
 
-The most common files that fail to download through Wabbajack are as follows:
+It seems some users have issues downloading a file called `ccOTMFO4001-Remnants.esl`. If this happens to you:
+- Go to Fallout 4 in your Steam Library.
+- Right click > Manage > Browse Local Files.
+- Find the `ccOTMFO4001-Remnants.esl` file and delete it.
+- Back in your Steam Library, right click Fallout 4 again and select Properties.
+- Navigate to the Installed Files tab and click the Verify Integrity of Game Files button.
+- When it finishes downloading, launch the game again (just the launcher is fine, no need to actually go in-game).
+- Try the Wabbajack installer again. Should work now.
+
+These files haven't been a problem for a long time, but I'll leave this here just in case. If you have issues with MediaFire downloads, here are direct links to the two Magnum Opus uses:
 - [More Hairstyles - Beards](http://www.mediafire.com/file/iztz7iidy6djz1e/MoreHairstyles-Beards.rar/file)
 - [Misc Hairstyles 1.6](http://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z/file)
 
