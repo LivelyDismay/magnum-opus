@@ -9,7 +9,7 @@ Version 9.6.2
 
 **NOTES**
 
-- This fixes a crash that could occur when entering the Far Harbor worldspace. Thanks for user Half Pint Taken on discord for reporting and confirming this.
+- This fixes a crash that could occur when entering the Far Harbor worldspace. Thanks to user Half Pint Taken on discord for reporting and confirming this.
 - Ultrawide support section has been removed. As it stated previously, I do not own ultrawide hardware, and thus cannot assist with it. Due to the multiple people reporting that the provided ultrawide support no longer works, it has been removed until someone wishes to write a corrected guide for it.
 - Added small section to the readme in regards to ccOTMFO4001-Remnants.esl under the [Problems with Wabbajack](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#problems-with-wabbajack) section.
 
