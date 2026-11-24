@@ -195,38 +195,9 @@ I've been doing this for a while now, so [I've compiled the most common question
 
 ## Widescreen Support
 
-I don't own a widescreen monitor, so I can't help directly. I don't mind you guys helping each other though, obviously. A generous discord user did write this for you:
+I don't own a widescreen monitor, so I can't help directly. I don't mind you guys helping each other though, obviously.
 
-For everyone using an ultra wide monitor with ratios 32:9 or 21:9 (3840×1080 / 5120×1440 / 3440×1440 / 2560 × 1080), here is the fix for a bulk of the most serious problems, such as not being able to distribute stats and name your character, or not being able to properly use the TAB menu.
-
-The issue is fixed by using one of the two mods, based on your aspect ratio:  
-- 32:9 [Super Ultra Wide Interface 32:9](https://www.nexusmods.com/fallout4/mods/56363)  
-- 21:9 [Ultra Wide Interface 21:9](https://www.nexusmods.com/fallout4/mods/65677)  
-
-**YOU NEED THE NON-NEXT-GEN VERSION of whichever widescreen mod you're using.**
-
-Installing is a 3 step process, copy the inputs below.
-
-Step 1:  
-- XDI (Extended Dialogue Interface)  
-- Another Mod  
-- LooksMenu  
-- Companion Command Menu Overhaul  
-- Prewar Binoculars  
-
-Step 2:
-- FallUI - Inventory  
-- FallUI - Workbench  
-- FallUI - Confirm Boxes  
-- FallUI - Sleep and Wait Menu  
-- Vanilla  
-
-Step 3:  
-- (choose preference)  
-- FallUI - HUD  
-- (choose preference)  
-- MCM Booster  
-- (choose preference)  
+As of version 9.6, the previous guide listed here was reported to cause crashes. If someone wants to write an updated ultrawide guide, I'd be happy to post it here.
 
 [[Top]](https://github.com/LivelyDismay/magnum-opus/blob/main/README.md#table-of-contents)
 
