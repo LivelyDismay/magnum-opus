@@ -438,7 +438,9 @@ No, and I won't respond to any support queries that include such a statement. Go
 
 ### Does Magnum Opus have Ultrawide Support?
 
-No. I don't own an Ultrawide monitor. Some of the other people playing this list do, and one of them [wrote this guide](https://docs.google.com/document/d/1EbZ_DpyhctsrpBlylDYc2TXtm1NAOjkcYjRCNZsC958/edit) for their own Ultrawide setup. I make no guarantees on how accurate or up-to-date this information is, and I cannot help you troubleshoot any issues that arise from using an Ultrawide. This will not void official support, but I do expect you to learn how to utilize your own hardware. I can't do it for you.
+I don't own a widescreen monitor, so I can't help directly. I don't mind you guys helping each other though, obviously.
+
+As of version 9.6, the previous guide listed here was reported to cause crashes. If someone wants to write an updated ultrawide guide, I'd be happy to post it here.
 
 [[Top]](#table-of-contents)
 
