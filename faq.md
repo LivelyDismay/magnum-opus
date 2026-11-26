@@ -39,6 +39,7 @@
 - [I am having random crashes. What do I do?](#i-am-having-random-crashes-what-do-i-do)
 - [I'm having random freezes. What can I do?](#im-having-random-freezes-what-can-i-do)
 - [AI told me to do this to fix my issue. Should I do it?](#ai-told-me-to-do-this-to-fix-my-issue-should-i-do-it)
+- [There is something in my Overwrite folder and Mod Organizer 2 has a warning about it. What should I do?](#there-is-something-in-my-overwrite-folder-and-mod-organizer-2-has-a-warning-about-it-what-should-i-do)
 - [Does Magnum Opus have Ultrawide Support?](#does-magnum-opus-have-ultrawide-support)
 - [I'm having problems downloading files in Wabbajack, how do I fix it?](#im-having-problems-downloading-files-in-wabbajack-how-do-i-fix-it)
 - [Any support for Linux?](#any-support-for-linux)
@@ -433,6 +434,14 @@ You can try disabling some features from Community Shaders (outlined higher up i
 ### AI told me to do this to fix my issue. Should I do it?
 
 No, and I won't respond to any support queries that include such a statement. God knows what else you've already done. Rerun the installer to reset your installation, replicate the issue, then ask for help.
+
+[[Top]](#table-of-contents)
+
+---
+
+### There is something in my Overwrite folder and Mod Organizer 2 has a warning about it. What should I do?
+
+Nothing. 
 
 [[Top]](#table-of-contents)
 
