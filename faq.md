@@ -424,6 +424,8 @@ If you've been unable to diagnose your issue after all that, feel free to upload
 
 I can't really do anything with that. You'll have to identify a pattern as to when/why your game freezes so I can replicate the problem. Without that, there's nothing I can possibly troubleshoot or fix.
 
+You can try disabling some features from Community Shaders (outlined higher up in this FAQ) and toggling grass ugrids from generation to strict in the MCM.
+
 [[Top]](#table-of-contents)
 
 ---
